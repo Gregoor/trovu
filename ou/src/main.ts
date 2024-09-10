@@ -27,8 +27,12 @@ if (localStorage.getItem("etags") !== etags) {
 
 const searchParams = new URLSearchParams(location.hash.slice(1));
 const query = searchParams.get("query") ?? "";
-const [queryPrefix, queryRest] = query.split(" ", 2);
-const args = (queryRest ?? "").split(",").map((arg) => arg.trim());
+const [queryPrefix, ...queryRest] = query.split(" ");
+console.log({ queryRest });
+const args = queryRest
+  .join(" ")
+  .split(",")
+  .map((arg) => arg.trim());
 
 const key = `${queryPrefix.toLowerCase()} ${args.length}`;
 const storedItem = localStorage.getItem(key);
