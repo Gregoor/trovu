@@ -11,7 +11,7 @@ const shortcutKeys = [...config.namespaces, `.${config.country}`];
 
 const namespaces = await Promise.all(
   shortcutKeys.map(async (key) => {
-    const res = await fetch(`/data/shortcuts/${key}.json`);
+    const res = await fetch(`data/shortcuts/${key}.json`);
     return { key, etag: res.headers.get("etag"), parse: () => res.json() };
   }),
 );
