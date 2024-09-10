@@ -2,6 +2,9 @@ name: "node"
 description: "Node.js & pnpm setup"
 runs:
   using: "composite"
+  defaults:
+    run:
+      working-directory: ou
   steps:
     - uses: actions/setup-node@v3
       with:
