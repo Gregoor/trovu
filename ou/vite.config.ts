@@ -1,1 +1,1 @@
-export default { build: { target: "esnext" } };
+export default { base: "trovu", build: { target: "esnext" } };
