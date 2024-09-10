@@ -35,8 +35,8 @@ jobs:
         name: Install pnpm
         id: pnpm-install
         with:
-          version: 9.9.0
-
+          run_install: |
+            - cwd: ou
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3
         with:
