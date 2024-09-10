@@ -28,7 +28,6 @@ if (localStorage.getItem("etags") !== etags) {
 const searchParams = new URLSearchParams(location.hash.slice(1));
 const query = searchParams.get("query") ?? "";
 const [queryPrefix, ...queryRest] = query.split(" ");
-console.log({ queryRest });
 const args = queryRest
   .join(" ")
   .split(",")
@@ -36,9 +35,8 @@ const args = queryRest
 
 const key = `${queryPrefix.toLowerCase()} ${args.length}`;
 const storedItem = localStorage.getItem(key);
-if (storedItem) {
-  const item = JSON.parse(storedItem) as { url: string };
-
+const item = storedItem ? (JSON.parse(storedItem) as { url?: string }) : null;
+if (item?.url) {
   const localURL = item.url.replaceAll("<$language>", config.language);
   const params = [...new Set(localURL.match(ARG_REGEX) ?? [])];
 
