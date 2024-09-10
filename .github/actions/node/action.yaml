@@ -2,27 +2,27 @@ name: "node"
 description: "Node.js & pnpm setup"
 runs:
   using: "composite"
-  defaults:
-    run:
-      working-directory: ou
   steps:
     - uses: actions/setup-node@v3
       with:
         node-version: "18.x"
         registry-url: "https://registry.npmjs.org"
     - uses: pnpm/action-setup@v4
+      working-directory: ou
       name: Install pnpm
       id: pnpm-install
       with:
         run_install: false
 
     - name: Get pnpm store directory
+      working-directory: ou
       id: pnpm-cache
       shell: bash
       run: |
         echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
 
     - uses: actions/cache@v3
+      working-directory: ou
       name: Setup pnpm cache
       with:
         path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
@@ -31,5 +31,6 @@ runs:
           ${{ runner.os }}-pnpm-store-
 
     - name: Install dependencies
+      working-directory: ou
       shell: bash
       run: pnpm install
