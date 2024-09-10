@@ -1,0 +1,22 @@
+{
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=ru&q=<artist>"
+  },
+  "wsl 1": {
+    "url": "https://corpora.uni-leipzig.de/de/res?corpusId=rus_mixed_2013&word=<слово>"
+  },
+  "ya 1": {
+    "url": "https://yandex.ru/yandsearch?text=<query>"
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/russian"
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/russian",
+    "include": "ygl 0"
+  }
+}

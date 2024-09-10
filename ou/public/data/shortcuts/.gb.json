@@ -1,0 +1,79 @@
+{
+  "a 0": {
+    "url": "https://www.amazon.co.uk?tag=serchilo-20"
+  },
+  "a 1": {
+    "url": "https://www.amazon.co.uk/s?k=<query>&linkCode=ll2&tag=serchilo-20",
+    "include": "a 0"
+  },
+  "e 0": {
+    "url": "https://www.ebay.co.uk/?mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "e 1": {
+    "url": "https://www.ebay.co.uk/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=<query>&_sacat=0&mkcid=1&mkrid=710-53481-19255-0&siteid=3&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "g 1": {
+    "url": "https://www.google.co.uk/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/gb/search?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "nr 0": {
+    "url": "https://www.nationalrail.co.uk/"
+  },
+  "nr 2": {
+    "url": "https://www.nationalrail.co.uk/journey-planner/?type=single&origin=<from code>&destination=<to code>&leavingType=departing&leavingHour=<$now: {output: HH}>&leavingMin=00&leavingDate=<$now: {output: DDMMYY}>&adults=1&extraTime=0#O",
+    "include": "nr 0"
+  },
+  "nr 3": {
+    "url": "https://www.nationalrail.co.uk/journey-planner/?type=single&origin=<from code>&destination=<to code>&leavingType=departing&leavingHour=<time: {type: time, output: HH}>&leavingMin=00&leavingDate=<$now: {output: DDMMYY}>&adults=1&extraTime=0#O",
+    "include": "nr 0"
+  },
+  "nr 4": {
+    "url": "https://www.nationalrail.co.uk/journey-planner/?type=single&origin=<from code>&destination=<to code>&leavingType=departing&leavingHour=<time: {type: time, output: HH}>&leavingMin=00&leavingDate=<date: {type: date, output: DDMMYY}>&adults=1&extraTime=0#O",
+    "include": "nr 0"
+  },
+  "tfl 0": {
+    "url": "https://tfl.gov.uk/"
+  },
+  "tfl 2": {
+    "url": "https://tfl.gov.uk/plan-a-journey/results?InputFrom=<from>&InputTo=<to>",
+    "include": "tfl 0"
+  },
+  "tfl 3": {
+    "url": "https://tfl.gov.uk/plan-a-journey/results?InputFrom=<from>&InputTo=<to>&Time=<time: {type: date, output: HHmm }>",
+    "include": "tfl 0"
+  },
+  "tl 2": {
+    "deprecated": {
+      "alternative": {
+        "query": "ttl <1>, <2>"
+      },
+      "created": "2024-04-25"
+    }
+  },
+  "tl 4": {
+    "deprecated": {
+      "alternative": {
+        "query": "ttl <1>, <2>, <3>, <4>"
+      },
+      "created": "2024-04-25"
+    }
+  },
+  "ttl 2": {
+    "url": "https://www.thetrainline.com/buytickets/combinedmatrix.aspx?Command=TimeTable#Journey/<from>/<to>/<$now: {output: DD/MM/YY/HH/mm}>/Leave%20After//////Leave%20After/1/0//"
+  },
+  "ttl 4": {
+    "url": "https://www.thetrainline.com/buytickets/combinedmatrix.aspx?Command=TimeTable#Journey/<from>/<to>/<date>/<time>/Leave%20After//////Leave%20After/1/0//"
+  },
+  "tv 0": {
+    "url": "https://www.tvguide.co.uk/"
+  },
+  "zal 1": {
+    "url": "https://www.zalando.co.uk/catalog/?q=<product>"
+  }
+}

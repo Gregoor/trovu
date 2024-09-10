@@ -1,0 +1,122 @@
+{
+  "camb-en 1": {
+    "url": "https://dictionary.cambridge.org/dictionary/english/<word>"
+  },
+  "cia 0": {
+    "url": "https://www.cia.gov/the-world-factbook/"
+  },
+  "cia 1": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&domains=cia.gov&sitesearch=cia.gov&btnI=1&q=intitle%3Afactbook%20<country>"
+  },
+  "cliff 0": {
+    "url": "https://www.cliffsnotes.com/"
+  },
+  "cliff 1": {
+    "url": "https://www.cliffsnotes.com/search?q=<query>"
+  },
+  "cong 1": {
+    "url": "https://www.google.com/search?hl=de&ie=utf-8&lr=lang_en&q=<word>%20-site%3Adict.cc%20-site%3Adictionary.reference.com%20-site%3Awoxikon.de%20-site%3Amerriam-webster.com%20-site%3Awordreference.com%20-site%3Ababylon.com%20-site%3Aanswers.com%20-site%3Awiktionary.org%20-site%3Awissen.de%20-site%3Awoerterbuch.info%20-site%3Aflexidict.de%20-site%3Avocabulix.com%20-site%3Aespanien.de%20-site%3Alinternaute.com%20-site%3Amediadico.com%20-site%3Athefreedictionary.com%20-site%3Aenglish-test.net%20-site%3Ayourdictionary.com%20-site%3Adict.tu-chemnitz.de%20-site%3Adictionary.cambridge.org%20-site%3Agoenglish.com%20-site%3Alinguee.de%20-site%3Areverso.net%20-site%3Astudent-online.net%20-site%3Areference.com%20-site%3Awordwebonline.com%20-site%3Aaudioenglish.net"
+  },
+  "dei 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.de <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "dict 1": {
+    "url": "https://dictionary.reference.com/browse/<query>"
+  },
+  "edram 0": {
+    "url": "https://encyclopediadramatica.gay/"
+  },
+  "edram 1": {
+    "url": "https://encyclopediadramatica.gay/Special:Search?go=Article&search=<article>"
+  },
+  "esi 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.es <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "esp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.es <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "frp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "gfp 0": {
+    "url": "https://german-foreign-policy.com/en/"
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=en&q=<artist>"
+  },
+  "mw 1": {
+    "url": "https://www.merriam-webster.com/dictionary/<query>"
+  },
+  "mwt 1": {
+    "url": "https://www.merriam-webster.com/thesaurus/<query>"
+  },
+  "ox 1": {
+    "url": "https://en.oxforddictionaries.com/definition/<word>"
+  },
+  "oxford 1": {
+    "url": "https://www.oxforddictionaries.com/definition/english/<query>"
+  },
+  "sta 0": {
+    "url": "http://start.csail.mit.edu/"
+  },
+  "sta 1": {
+    "url": "http://start.csail.mit.edu/answer.php?query=<question>"
+  },
+  "syn 1": {
+    "url": "https://thesaurus.com/browse/<word>"
+  },
+  "uvi 0": {
+    "url": "https://verbs.colorado.edu/verb-index/vn3.3"
+  },
+  "uvi 1": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://verbs.colorado.edu/verb-index/vn3.3/search.php&txtSearchRequest=<query>"
+  },
+  "wk 0": {
+    "url": "https://www.wordnik.com/"
+  },
+  "wk 1": {
+    "url": "https://www.wordnik.com/words/<word>"
+  },
+  "wordnik 1": {
+    "url": "https://www.wordnik.com/words/<word>"
+  },
+  "wsl 1": {
+    "url": "https://corpora.uni-leipzig.de/de/res?word=<word>&corpusId=eng-uk_web_2002"
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/english",
+    "description": "Search for a word mentioned in videos of top YouTube speakers naturally pronouncing the word in context."
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/english",
+    "include": "ygl 0"
+  },
+  "youglish 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "ygl <1>"
+      },
+      "created": "2024-05-15"
+    }
+  }
+}

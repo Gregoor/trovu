@@ -1,0 +1,35 @@
+{
+  "dep 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.de <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "dle 1": {
+    "url": "https://dle.rae.es/?w=<palabra>"
+  },
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=es&q=<artist>"
+  },
+  "rae 1": {
+    "url": "https://dle.rae.es/?w=<query>",
+    "description": "Relevant for spanish language, but as it shows the official and latest rules, should be interesting for all."
+  },
+  "raed 1": {
+    "url": "https://www.rae.es/dpd/<query>",
+    "description": "A Spanish dictionary with the goal of resolving questions related to the proper use of the Spanish language"
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/spanish"
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/spanish",
+    "include": "ygl 0"
+  }
+}

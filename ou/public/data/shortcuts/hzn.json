@@ -1,0 +1,26 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-no 0": {
+    "url": "https://www.heinzelnisse.info/"
+  },
+  "de-no 1": {
+    "url": "https://www.heinzelnisse.info/no/dict?searchItem=<word>"
+  },
+  "no 0": {
+    "include": "no-<$language> 0"
+  },
+  "no 1": {
+    "include": "no-<$language> 1"
+  },
+  "no-de 0": {
+    "include": "de-no 0"
+  },
+  "no-de 1": {
+    "include": "de-no 1"
+  }
+}

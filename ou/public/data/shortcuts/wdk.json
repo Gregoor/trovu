@@ -1,0 +1,26 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-ja 0": {
+    "url": "http://www.wadoku.de/"
+  },
+  "de-ja 1": {
+    "url": "http://www.wadoku.de/wadoku/search/<word>"
+  },
+  "ja 0": {
+    "include": "ja-<$language> 0"
+  },
+  "ja 1": {
+    "include": "ja-<$language> 1"
+  },
+  "ja-de 0": {
+    "include": "de-ja 0"
+  },
+  "ja-de 1": {
+    "include": "de-ja 1"
+  }
+}

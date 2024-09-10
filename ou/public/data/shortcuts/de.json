@@ -1,0 +1,885 @@
+{
+  "1und1 0": {
+    "url": "https://www.1und1.de/login"
+  },
+  "abk 1": {
+    "url": "https://www.abkuerzungen.de/result.php?language=&abbreviation=<Abkürzung>"
+  },
+  "anagramm 1": {
+    "url": "https://www.sibiller.de/anagramme/cgi-bin/CallWP.cgi?text=<Suche>&pre=&anz=5&max=12&min=2&typ=1&log=1&submit=+++++++Generator+starten%21++++++"
+  },
+  "ardmt 0": {
+    "url": "https://www.ardmediathek.de/"
+  },
+  "ardmt 1": {
+    "url": "https://www.ardmediathek.de/suche/<Suchbegriff>",
+    "include": "ardmt 0"
+  },
+  "ardtext 1": {
+    "url": "https://www.ard-text.de/index.php?page=<Seitennummer>"
+  },
+  "at 1": {
+    "url": "https://www.ostarrichi.org/suche?search=<Wort>"
+  },
+  "awf 1": {
+    "url": "https://anderes-wort-fuer.de/<Wort>/"
+  },
+  "awort 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "awf <1>"
+      },
+      "created": "2023-01-10"
+    }
+  },
+  "base 1": {
+    "url": "https://www.base-search.net/Search/Results?lookfor=<Suche>"
+  },
+  "bbs 1": {
+    "url": "https://www.babyblaue-seiten.de/index.php?searchQuery=<Suche>&content=search&searchWhere=0&content=search"
+  },
+  "bc 1": {
+    "url": "https://www.bestcheck.de/search?q=<Suche>"
+  },
+  "bk 1": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://www.buchkatalog.de/kod-bin/isuche.cgi&quicksearch=<Suche>"
+  },
+  "bl 1": {
+    "url": "https://www.google.de/search?q=<Suche>+site:www.chip.de%2Fbestenlisten"
+  },
+  "bla 1": {
+    "url": "https://www.buffed.de/?f=<suchwort>"
+  },
+  "blb 0": {
+    "url": "https://www.booklooker.de/app/sec/login.php"
+  },
+  "blb 1": {
+    "url": "https://www.booklooker.de/app/result.php?mediaType=0&sortOrder=preis_total&autor=<Autor>"
+  },
+  "blb 2": {
+    "url": "https://www.booklooker.de/app/result.php?mediaType=0&sortOrder=preis_total&autor=<Autor: {encoding: iso-8859-1}>&titel=<Titel: {encoding: iso-8859-1}>"
+  },
+  "bzl 1": {
+    "url": "https://www.bookzilla.de/shop/quickSearch?searchString=<Suche>"
+  },
+  "cb 0": {
+    "url": "https://www.computerbase.de/"
+  },
+  "cb 1": {
+    "url": "https://www.computerbase.de/suche/?q=<Suche>&bereich="
+  },
+  "ch 1": {
+    "url": "https://www.google.de/search?q=<Suche>+site:www.chip.de"
+  },
+  "chill 0": {
+    "url": "https://www.chilloutzone.net/"
+  },
+  "chill 1": {
+    "url": "https://www.google.de/custom?domains=chilloutzone.net&q=<Suche>&sitesearch=chilloutzone.de&sa=Google-Suche&client=pub-9587746511239945&forid=1&channel=0789999516&ie=ISO-8859-1&oe=ISO-8859-1&flav=0000&sig=2LvIwQoR9ke2veDK&cof=GALT%3A%23FF4500%3BGL%3A1%3BDIV%3A%23CCCCCC%3BVLC%3A663399%3BAH%3Acenter%3BBGC%3Affffff%3BLBGC%3A666666%3BALC%3AFF4500%3BLC%3AFF4500%3BT%3A000000%3BGFNT%3A0000FF%3BGIMP%3A0000FF%3BLH%3A50%3BLW%3A245%3BL%3Ahttp%3A%2F%2Fwww.chilloutzone.de%2Fblog%2Fimages%2Fbloghead.gif%3BS%3Ahttp%3A%2F%2Fwww.chilloutzone.de%2F%3BFORID%3A1&hl=de"
+  },
+  "chip 1": {
+    "url": "https://search.chip.de/?q=<Suche>&sort_by_date=desc"
+  },
+  "chipd 1": {
+    "url": "https://search.chip.de/?q=<Suche>&f=softwarereview"
+  },
+  "ciao 1": {
+    "url": "https://www.ciao.de/suche?anfrage=<Suche>"
+  },
+  "ck 0": {
+    "url": "https://www.chefkoch.de"
+  },
+  "ck 1": {
+    "url": "https://www.chefkoch.de/rs/s0/<Suche>/Rezepte.html"
+  },
+  "cng 1": {
+    "url": "https://www.gas-tankstellen.de/list.php?suchenach=t&land=D&lpganlage=0&mode=cng&suchkennz=<KFZ-Kennzeichen>"
+  },
+  "cook 1": {
+    "url": "https://cookidoo.de/search/de-DE?query=<Suche>"
+  },
+  "cs-de 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "cs <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "csd 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.cs <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "css 1": {
+    "url": "https://www.google.de/search?q=site%3Acss4you.de+<Suche>"
+  },
+  "dab 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.da <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "dclj 0": {
+    "url": "https://groups.google.com/forum/#!searchin/de.comp.lang.javascript/"
+  },
+  "dclj 1": {
+    "url": "https://groups.google.com/forum/#!searchin/de.comp.lang.javascript/<Suche>"
+  },
+  "dclp 0": {
+    "url": "https://groups.google.com/g/de.comp.lang.php/"
+  },
+  "dclp 1": {
+    "url": "https://groups.google.com/g/de.comp.lang.php/search?q=<Suche>"
+  },
+  "dd 1": {
+    "url": "https://www.duden.de/suchen/dudenonline/<wort>"
+  },
+  "de-cs 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "cs <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "denl 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "nl <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "dnb 1": {
+    "url": "https://portal.dnb.de/opac.htm?query=<Suche>&method=simpleSearch"
+  },
+  "dw 1": {
+    "url": "https://www.dw.com/search/de?searchNavigationId=9077&languageCode=de&origin=gN&item=<suche>"
+  },
+  "dwds 1": {
+    "url": "https://www.dwds.de/?woerterbuch=1&corpus=1&kompakt=1&qu=<Wort>"
+  },
+  "e 0": {
+    "url": "https://ebay.de"
+  },
+  "e 1": {
+    "url": "https://www.ebay.de/sch/i.html?_nkw=<suche>"
+  },
+  "eld 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.el <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "enb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "beo.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "end 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "endung 1": {
+    "url": "https://www.endungen.de/ResultList/ResultList.aspx?searchExtension=<Dateieindung>&searchPlatform=win;mac;unix;os2&searchMode=contains"
+  },
+  "eni 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.en <1>"
+      },
+      "created": "2023-03-12"
+    }
+  },
+  "enp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "es-pons 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.es <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "esb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.es <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "esd 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.es <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "esi 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.es <1>"
+      },
+      "created": "2023-03-12"
+    }
+  },
+  "esp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.es <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "fball 1": {
+    "url": "https://fireball.com/search?q=<suchbegriff>"
+  },
+  "fefe 0": {
+    "url": "https://blog.fefe.de"
+  },
+  "fefe 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=blog.fefe.de&q=<Suche>"
+  },
+  "fefecss 1": {
+    "url": "https://blog.fefe.de?css=<Style>.css"
+  },
+  "fefes 0": {
+    "url": "https://blog.fefe.de"
+  },
+  "fefes 1": {
+    "url": "https://blog.fefe.de?q=<Suche>"
+  },
+  "fefescss 1": {
+    "url": "https://blog.fefe.de?css=<Style>.css"
+  },
+  "ffr 1": {
+    "url": "https://www.filmfriend.de/de/search?search=<Suche>",
+    "tests": [
+      {
+        "arguments": "Berlin",
+        "expect": "<title>Suche - filmfriend</title>"
+      }
+    ]
+  },
+  "fmb 0": {
+    "url": "https://www.findmybook.de/"
+  },
+  "fmb 1": {
+    "url": "https://www.findmybook.de/results/?title=<Title>",
+    "include": "fmb 0"
+  },
+  "fmb 2": {
+    "url": "https://www.findmybook.de/results/?title=<Title>&author=<Autor>&type=all",
+    "include": "fmb 0"
+  },
+  "fr-pons 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "frb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "frbuch 0": {
+    "url": "https://www.franzoesisch-lehrbuch.de/grammatik/inhaltsangabe/deutsch_franzoesisch_grammatik_inhaltsverzeichnis.htm"
+  },
+  "frbuch 1": {
+    "url": "https://www.google.de/search?hl=de&q=<Suche>%20site:franzoesisch-lehrbuch.de&ie=utf-8"
+  },
+  "frd 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "fri 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.fr <1>"
+      },
+      "created": "2023-03-12"
+    }
+  },
+  "frp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "frv 1": {
+    "url": "https://de.forvo.com/search/<word>/",
+    "description": "Forvo Aussprachedatenbank, deutsches Interface"
+  },
+  "gfp 0": {
+    "url": "https://german-foreign-policy.com/"
+  },
+  "gfp 1": {
+    "url": "https://www.german-foreign-policy.com/news/archiv/detailsuche?tx_news_pi1%5B__referrer%5D%5B%40extension%5D=News&tx_news_pi1%5B__referrer%5D%5B%40controller%5D=News&tx_news_pi1%5B__referrer%5D%5B%40action%5D=searchForm&tx_news_pi1%5B__referrer%5D%5Barguments%5D=YToxOntzOjY6InNlYXJjaCI7YTozOntzOjc6InN1YmplY3QiO3M6NjoiYmVybGluIjtzOjExOiJtaW5pbXVtRGF0ZSI7czowOiIiO3M6MTE6Im1heGltdW1EYXRlIjtzOjA6IiI7fX0%3D3b9217b53b1d289bca1b4f26fd2398df277bac78&tx_news_pi1%5B__referrer%5D%5B%40request%5D=%7B%22%40extension%22%3A%22News%22%2C%22%40controller%22%3A%22News%22%2C%22%40action%22%3A%22searchForm%22%7Dd2832a7a705ce8933853e4c9a9a5a984dbceaeba&tx_news_pi1%5B__trustedProperties%5D=%7B%22search%22%3A%7B%22subject%22%3A1%2C%22minimumDate%22%3A1%2C%22maximumDate%22%3A1%7D%7D813cf46d860682b222ed4db70f7cf713def828ff&tx_news_pi1%5Bsearch%5D%5Bsubject%5D=<Suche>&tx_news_pi1%5Bsearch%5D%5BminimumDate%5D=&tx_news_pi1%5Bsearch%5D%5BmaximumDate%5D="
+  },
+  "grc 1": {
+    "url": "https://www.albertmartin.de/altgriechisch/?q=<suchwort>"
+  },
+  "gz 0": {
+    "url": "https://www.griechenland.net/"
+  },
+  "h 0": {
+    "url": "https://www.heise.de"
+  },
+  "h 1": {
+    "url": "https://www.heise.de/newsticker/suche/?rm=search&q=<Suchbegriff>"
+  },
+  "heise 0": {
+    "url": "https://www.heise.de/"
+  },
+  "heisenews 0": {
+    "url": "https://www.heise.de/newsticker"
+  },
+  "hls 1": {
+    "url": "https://hls-dhs-dss.ch/de/search/?text=<Suce>"
+  },
+  "hn 0": {
+    "url": "https://www.heise.de/newsticker"
+  },
+  "hn 1": {
+    "url": "https://www.heise.de/suche/?rm=search;q=<Suche>;channel=newsticker"
+  },
+  "hoax 1": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://hoax-info.tubit.tu-berlin.de/cgi-bin/search.pl&terms=<Suche>"
+  },
+  "hpreis 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "hpv"
+      },
+      "created": "2023-12-15"
+    }
+  },
+  "hpreis 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "hpv <1>"
+      },
+      "created": "2023-12-15"
+    }
+  },
+  "hpv 0": {
+    "url": "https://www.heise.de/preisvergleich/"
+  },
+  "hpv 1": {
+    "url": "https://www.heise.de/preisvergleich/?fs=<Produkt>",
+    "include": "hpv 0"
+  },
+  "hsoft 0": {
+    "url": "https://www.heise.de/software/"
+  },
+  "hsoft 1": {
+    "url": "https://www.heise.de/download/search?terms=<Suche>"
+  },
+  "htp 0": {
+    "url": "https://www.heise.de/tp/"
+  },
+  "hud 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.hu <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "hup 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.hu <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "hwho 1": {
+    "url": "https://www.heise.de/netze/tools?rm=whois&plugin=<URL>"
+  },
+  "ifun 1": {
+    "url": "https://www.ifun.de/suche/<Suche>"
+  },
+  "isbn 1": {
+    "url": "https://de.wikipedia.org/wiki/Spezial:ISBN-Suche/<ISBN>"
+  },
+  "itb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.it <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "itd 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.it <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "itp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.it <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "kam 1": {
+    "url": "http://kamelopedia.net/index.php?title=Special:Search&go=Article&search=<Suche>"
+  },
+  "kicker 0": {
+    "url": "https://www.kicker.de/"
+  },
+  "kicker 1": {
+    "url": "https://www.google.de/search?q=<Suche>+site:www.kicker.de"
+  },
+  "kw 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "kwdb <1>"
+      },
+      "created": "2023-04-13"
+    }
+  },
+  "kw 2": {
+    "deprecated": {
+      "alternative": {
+        "query": "kwdb <1>, <2>"
+      },
+      "created": "2023-04-13"
+    }
+  },
+  "kwdb 0": {
+    "url": "https://www.kwdb.ch/"
+  },
+  "kwdb 1": {
+    "url": "https://www.kwdb.ch/search?q=<Suche>&sourceid=serchilo",
+    "include": "kw 0"
+  },
+  "kwdb 2": {
+    "url": "https://www.kwdb.ch/search?q=<Suche>&lc=<Buchstabenanzahl>",
+    "include": "kw 0"
+  },
+  "lad 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.la <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=de&q=<artist>"
+  },
+  "leh 0": {
+    "url": "https://www.lehmanns.de/"
+  },
+  "leh 1": {
+    "url": "https://www.lehmanns.de/search/quick?q=<Suche>",
+    "include": "leh 0"
+  },
+  "leo 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "leo.en <1>"
+      },
+      "created": "2023-03-12"
+    }
+  },
+  "lobby 0": {
+    "url": "https://www.lobbycontrol.de/"
+  },
+  "lobby 1": {
+    "url": "https://www.lobbycontrol.de/suche/<Suche>/"
+  },
+  "m 1": {
+    "url": "https://metager.de/meta/meta.ger3?pers=yes&sprueche=on&lang=all&mm=and-stop&ui=de&QuickTips=yes&langfilter=yes&encoding=utf8&maps=on&focus=web&eingabe=<Suche>"
+  },
+  "mactv 1": {
+    "url": "https://www.mac-tv.de/Inc_Filmarchiv.lasso?Suchbegriff=<Suche>"
+  },
+  "morgenpost 1": {
+    "url": "https://www.morgenpost.de/suche/?q=<Suche>"
+  },
+  "mp 1": {
+    "url": "https://www.moviepilot.de/suche?q=<Suche>"
+  },
+  "nds 0": {
+    "url": "https://www.nachdenkseiten.de"
+  },
+  "nds 1": {
+    "url": "https://www.nachdenkseiten.de/?s=<Begriff>&Submit.x=0&Submit.y=0"
+  },
+  "nld 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.nl <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "nlde 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "nl <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "ntv 0": {
+    "url": "https://www.n-tv.de"
+  },
+  "ntv 1": {
+    "url": "https://www.n-tv.de/suche/?q=<Suche>&searchabout=ntv&a=search&at=all&qwg=&qw=&qa=&sdd=&sdm=&sdy=&edd=&edm=&edy="
+  },
+  "nzz 1": {
+    "url": "https://www.nzz.ch/suche?form%5Bq%5D=<Suchbegriff>"
+  },
+  "ofdb 1": {
+    "url": "https://www.ofdb.de/view.php?page=suchergebnis&SText=<Suche>"
+  },
+  "ok 1": {
+    "url": "https://otrkey.com/download/<Suche>.html"
+  },
+  "osm? 0": {
+    "url": "https://wiki.openstreetmap.org/index.php/Hauptseite"
+  },
+  "osmf 0": {
+    "url": "https://forum.openstreetmap.org/viewforum.php?id=14"
+  },
+  "ot 0": {
+    "url": "https://www.openthesaurus.de/"
+  },
+  "ot 1": {
+    "url": "https://www.openthesaurus.de/synonyme/<Wort>"
+  },
+  "ot? 0": {
+    "url": "https://www.openthesaurus.de/faq.php"
+  },
+  "plb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.pl <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "pld 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.pl <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "pli 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.pl <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "plp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.pl <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "ptb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "beo.pt <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "ptd 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.pt <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "pti 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.pt <1>"
+      },
+      "created": "2023-03-12"
+    }
+  },
+  "ptp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.pt <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "qa 1": {
+    "url": "https://lite.qwant.com/?q=<Suche>"
+  },
+  "rblcheck 1": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://rbl-check.org/rbl-quick-check/abfrage/&ipaddress=<ipaddress>"
+  },
+  "reim 1": {
+    "url": "http://www.2rhyme.ch/Reimt-auf/<Wortendung>"
+  },
+  "rezeptefuchs 0": {
+    "url": "https://www.rezeptefuchs.de/"
+  },
+  "rezeptefuchs 1": {
+    "url": "https://www.rezeptefuchs.de/Search?q=<Suche>"
+  },
+  "rgs 1": {
+    "url": "https://www.google.de/search?hl=<$language>&q=site%3Aruhrgebietssprache.de%20<Suche>&ie=utf-8"
+  },
+  "rivva 0": {
+    "url": "https://rivva.de"
+  },
+  "rivva 1": {
+    "url": "https://www.google.de/search?hl=de&q=site%3Arivva.de%20<Suche>&ie=utf-8"
+  },
+  "rm 1": {
+    "url": "https://www.pledarigrond.ch/rumantschgrischun/#searchPhrase=<pled>",
+    "description": "Dictionary German <-> Rumantsch Grischun"
+  },
+  "rub 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.ru <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "rud 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.ru <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "rundschau 1": {
+    "url": "https://www.fr.de/suche/?qr=<Suche>"
+  },
+  "rup 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.ru <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "sc 1": {
+    "url": "https://www.scienceticker.info/index.php?s=<Suche>&sc"
+  },
+  "sfr 1": {
+    "url": "https://www.stayfriends.de/sfvc/registeredSearch/do?action=registeredSearch&%3Bnotfirstdisplay=true&%3Baction=edit&%3Bneedsexplicitlogin=false&%3Bform=PersonSearch&%3Bformname=PersonSearch&%3Bsection=registered&PersonSearch.schoolid=&PersonSearch.cityid=&PersonSearch.exactMatches=&PersonSearch.offset=&PersonSearch.storedSearchid=&PersonSearch.name=<name>"
+  },
+  "sfr 2": {
+    "url": "https://www.stayfriends.de/sfvc/registeredSearch/do?action=registeredSearch&%3Bnotfirstdisplay=true&%3Baction=edit&%3Bneedsexplicitlogin=false&%3Bform=PersonSearch&%3Bformname=PersonSearch&%3Bsection=registered&PersonSearch.schoolid=&PersonSearch.cityid=&PersonSearch.exactMatches=&PersonSearch.offset=&PersonSearch.storedSearchid=&PersonSearch.name=<name>&PersonSearch.school=<Ort>"
+  },
+  "sh 0": {
+    "url": "https://wiki.selfhtml.org/"
+  },
+  "sh 1": {
+    "url": "https://wiki.selfhtml.org/index.php?search=<Suche>&title=Spezial%3ASuche&go=Seite"
+  },
+  "shg 1": {
+    "url": "https://www.google.com/search?q=<Suche>&sitesearch=wiki.selfhtml.org"
+  },
+  "spon 0": {
+    "url": "https://www.spiegel.de/"
+  },
+  "spon 1": {
+    "url": "https://www.spiegel.de/suche/?suchbegriff=<Suche>"
+  },
+  "stupi 0": {
+    "url": "https://www.stupidedia.org/"
+  },
+  "stupi 1": {
+    "url": "https://www.stupidedia.org/stupi/Special:Search?go=Article&search=<article>"
+  },
+  "svb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.sv <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "svd 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.sv <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "swb 0": {
+    "url": "http://www.schwaebisches-woerterbuch.de/"
+  },
+  "swb 1": {
+    "url": "http://www.schwaebisches-woerterbuch.de/default.asp?q=<Suchwort: {encoding: iso-8859-1}>",
+    "include": "swb 0"
+  },
+  "syn 1": {
+    "url": "https://synonyme.woxikon.de/synonyme/<wort>.php"
+  },
+  "sz 0": {
+    "url": "https://www.sueddeutsche.de/"
+  },
+  "sz 1": {
+    "url": "https://www.sueddeutsche.de/news?search=<Suche>"
+  },
+  "taz 0": {
+    "url": "https://www.taz.de/"
+  },
+  "tomdestages 0": {
+    "url": "https://www.taz.de/#!tom=tomdestages"
+  },
+  "tomshuffle 0": {
+    "url": "https://www.taz.de/#!tom=tomshuffle"
+  },
+  "tomtouche 0": {
+    "url": "https://www.taz.de/#!tom=tomdestages"
+  },
+  "trb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bab.tr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "trd 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dcc.tr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "ts 0": {
+    "url": "https://www.tagesschau.de/"
+  },
+  "ts 1": {
+    "url": "https://www.tagesschau.de/suche2.html?searchText=<Suche>"
+  },
+  "tsp 0": {
+    "url": "https://www.tagesspiegel.de/"
+  },
+  "tsp 1": {
+    "url": "https://background.tagesspiegel.de/suche?text=<Suche>"
+  },
+  "tspg 1": {
+    "url": "https://www.google.de/search?q=site:tagesspiegel.de%20<Suche>"
+  },
+  "ttb 0": {
+    "url": "https://techniktagebuch.tumblr.com/"
+  },
+  "ttb 1": {
+    "url": "https://duckduckgo.com/?q=<Suchbegriff>+site%3Atechniktagebuch.tumblr.com",
+    "include": "ttb 0"
+  },
+  "uu 0": {
+    "url": "https://www.ubuntuusers.de/"
+  },
+  "uuf 0": {
+    "url": "https://forum.ubuntuusers.de/"
+  },
+  "uuf~ 0": {
+    "url": "https://forum.ubuntuusers.de/egosearch/"
+  },
+  "uui 0": {
+    "url": "https://ikhaya.ubuntuusers.de/"
+  },
+  "uup 0": {
+    "url": "https://planet.ubuntuusers.de/"
+  },
+  "uuw 0": {
+    "url": "https://wiki.ubuntuusers.de/Startseite"
+  },
+  "wn 1": {
+    "url": "https://woerterbuchnetz.de/cgi-bin/WBNetz/startGlobalSearch.tcl?stichwort=<Suche>"
+  },
+  "wort 1": {
+    "url": "https://www.dwds.de/?qu=<Wort>&view=1"
+  },
+  "wsl 1": {
+    "url": "https://corpora.uni-leipzig.de/de/res?word=<Wort>&corpusId=deu_newscrawl_2011"
+  },
+  "wtr 0": {
+    "url": "https://www.wetter.com/"
+  },
+  "wtr 1": {
+    "url": "https://www.wetter.com/suche/?q=<Ort>",
+    "include": "wtr 0"
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/german"
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/german",
+    "include": "ygl 0"
+  },
+  "zeit 0": {
+    "url": "https://www.zeit.de/"
+  },
+  "zeit 1": {
+    "url": "https://www.zeit.de/suche/index?searchtype=on&q=<Suche>"
+  },
+  "zv 1": {
+    "url": "https://www.zwangsversteigerung.de/suche?q=<KFZ/PLZ/Ort/Aktenzeichen/UNIKA-ID>&ergebnisZeigen=ja"
+  },
+  "zvab 0": {
+    "url": "https://www.zvab.com/"
+  },
+  "zvab 1": {
+    "url": "https://www.zvab.com/servlet/SearchResults?cm_sp=red-_-leg-_-zvab&recentlyadded=all&kn=<Suche>&ds=10",
+    "include": "zvab 0"
+  }
+}

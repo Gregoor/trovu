@@ -1,0 +1,49 @@
+{
+  "a 0": {
+    "url": "https://www.amazon.nl?tag=serchilo-20"
+  },
+  "a 1": {
+    "url": "https://www.amazon.nl/s?k=<query>&linkCode=ll2&tag=serchilo-20",
+    "include": "a 0"
+  },
+  "beslist 0": {
+    "url": "https://www.beslist.nl/"
+  },
+  "beslist 1": {
+    "url": "https://www.beslist.nl/products/r/<zoekwoorden>/"
+  },
+  "bol 1": {
+    "url": "https://www.bol.com/nl/s/algemeen/zoekresultaten/Ntt/<query>/Nty/1/N/0/Ne/0/search/true/searchType/qck/sc/media_all/index.html"
+  },
+  "e 0": {
+    "url": "https://www.ebay.nl/?mkcid=1&mkrid=1346-53482-19255-0&siteid=146&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "e 1": {
+    "url": "https://www.ebay.nl/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=<query>&_sacat=0&mkcid=1&mkrid=1346-53482-19255-0&siteid=146&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "g 1": {
+    "url": "https://www.google.nl/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "gn 1": {
+    "url": "https://www.google.de/search?ned=nl_nl&q=<query>&tbm=nws&source=lnms"
+  },
+  "ikea 0": {
+    "url": "https://www.ikea.com/nl/nl/"
+  },
+  "ikea 1": {
+    "url": "https://www.ikea.com/nl/nl/search/?q=<query>"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/nl/search?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "kenteken 1": {
+    "url": "https://publiek.vwe.nl/?txtkentekenveld=<query>"
+  },
+  "zal 1": {
+    "url": "https://www.zalando.nl/catalogus/?q=<product>"
+  }
+}

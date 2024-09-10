@@ -1,0 +1,116 @@
+{
+  "ar 0": {
+    "include": "ar-<$language> 0"
+  },
+  "ar 1": {
+    "include": "ar-<$language> 1"
+  },
+  "ar-de 0": {
+    "url": "https://www.arabdict.com/german-arabic/"
+  },
+  "ar-de 1": {
+    "url": "https://www.arabdict.com/german-arabic/<word>"
+  },
+  "ar-en 0": {
+    "url": "https://www.arabdict.com/english-arabic/"
+  },
+  "ar-en 1": {
+    "url": "https://www.arabdict.com/english-arabic/<word>"
+  },
+  "ar-es 0": {
+    "url": "https://www.arabdict.com/spanish-arabic/"
+  },
+  "ar-es 1": {
+    "url": "https://www.arabdict.com/spanish-arabic/<word>"
+  },
+  "ar-fr 0": {
+    "url": "https://www.arabdict.com/french-arabic/"
+  },
+  "ar-fr 1": {
+    "url": "https://www.arabdict.com/french-arabic/<word>"
+  },
+  "ar-it 0": {
+    "url": "https://www.arabdict.com/italian-arabic/"
+  },
+  "ar-it 1": {
+    "url": "https://www.arabdict.com/italian-arabic/<word>"
+  },
+  "ar-tr 0": {
+    "url": "https://www.arabdict.com/turkish-arabic/"
+  },
+  "ar-tr 1": {
+    "url": "https://www.arabdict.com/turkish-arabic/<word>"
+  },
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-ar 0": {
+    "include": "ar-de 0"
+  },
+  "de-ar 1": {
+    "include": "ar-de 1"
+  },
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-ar 0": {
+    "include": "ar-en 0"
+  },
+  "en-ar 1": {
+    "include": "ar-en 1"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-ar 0": {
+    "include": "ar-es 0"
+  },
+  "es-ar 1": {
+    "include": "ar-es 1"
+  },
+  "fr 0": {
+    "include": "fr-<$language> 0"
+  },
+  "fr 1": {
+    "include": "fr-<$language> 1"
+  },
+  "fr-ar 0": {
+    "include": "ar-fr 0"
+  },
+  "fr-ar 1": {
+    "include": "ar-fr 1"
+  },
+  "it 0": {
+    "include": "it-<$language> 0"
+  },
+  "it 1": {
+    "include": "it-<$language> 1"
+  },
+  "it-ar 0": {
+    "include": "ar-it 0"
+  },
+  "it-ar 1": {
+    "include": "ar-it 1"
+  },
+  "tr 0": {
+    "include": "tr-<$language> 0"
+  },
+  "tr 1": {
+    "include": "tr-<$language> 1"
+  },
+  "tr-ar 0": {
+    "include": "ar-tr 0"
+  },
+  "tr-ar 1": {
+    "include": "ar-tr 1"
+  }
+}

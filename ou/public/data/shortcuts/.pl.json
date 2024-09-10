@@ -1,0 +1,109 @@
+{
+  "a 0": {
+    "url": "https://www.amazon.pl?tag=serchilo-20"
+  },
+  "a 1": {
+    "url": "https://www.amazon.pl/s?k=<query>&linkCode=ll2&tag=serchilo-20",
+    "include": "a 0"
+  },
+  "al 0": {
+    "url": "https://allegro.pl/"
+  },
+  "al 1": {
+    "url": "https://allegro.pl/listing?string=<przedmiot>"
+  },
+  "ceneo 0": {
+    "url": "https://www.ceneo.pl/"
+  },
+  "ceneo 1": {
+    "url": "https://www.ceneo.pl/categories.aspx?search=yes&categoryID=0&searchText=<produkt>&inDesc=False&minPrice=0&maxPrice=99999999"
+  },
+  "e 0": {
+    "url": "https://www.ebay.pl/"
+  },
+  "e 1": {
+    "url": "https://www.ebay.pl/sch/i.html?_nkw=<query>"
+  },
+  "ep 2": {
+    "url": "https://www.e-podroznik.pl/public/searcherFinal.do?lang=pl&method=plain&formCompositeSearcherFinal.fromText=<start>&formCompositeSearcherFinal.toText=<cel>"
+  },
+  "ep 3": {
+    "url": "https://www.e-podroznik.pl/public/searcherFinal.do?lang=pl&method=plain&formCompositeSearcherFinal.fromText=<start>&formCompositeSearcherFinal.toText=<cel>&formCompositeSearcherFinal.time=<czas>"
+  },
+  "ep 4": {
+    "url": "https://www.e-podroznik.pl/public/searcherFinal.do?lang=pl&method=plain&formCompositeSearcherFinal.fromText=<start>&formCompositeSearcherFinal.toText=<cel>&formCompositeSearcherFinal.time=<czas>&formCompositeSearcherFinal.date=<data>"
+  },
+  "g 1": {
+    "url": "https://www.google.pl/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "gastro 2": {
+    "url": "https://www.gastronauci.pl/pl/restauracje/<miasto>?kind=<lokal/kuchnia>"
+  },
+  "ikea 0": {
+    "url": "https://www.ikea.com/pl/pl/"
+  },
+  "ikea 1": {
+    "url": "https://www.ikea.com/pl/pl/search/?q=<query>"
+  },
+  "jddw 2": {
+    "url": "https://jakdojade.pl?cid=2000&fn=<start>&tn=<cel>&as=true"
+  },
+  "jddw 3": {
+    "url": "https://jakdojade.pl?cid=2000&fn=<start>&tn=<cel>&h=<czas>&as=true"
+  },
+  "jddw 4": {
+    "url": "https://jakdojade.pl?cid=2000&fn=<start>&tn=<cel>&h=<czas>&d=<dzień>&as=true"
+  },
+  "jdpo 2": {
+    "url": "https://jakdojade.pl?cid=1000&fn=<start>&tn=<cel>&as=true"
+  },
+  "jdpo 3": {
+    "url": "https://jakdojade.pl?cid=1000&fn=<start>&tn=<cel>&h=<czas>&as=true"
+  },
+  "jdpo 4": {
+    "url": "https://jakdojade.pl?cid=1000&fn=<start>&tn=<cel>&h=<czas>&d=<dzień>&as=true"
+  },
+  "jdw 2": {
+    "url": "https://jakdojade.pl?cid=3000&fn=<start>&tn=<cel>&as=true"
+  },
+  "jdw 3": {
+    "url": "https://jakdojade.pl?cid=3000&fn=<start>&tn=<cel>&h=<czas>&as=true"
+  },
+  "jdw 4": {
+    "url": "https://jakdojade.pl?cid=3000&fn=<start>&tn=<cel>&h=<czas>&d=<dzień>&as=true"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/pl/search?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "nk 0": {
+    "url": "https://nk.pl/"
+  },
+  "nk 1": {
+    "url": "https://nk.pl/#szukaj#<nazwisko / grupa>"
+  },
+  "olx 0": {
+    "url": "https://www.olx.pl/"
+  },
+  "olx 1": {
+    "url": "https://www.olx.pl/d/oferty/q-<przedmiot>/"
+  },
+  "pkp 2": {
+    "url": "https://rozklad-pkp.pl/pl/tp?S=<start: {type: city}>!&Z=<cel: {type: city}>!&start=1&queryPageDisplayed=yes"
+  },
+  "pkp 3": {
+    "url": "https://rozklad-pkp.pl/pl/tp?S=<start: {type: city}>!&Z=<cel: {type: city}>!&T=<czas: {type: time, output: HH:mm}>&start=1&queryPageDisplayed=yes"
+  },
+  "pkp 4": {
+    "url": "https://rozklad-pkp.pl/pl/tp?S=<start: {type: city}>!&Z=<cel: {type: city}>!&T=<czas: {type: time, output: HH:mm}>&D=<data: {type: date, output: DD.MM.YYYY}>&start=1&queryPageDisplayed=yes"
+  },
+  "tm 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=teleman.pl&domains=teleman.pl&q=<szukaj>"
+  },
+  "zal 1": {
+    "url": "https://www.zalando.pl/katalog/?q=<produkt>"
+  }
+}

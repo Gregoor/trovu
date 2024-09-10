@@ -1,0 +1,26 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-nl 0": {
+    "url": "https://www.uitmuntend.de/"
+  },
+  "de-nl 1": {
+    "url": "https://www.uitmuntend.de/search.html?search=<word>"
+  },
+  "nl 0": {
+    "include": "nl-<$language> 0"
+  },
+  "nl 1": {
+    "include": "nl-<$language> 1"
+  },
+  "nl-de 0": {
+    "include": "de-nl 0"
+  },
+  "nl-de 1": {
+    "include": "de-nl 1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "cjg 1": {
+    "url": "https://www.leconjugueur.com/php/newconjugue.php?lang=fr&oblige=N&fullscreen=Y&verbe=<query>"
+  },
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "lar 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lrs <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=fr&q=<artist>"
+  },
+  "lit 1": {
+    "url": "https://www.littre.org/definition/<mot>"
+  },
+  "lrs 1": {
+    "url": "https://www.larousse.fr/dictionnaires/francais/<mot>"
+  },
+  "marmiton 0": {
+    "url": "https://www.marmiton.org/"
+  },
+  "marmiton 1": {
+    "url": "https://www.marmiton.org/recettes/recherche.aspx?aqt=<mot>"
+  },
+  "syn 1": {
+    "url": "https://www.atlas-semantiques.eu/Resultats_as.html?d=FR&l=FR&r=<mot>&m=1"
+  },
+  "tlf 1": {
+    "url": "https://www.cnrtl.fr/definition/<query>"
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/french"
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/french",
+    "include": "ygl 0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "fr-sv 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=sv&q=<artist>"
+  },
+  "rim 1": {
+    "url": "https://www.rimlexikon.se/ord/<ord>"
+  },
+  "sv-fr 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/swedish"
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/swedish",
+    "include": "ygl 0"
+  }
+}

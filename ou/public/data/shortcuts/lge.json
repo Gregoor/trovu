@@ -1,0 +1,134 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-en 0": {
+    "url": "https://www.linguee.com/english-german/"
+  },
+  "de-en 1": {
+    "url": "https://www.linguee.com/english-german/search?query=<word>"
+  },
+  "de-es 0": {
+    "url": "https://www.linguee.es/espanol-aleman/"
+  },
+  "de-es 1": {
+    "url": "https://www.linguee.es/espanol-aleman/search?query=<word>"
+  },
+  "de-fr 0": {
+    "url": "https://www.linguee.fr/francais-allemand/"
+  },
+  "de-fr 1": {
+    "url": "https://www.linguee.fr/francais-allemand/search?query=<word>"
+  },
+  "de-pl 0": {
+    "url": "https://www.linguee.de/deutsch-polnisch/"
+  },
+  "de-pl 1": {
+    "url": "https://www.linguee.de/deutsch-polnisch/search?query=<word>"
+  },
+  "de-pt 0": {
+    "url": "https://www.linguee.pt/portugues-alemao/"
+  },
+  "de-pt 1": {
+    "url": "https://www.linguee.pt/portugues-alemao/search?query=<word>"
+  },
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-de 0": {
+    "include": "de-en 0"
+  },
+  "en-de 1": {
+    "include": "de-en 1"
+  },
+  "en-es 0": {
+    "url": "https://www.linguee.com/english-spanish/"
+  },
+  "en-es 1": {
+    "url": "https://www.linguee.com/english-spanish/search?query=<word>"
+  },
+  "en-fr 0": {
+    "url": "https://www.linguee.com/english-french/"
+  },
+  "en-fr 1": {
+    "url": "https://www.linguee.com/english-french/search?query=<word>"
+  },
+  "en-pt 0": {
+    "url": "https://www.linguee.com/english-portuguese/"
+  },
+  "en-pt 1": {
+    "url": "https://www.linguee.com/english-portuguese/search?query=<word>"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-de 0": {
+    "include": "de-es 0"
+  },
+  "es-de 1": {
+    "include": "de-es 1"
+  },
+  "es-en 0": {
+    "include": "en-es 0"
+  },
+  "es-en 1": {
+    "include": "en-es 1"
+  },
+  "fr 0": {
+    "include": "fr-<$language> 0"
+  },
+  "fr 1": {
+    "include": "fr-<$language> 1"
+  },
+  "fr-de 0": {
+    "include": "de-fr 0"
+  },
+  "fr-de 1": {
+    "include": "de-fr 1"
+  },
+  "fr-en 0": {
+    "include": "en-fr 0"
+  },
+  "fr-en 1": {
+    "include": "en-fr 1"
+  },
+  "pl 0": {
+    "include": "pl-<$language> 0"
+  },
+  "pl 1": {
+    "include": "pl-<$language> 1"
+  },
+  "pl-de 0": {
+    "include": "de-pl 0"
+  },
+  "pl-de 1": {
+    "include": "de-pl 1"
+  },
+  "pt 0": {
+    "include": "pt-<$language> 0"
+  },
+  "pt 1": {
+    "include": "pt-<$language> 1"
+  },
+  "pt-de 0": {
+    "include": "de-pt 0"
+  },
+  "pt-de 1": {
+    "include": "de-pt 1"
+  },
+  "pt-en 0": {
+    "include": "en-pt 0"
+  },
+  "pt-en 1": {
+    "include": "en-pt 1"
+  }
+}

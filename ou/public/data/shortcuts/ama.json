@@ -1,0 +1,26 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-la 0": {
+    "url": "https://www.albertmartin.de/latein/"
+  },
+  "de-la 1": {
+    "url": "https://www.albertmartin.de/latein/?q=<word>"
+  },
+  "la 0": {
+    "include": "la-<$language> 0"
+  },
+  "la 1": {
+    "include": "la-<$language> 1"
+  },
+  "la-de 0": {
+    "include": "de-la 0"
+  },
+  "la-de 1": {
+    "include": "de-la 1"
+  }
+}

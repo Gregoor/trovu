@@ -1,0 +1,26 @@
+{
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-tr 0": {
+    "url": "https://www.zargan.com/"
+  },
+  "en-tr 1": {
+    "url": "https://www.zargan.com/tr/q/<word>"
+  },
+  "tr 0": {
+    "include": "tr-<$language> 0"
+  },
+  "tr 1": {
+    "include": "tr-<$language> 1"
+  },
+  "tr-en 0": {
+    "include": "en-tr 0"
+  },
+  "tr-en 1": {
+    "include": "en-tr 1"
+  }
+}

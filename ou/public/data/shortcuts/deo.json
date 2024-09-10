@@ -1,0 +1,26 @@
+{
+  "da 0": {
+    "include": "da-<$language> 0"
+  },
+  "da 1": {
+    "include": "da-<$language> 1"
+  },
+  "da-eo 0": {
+    "url": "https://www.vortaro.dk/"
+  },
+  "da-eo 1": {
+    "url": "https://www.vortaro.dk/?q=<word: {transform: eo-cx}>"
+  },
+  "eo 0": {
+    "include": "eo-<$language> 0"
+  },
+  "eo 1": {
+    "include": "eo-<$language> 1"
+  },
+  "eo-da 0": {
+    "include": "da-eo 0"
+  },
+  "eo-da 1": {
+    "include": "da-eo 1"
+  }
+}

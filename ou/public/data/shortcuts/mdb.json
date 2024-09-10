@@ -1,0 +1,26 @@
+{
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-zh 0": {
+    "url": "https://www.mdbg.net/chinese/dictionary"
+  },
+  "en-zh 1": {
+    "url": "https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=<word>"
+  },
+  "zh 0": {
+    "include": "zh-<$language> 0"
+  },
+  "zh 1": {
+    "include": "zh-<$language> 1"
+  },
+  "zh-en 0": {
+    "include": "en-zh 0"
+  },
+  "zh-en 1": {
+    "include": "en-zh 1"
+  }
+}

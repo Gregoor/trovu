@@ -1,0 +1,28 @@
+{
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "fw 1": {
+    "url": "https://www.filmweb.pl/search?q=<tytuł/osoba>"
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=pl&q=<artist>"
+  },
+  "mo 0": {
+    "url": "https://www.money.pl/"
+  },
+  "mo 1": {
+    "url": "https://www.google.com/search?hl=<$language>&btnI=&sourceid=navclient&gfns=1&q=site:money.pl%20<nazwa waloru>&ie=utf-8"
+  },
+  "pwn 1": {
+    "url": "https://sjp.pwn.pl/szukaj/<słowo>.html"
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/polish"
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/polish",
+    "include": "ygl 0"
+  }
+}

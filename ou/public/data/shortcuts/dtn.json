@@ -1,0 +1,26 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-tr 0": {
+    "url": "https://deutsch-tuerkisch.net/"
+  },
+  "de-tr 1": {
+    "url": "https://deutsch-tuerkisch.net/suche/<word>"
+  },
+  "tr 0": {
+    "include": "tr-<$language> 0"
+  },
+  "tr 1": {
+    "include": "tr-<$language> 1"
+  },
+  "tr-de 0": {
+    "include": "de-tr 0"
+  },
+  "tr-de 1": {
+    "include": "de-tr 1"
+  }
+}

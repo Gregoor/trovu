@@ -1,0 +1,63 @@
+{
+  "a 0": {
+    "url": "https://www.amazon.com?tag=serchilo-20",
+    "tests": [
+      {
+        "expect": "<title>Amazon"
+      }
+    ]
+  },
+  "a 1": {
+    "url": "https://www.amazon.com/s?k=<query>&linkCode=ll2&tag=serchilo-20",
+    "tests": [
+      {
+        "arguments": "shakespeare",
+        "expect": "sHakespeare</title>"
+      }
+    ],
+    "include": "a 0"
+  },
+  "culpa 1": {
+    "url": "https://www.culpa.info/#/search?entity=all&query=<name>&alphabetize=True"
+  },
+  "e 0": {
+    "url": "https://www.ebay.com/?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "e 1": {
+    "url": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=<query>&_sacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "gmla 1": {
+    "url": "https://maps.google.com/maps?hl=<$language>&q=<address>%2C%20Los%20Angeles%2C%20California"
+  },
+  "gmnyc 1": {
+    "url": "https://maps.google.com/maps?hl=<$language>&q=<address>%2C%20New%20York%20City%2C%20New%20York"
+  },
+  "gmsf 1": {
+    "url": "https://maps.google.com/maps?hl=<$language>&q=<address>%2C%20San%20Francisco%2C%20California"
+  },
+  "gps 1": {
+    "url": "https://www.google.com/products?hl=<$language>&q=<query>"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/us/search?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "sec 1": {
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?company=<company name>&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany&type="
+  },
+  "sec 2": {
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?company=<company name>&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany&type=<filing type>"
+  },
+  "sec20f 1": {
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?company=<company name>&CIK=&filenum=&State=&SIC=&owner=include&action=getcompany&type=20-F"
+  },
+  "sic 1": {
+    "url": "https://www.osha.gov/pls/imis/sicsearch.html?p_sic=<SIC digit>&p_search="
+  },
+  "yp 2": {
+    "url": "https://www.yellowpages.com/search?search_terms=<business name>&geo_location_terms=<city or zip>"
+  }
+}

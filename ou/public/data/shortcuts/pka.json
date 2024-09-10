@@ -1,0 +1,2024 @@
+{
+  "am 0": {
+    "include": "am-<$language> 0"
+  },
+  "am 1": {
+    "include": "am-<$language> 1"
+  },
+  "am-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/am/wb"
+  },
+  "am-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/am/wb?suche=<word>"
+  },
+  "ar 0": {
+    "include": "ar-<$language> 0"
+  },
+  "ar 1": {
+    "include": "ar-<$language> 1"
+  },
+  "ar-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ar/wb"
+  },
+  "ar-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ar/wb?suche=<word>"
+  },
+  "as 0": {
+    "include": "as-<$language> 0"
+  },
+  "as 1": {
+    "include": "as-<$language> 1"
+  },
+  "as-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/as/wb"
+  },
+  "as-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/as/wb?suche=<word>"
+  },
+  "az 0": {
+    "include": "az-<$language> 0"
+  },
+  "az 1": {
+    "include": "az-<$language> 1"
+  },
+  "az-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/az/wb"
+  },
+  "az-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/az/wb?suche=<word>"
+  },
+  "be 0": {
+    "include": "be-<$language> 0"
+  },
+  "be 1": {
+    "include": "be-<$language> 1"
+  },
+  "be-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/be/wb"
+  },
+  "be-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/be/wb?suche=<word>"
+  },
+  "bg 0": {
+    "include": "bg-<$language> 0"
+  },
+  "bg 1": {
+    "include": "bg-<$language> 1"
+  },
+  "bg-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/bg/wb"
+  },
+  "bg-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/bg/wb?suche=<word>"
+  },
+  "bn 0": {
+    "include": "bn-<$language> 0"
+  },
+  "bn 1": {
+    "include": "bn-<$language> 1"
+  },
+  "bn-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/bn/wb"
+  },
+  "bn-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/bn/wb?suche=<word>"
+  },
+  "bo 0": {
+    "include": "bo-<$language> 0"
+  },
+  "bo 1": {
+    "include": "bo-<$language> 1"
+  },
+  "bo-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/bo/wb"
+  },
+  "bo-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/bo/wb?suche=<word>"
+  },
+  "br 0": {
+    "include": "br-<$language> 0"
+  },
+  "br 1": {
+    "include": "br-<$language> 1"
+  },
+  "br-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/br/wb"
+  },
+  "br-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/br/wb?suche=<word>"
+  },
+  "ca 0": {
+    "include": "ca-<$language> 0"
+  },
+  "ca 1": {
+    "include": "ca-<$language> 1"
+  },
+  "ca-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ca/wb"
+  },
+  "ca-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ca/wb?suche=<word>"
+  },
+  "cs 0": {
+    "include": "cs-<$language> 0"
+  },
+  "cs 1": {
+    "include": "cs-<$language> 1"
+  },
+  "cs-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/cs/wb"
+  },
+  "cs-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/cs/wb?suche=<word>"
+  },
+  "cy 0": {
+    "include": "cy-<$language> 0"
+  },
+  "cy 1": {
+    "include": "cy-<$language> 1"
+  },
+  "cy-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/cy/wb"
+  },
+  "cy-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/cy/wb?suche=<word>"
+  },
+  "da 0": {
+    "include": "da-<$language> 0"
+  },
+  "da 1": {
+    "include": "da-<$language> 1"
+  },
+  "da-de 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/da/wb"
+  },
+  "da-de 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/da/wb?suche=<word>"
+  },
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-am 0": {
+    "include": "am-de 0"
+  },
+  "de-am 1": {
+    "include": "am-de 1"
+  },
+  "de-ar 0": {
+    "include": "ar-de 0"
+  },
+  "de-ar 1": {
+    "include": "ar-de 1"
+  },
+  "de-as 0": {
+    "include": "as-de 0"
+  },
+  "de-as 1": {
+    "include": "as-de 1"
+  },
+  "de-az 0": {
+    "include": "az-de 0"
+  },
+  "de-az 1": {
+    "include": "az-de 1"
+  },
+  "de-be 0": {
+    "include": "be-de 0"
+  },
+  "de-be 1": {
+    "include": "be-de 1"
+  },
+  "de-bg 0": {
+    "include": "bg-de 0"
+  },
+  "de-bg 1": {
+    "include": "bg-de 1"
+  },
+  "de-bn 0": {
+    "include": "bn-de 0"
+  },
+  "de-bn 1": {
+    "include": "bn-de 1"
+  },
+  "de-bo 0": {
+    "include": "bo-de 0"
+  },
+  "de-bo 1": {
+    "include": "bo-de 1"
+  },
+  "de-br 0": {
+    "include": "br-de 0"
+  },
+  "de-br 1": {
+    "include": "br-de 1"
+  },
+  "de-ca 0": {
+    "include": "ca-de 0"
+  },
+  "de-ca 1": {
+    "include": "ca-de 1"
+  },
+  "de-cs 0": {
+    "include": "cs-de 0"
+  },
+  "de-cs 1": {
+    "include": "cs-de 1"
+  },
+  "de-cy 0": {
+    "include": "cy-de 0"
+  },
+  "de-cy 1": {
+    "include": "cy-de 1"
+  },
+  "de-da 0": {
+    "include": "da-de 0"
+  },
+  "de-da 1": {
+    "include": "da-de 1"
+  },
+  "de-dz 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/dz/wb"
+  },
+  "de-dz 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/dz/wb?suche=<word>"
+  },
+  "de-el 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/el/wb"
+  },
+  "de-el 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/el/wb?suche=<word>"
+  },
+  "de-en 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/en/wb"
+  },
+  "de-en 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/en/wb?suche=<word>"
+  },
+  "de-eo 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/eo/wb"
+  },
+  "de-eo 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/eo/wb?suche=<word: {transform: eo-cx}>"
+  },
+  "de-es 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/es/wb"
+  },
+  "de-es 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/es/wb?suche=<word>"
+  },
+  "de-et 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/et/wb"
+  },
+  "de-et 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/et/wb?suche=<word>"
+  },
+  "de-eu 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/eu/wb"
+  },
+  "de-eu 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/eu/wb?suche=<word>"
+  },
+  "de-fa 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fa/wb"
+  },
+  "de-fa 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fa/wb?suche=<word>"
+  },
+  "de-fi 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fi/wb"
+  },
+  "de-fi 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fi/wb?suche=<word>"
+  },
+  "de-fo 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fo/wb"
+  },
+  "de-fo 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fo/wb?suche=<word>"
+  },
+  "de-fr 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fr/wb"
+  },
+  "de-fr 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fr/wb?suche=<word>"
+  },
+  "de-fy 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fy/wb"
+  },
+  "de-fy 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/fy/wb?suche=<word>"
+  },
+  "de-ga 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ga/wb"
+  },
+  "de-ga 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ga/wb?suche=<word>"
+  },
+  "de-gd 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/gd/wb"
+  },
+  "de-gd 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/gd/wb?suche=<word>"
+  },
+  "de-gl 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/gl/wb"
+  },
+  "de-gl 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/gl/wb?suche=<word>"
+  },
+  "de-gu 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/gu/wb"
+  },
+  "de-gu 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/gu/wb?suche=<word>"
+  },
+  "de-ha 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ha/wb"
+  },
+  "de-ha 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ha/wb?suche=<word>"
+  },
+  "de-he 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/he/wb"
+  },
+  "de-he 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/he/wb?suche=<word>"
+  },
+  "de-hi 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hi/wb"
+  },
+  "de-hi 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hi/wb?suche=<word>"
+  },
+  "de-hr 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hr/wb"
+  },
+  "de-hr 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hr/wb?suche=<word>"
+  },
+  "de-hu 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hu/wb"
+  },
+  "de-hu 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hu/wb?suche=<word>"
+  },
+  "de-hy 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hy/wb"
+  },
+  "de-hy 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/hy/wb?suche=<word>"
+  },
+  "de-id 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/id/wb"
+  },
+  "de-id 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/id/wb?suche=<word>"
+  },
+  "de-ig 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ig/wb"
+  },
+  "de-ig 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ig/wb?suche=<word>"
+  },
+  "de-ii 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ii/wb"
+  },
+  "de-ii 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ii/wb?suche=<word>"
+  },
+  "de-is 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/is/wb"
+  },
+  "de-is 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/is/wb?suche=<word>"
+  },
+  "de-it 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/it/wb"
+  },
+  "de-it 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/it/wb?suche=<word>"
+  },
+  "de-ja 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ja/wb"
+  },
+  "de-ja 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ja/wb?suche=<word>"
+  },
+  "de-ka 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ka/wb"
+  },
+  "de-ka 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ka/wb?suche=<word>"
+  },
+  "de-ki 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ki/wb"
+  },
+  "de-ki 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ki/wb?suche=<word>"
+  },
+  "de-kk 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kk/wb"
+  },
+  "de-kk 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kk/wb?suche=<word>"
+  },
+  "de-kl 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kl/wb"
+  },
+  "de-kl 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kl/wb?suche=<word>"
+  },
+  "de-km 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/km/wb"
+  },
+  "de-km 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/km/wb?suche=<word>"
+  },
+  "de-kn 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kn/wb"
+  },
+  "de-kn 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kn/wb?suche=<word>"
+  },
+  "de-ko 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ko/wb"
+  },
+  "de-ko 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ko/wb?suche=<word>"
+  },
+  "de-ks 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ks/wb"
+  },
+  "de-ks 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ks/wb?suche=<word>"
+  },
+  "de-kw 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kw/wb"
+  },
+  "de-kw 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/kw/wb?suche=<word>"
+  },
+  "de-ky 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ky/wb"
+  },
+  "de-ky 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ky/wb?suche=<word>"
+  },
+  "de-la 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/la/wb"
+  },
+  "de-la 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/la/wb?suche=<word>"
+  },
+  "de-lb 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lb/wb"
+  },
+  "de-lb 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lb/wb?suche=<word>"
+  },
+  "de-lg 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lg/wb"
+  },
+  "de-lg 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lg/wb?suche=<word>"
+  },
+  "de-ln 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ln/wb"
+  },
+  "de-ln 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ln/wb?suche=<word>"
+  },
+  "de-lo 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lo/wb"
+  },
+  "de-lo 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lo/wb?suche=<word>"
+  },
+  "de-lt 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lt/wb"
+  },
+  "de-lt 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lt/wb?suche=<word>"
+  },
+  "de-lv 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lv/wb"
+  },
+  "de-lv 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/lv/wb?suche=<word>"
+  },
+  "de-mg 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mg/wb"
+  },
+  "de-mg 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mg/wb?suche=<word>"
+  },
+  "de-mk 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mk/wb"
+  },
+  "de-mk 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mk/wb?suche=<word>"
+  },
+  "de-ml 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ml/wb"
+  },
+  "de-ml 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ml/wb?suche=<word>"
+  },
+  "de-mn 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mn/wb"
+  },
+  "de-mn 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mn/wb?suche=<word>"
+  },
+  "de-mr 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mr/wb"
+  },
+  "de-mr 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mr/wb?suche=<word>"
+  },
+  "de-ms 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ms/wb"
+  },
+  "de-ms 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ms/wb?suche=<word>"
+  },
+  "de-mt 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mt/wb"
+  },
+  "de-mt 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/mt/wb?suche=<word>"
+  },
+  "de-my 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/my/wb"
+  },
+  "de-my 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/my/wb?suche=<word>"
+  },
+  "de-nb 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nb/wb"
+  },
+  "de-nb 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nb/wb?suche=<word>"
+  },
+  "de-nd 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nd/wb"
+  },
+  "de-nd 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nd/wb?suche=<word>"
+  },
+  "de-ne 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ne/wb"
+  },
+  "de-ne 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ne/wb?suche=<word>"
+  },
+  "de-nl 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nl/wb"
+  },
+  "de-nl 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nl/wb?suche=<word>"
+  },
+  "de-nn 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nn/wb"
+  },
+  "de-nn 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/nn/wb?suche=<word>"
+  },
+  "de-no 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/no/wb"
+  },
+  "de-no 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/no/wb?suche=<word>"
+  },
+  "de-om 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/om/wb"
+  },
+  "de-om 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/om/wb?suche=<word>"
+  },
+  "de-or 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/or/wb"
+  },
+  "de-or 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/or/wb?suche=<word>"
+  },
+  "de-os 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/os/wb"
+  },
+  "de-os 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/os/wb?suche=<word>"
+  },
+  "de-pa 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/pa/wb"
+  },
+  "de-pa 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/pa/wb?suche=<word>"
+  },
+  "de-pl 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/pl/wb"
+  },
+  "de-pl 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/pl/wb?suche=<word>"
+  },
+  "de-ps 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ps/wb"
+  },
+  "de-ps 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ps/wb?suche=<word>"
+  },
+  "de-pt 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/pt/wb"
+  },
+  "de-pt 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/pt/wb?suche=<word>"
+  },
+  "de-qu 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/qu/wb"
+  },
+  "de-qu 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/qu/wb?suche=<word>"
+  },
+  "de-rm 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/rm/wb"
+  },
+  "de-rm 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/rm/wb?suche=<word>"
+  },
+  "de-rn 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/rn/wb"
+  },
+  "de-rn 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/rn/wb?suche=<word>"
+  },
+  "de-ro 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ro/wb"
+  },
+  "de-ro 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ro/wb?suche=<word>"
+  },
+  "de-ru 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ru/wb"
+  },
+  "de-ru 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ru/wb?suche=<word>"
+  },
+  "de-rw 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/rw/wb"
+  },
+  "de-rw 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/rw/wb?suche=<word>"
+  },
+  "de-se 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/se/wb"
+  },
+  "de-se 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/se/wb?suche=<word>"
+  },
+  "de-sg 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sg/wb"
+  },
+  "de-sg 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sg/wb?suche=<word>"
+  },
+  "de-si 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/si/wb"
+  },
+  "de-si 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/si/wb?suche=<word>"
+  },
+  "de-sk 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sk/wb"
+  },
+  "de-sk 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sk/wb?suche=<word>"
+  },
+  "de-sl 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sl/wb"
+  },
+  "de-sl 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sl/wb?suche=<word>"
+  },
+  "de-sn 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sn/wb"
+  },
+  "de-sn 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sn/wb?suche=<word>"
+  },
+  "de-so 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/so/wb"
+  },
+  "de-so 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/so/wb?suche=<word>"
+  },
+  "de-sq 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sq/wb"
+  },
+  "de-sq 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sq/wb?suche=<word>"
+  },
+  "de-sr 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sr/wb"
+  },
+  "de-sr 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sr/wb?suche=<word>"
+  },
+  "de-sv 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sv/wb"
+  },
+  "de-sv 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sv/wb?suche=<word>"
+  },
+  "de-sw 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sw/wb"
+  },
+  "de-sw 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/sw/wb?suche=<word>"
+  },
+  "de-ta 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ta/wb"
+  },
+  "de-ta 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ta/wb?suche=<word>"
+  },
+  "de-te 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/te/wb"
+  },
+  "de-te 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/te/wb?suche=<word>"
+  },
+  "de-th 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/th/wb"
+  },
+  "de-th 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/th/wb?suche=<word>"
+  },
+  "de-ti 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ti/wb"
+  },
+  "de-ti 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ti/wb?suche=<word>"
+  },
+  "de-tl 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/tl/wb"
+  },
+  "de-tl 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/tl/wb?suche=<word>"
+  },
+  "de-to 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/to/wb"
+  },
+  "de-to 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/to/wb?suche=<word>"
+  },
+  "de-tr 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/tr/wb"
+  },
+  "de-tr 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/tr/wb?suche=<word>"
+  },
+  "de-ug 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ug/wb"
+  },
+  "de-ug 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ug/wb?suche=<word>"
+  },
+  "de-uk 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/uk/wb"
+  },
+  "de-uk 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/uk/wb?suche=<word>"
+  },
+  "de-ur 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ur/wb"
+  },
+  "de-ur 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/ur/wb?suche=<word>"
+  },
+  "de-uz 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/uz/wb"
+  },
+  "de-uz 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/uz/wb?suche=<word>"
+  },
+  "de-vi 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/vi/wb"
+  },
+  "de-vi 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/vi/wb?suche=<word>"
+  },
+  "de-yi 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/yi/wb"
+  },
+  "de-yi 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/yi/wb?suche=<word>"
+  },
+  "de-yo 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/yo/wb"
+  },
+  "de-yo 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/yo/wb?suche=<word>"
+  },
+  "de-zh 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/zh/wb"
+  },
+  "de-zh 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/zh/wb?suche=<word>"
+  },
+  "de-zu 0": {
+    "url": "https://www.pauker.at/pauker/DE_DE/zu/wb"
+  },
+  "de-zu 1": {
+    "url": "https://www.pauker.at/pauker/DE_DE/zu/wb?suche=<word>"
+  },
+  "dz 0": {
+    "include": "dz-<$language> 0"
+  },
+  "dz 1": {
+    "include": "dz-<$language> 1"
+  },
+  "dz-de 0": {
+    "include": "de-dz 0"
+  },
+  "dz-de 1": {
+    "include": "de-dz 1"
+  },
+  "el 0": {
+    "include": "el-<$language> 0"
+  },
+  "el 1": {
+    "include": "el-<$language> 1"
+  },
+  "el-de 0": {
+    "include": "de-el 0"
+  },
+  "el-de 1": {
+    "include": "de-el 1"
+  },
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-de 0": {
+    "include": "de-en 0"
+  },
+  "en-de 1": {
+    "include": "de-en 1"
+  },
+  "eo 0": {
+    "include": "eo-<$language> 0"
+  },
+  "eo 1": {
+    "include": "eo-<$language> 1"
+  },
+  "eo-de 0": {
+    "include": "de-eo 0"
+  },
+  "eo-de 1": {
+    "include": "de-eo 1"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-de 0": {
+    "include": "de-es 0"
+  },
+  "es-de 1": {
+    "include": "de-es 1"
+  },
+  "et 0": {
+    "include": "et-<$language> 0"
+  },
+  "et 1": {
+    "include": "et-<$language> 1"
+  },
+  "et-de 0": {
+    "include": "de-et 0"
+  },
+  "et-de 1": {
+    "include": "de-et 1"
+  },
+  "eu 0": {
+    "include": "eu-<$language> 0"
+  },
+  "eu 1": {
+    "include": "eu-<$language> 1"
+  },
+  "eu-de 0": {
+    "include": "de-eu 0"
+  },
+  "eu-de 1": {
+    "include": "de-eu 1"
+  },
+  "fa 0": {
+    "include": "fa-<$language> 0"
+  },
+  "fa 1": {
+    "include": "fa-<$language> 1"
+  },
+  "fa-de 0": {
+    "include": "de-fa 0"
+  },
+  "fa-de 1": {
+    "include": "de-fa 1"
+  },
+  "fi 0": {
+    "include": "fi-<$language> 0"
+  },
+  "fi 1": {
+    "include": "fi-<$language> 1"
+  },
+  "fi-de 0": {
+    "include": "de-fi 0"
+  },
+  "fi-de 1": {
+    "include": "de-fi 1"
+  },
+  "fo 0": {
+    "include": "fo-<$language> 0"
+  },
+  "fo 1": {
+    "include": "fo-<$language> 1"
+  },
+  "fo-de 0": {
+    "include": "de-fo 0"
+  },
+  "fo-de 1": {
+    "include": "de-fo 1"
+  },
+  "fr 0": {
+    "include": "fr-<$language> 0"
+  },
+  "fr 1": {
+    "include": "fr-<$language> 1"
+  },
+  "fr-de 0": {
+    "include": "de-fr 0"
+  },
+  "fr-de 1": {
+    "include": "de-fr 1"
+  },
+  "fy 0": {
+    "include": "fy-<$language> 0"
+  },
+  "fy 1": {
+    "include": "fy-<$language> 1"
+  },
+  "fy-de 0": {
+    "include": "de-fy 0"
+  },
+  "fy-de 1": {
+    "include": "de-fy 1"
+  },
+  "ga 0": {
+    "include": "ga-<$language> 0"
+  },
+  "ga 1": {
+    "include": "ga-<$language> 1"
+  },
+  "ga-de 0": {
+    "include": "de-ga 0"
+  },
+  "ga-de 1": {
+    "include": "de-ga 1"
+  },
+  "gd 0": {
+    "include": "gd-<$language> 0"
+  },
+  "gd 1": {
+    "include": "gd-<$language> 1"
+  },
+  "gd-de 0": {
+    "include": "de-gd 0"
+  },
+  "gd-de 1": {
+    "include": "de-gd 1"
+  },
+  "gl 0": {
+    "include": "gl-<$language> 0"
+  },
+  "gl 1": {
+    "include": "gl-<$language> 1"
+  },
+  "gl-de 0": {
+    "include": "de-gl 0"
+  },
+  "gl-de 1": {
+    "include": "de-gl 1"
+  },
+  "gu 0": {
+    "include": "gu-<$language> 0"
+  },
+  "gu 1": {
+    "include": "gu-<$language> 1"
+  },
+  "gu-de 0": {
+    "include": "de-gu 0"
+  },
+  "gu-de 1": {
+    "include": "de-gu 1"
+  },
+  "ha 0": {
+    "include": "ha-<$language> 0"
+  },
+  "ha 1": {
+    "include": "ha-<$language> 1"
+  },
+  "ha-de 0": {
+    "include": "de-ha 0"
+  },
+  "ha-de 1": {
+    "include": "de-ha 1"
+  },
+  "he 0": {
+    "include": "he-<$language> 0"
+  },
+  "he 1": {
+    "include": "he-<$language> 1"
+  },
+  "he-de 0": {
+    "include": "de-he 0"
+  },
+  "he-de 1": {
+    "include": "de-he 1"
+  },
+  "hi 0": {
+    "include": "hi-<$language> 0"
+  },
+  "hi 1": {
+    "include": "hi-<$language> 1"
+  },
+  "hi-de 0": {
+    "include": "de-hi 0"
+  },
+  "hi-de 1": {
+    "include": "de-hi 1"
+  },
+  "hr 0": {
+    "include": "hr-<$language> 0"
+  },
+  "hr 1": {
+    "include": "hr-<$language> 1"
+  },
+  "hr-de 0": {
+    "include": "de-hr 0"
+  },
+  "hr-de 1": {
+    "include": "de-hr 1"
+  },
+  "hu 0": {
+    "include": "hu-<$language> 0"
+  },
+  "hu 1": {
+    "include": "hu-<$language> 1"
+  },
+  "hu-de 0": {
+    "include": "de-hu 0"
+  },
+  "hu-de 1": {
+    "include": "de-hu 1"
+  },
+  "hy 0": {
+    "include": "hy-<$language> 0"
+  },
+  "hy 1": {
+    "include": "hy-<$language> 1"
+  },
+  "hy-de 0": {
+    "include": "de-hy 0"
+  },
+  "hy-de 1": {
+    "include": "de-hy 1"
+  },
+  "id 0": {
+    "include": "id-<$language> 0"
+  },
+  "id 1": {
+    "include": "id-<$language> 1"
+  },
+  "id-de 0": {
+    "include": "de-id 0"
+  },
+  "id-de 1": {
+    "include": "de-id 1"
+  },
+  "ig 0": {
+    "include": "ig-<$language> 0"
+  },
+  "ig 1": {
+    "include": "ig-<$language> 1"
+  },
+  "ig-de 0": {
+    "include": "de-ig 0"
+  },
+  "ig-de 1": {
+    "include": "de-ig 1"
+  },
+  "ii 0": {
+    "include": "ii-<$language> 0"
+  },
+  "ii 1": {
+    "include": "ii-<$language> 1"
+  },
+  "ii-de 0": {
+    "include": "de-ii 0"
+  },
+  "ii-de 1": {
+    "include": "de-ii 1"
+  },
+  "is 0": {
+    "include": "is-<$language> 0"
+  },
+  "is 1": {
+    "include": "is-<$language> 1"
+  },
+  "is-de 0": {
+    "include": "de-is 0"
+  },
+  "is-de 1": {
+    "include": "de-is 1"
+  },
+  "it 0": {
+    "include": "it-<$language> 0"
+  },
+  "it 1": {
+    "include": "it-<$language> 1"
+  },
+  "it-de 0": {
+    "include": "de-it 0"
+  },
+  "it-de 1": {
+    "include": "de-it 1"
+  },
+  "ja 0": {
+    "include": "ja-<$language> 0"
+  },
+  "ja 1": {
+    "include": "ja-<$language> 1"
+  },
+  "ja-de 0": {
+    "include": "de-ja 0"
+  },
+  "ja-de 1": {
+    "include": "de-ja 1"
+  },
+  "ka 0": {
+    "include": "ka-<$language> 0"
+  },
+  "ka 1": {
+    "include": "ka-<$language> 1"
+  },
+  "ka-de 0": {
+    "include": "de-ka 0"
+  },
+  "ka-de 1": {
+    "include": "de-ka 1"
+  },
+  "ki 0": {
+    "include": "ki-<$language> 0"
+  },
+  "ki 1": {
+    "include": "ki-<$language> 1"
+  },
+  "ki-de 0": {
+    "include": "de-ki 0"
+  },
+  "ki-de 1": {
+    "include": "de-ki 1"
+  },
+  "kk 0": {
+    "include": "kk-<$language> 0"
+  },
+  "kk 1": {
+    "include": "kk-<$language> 1"
+  },
+  "kk-de 0": {
+    "include": "de-kk 0"
+  },
+  "kk-de 1": {
+    "include": "de-kk 1"
+  },
+  "kl 0": {
+    "include": "kl-<$language> 0"
+  },
+  "kl 1": {
+    "include": "kl-<$language> 1"
+  },
+  "kl-de 0": {
+    "include": "de-kl 0"
+  },
+  "kl-de 1": {
+    "include": "de-kl 1"
+  },
+  "km 0": {
+    "include": "km-<$language> 0"
+  },
+  "km 1": {
+    "include": "km-<$language> 1"
+  },
+  "km-de 0": {
+    "include": "de-km 0"
+  },
+  "km-de 1": {
+    "include": "de-km 1"
+  },
+  "kn 0": {
+    "include": "kn-<$language> 0"
+  },
+  "kn 1": {
+    "include": "kn-<$language> 1"
+  },
+  "kn-de 0": {
+    "include": "de-kn 0"
+  },
+  "kn-de 1": {
+    "include": "de-kn 1"
+  },
+  "ko 0": {
+    "include": "ko-<$language> 0"
+  },
+  "ko 1": {
+    "include": "ko-<$language> 1"
+  },
+  "ko-de 0": {
+    "include": "de-ko 0"
+  },
+  "ko-de 1": {
+    "include": "de-ko 1"
+  },
+  "ks 0": {
+    "include": "ks-<$language> 0"
+  },
+  "ks 1": {
+    "include": "ks-<$language> 1"
+  },
+  "ks-de 0": {
+    "include": "de-ks 0"
+  },
+  "ks-de 1": {
+    "include": "de-ks 1"
+  },
+  "kw 0": {
+    "include": "kw-<$language> 0"
+  },
+  "kw 1": {
+    "include": "kw-<$language> 1"
+  },
+  "kw-de 0": {
+    "include": "de-kw 0"
+  },
+  "kw-de 1": {
+    "include": "de-kw 1"
+  },
+  "ky 0": {
+    "include": "ky-<$language> 0"
+  },
+  "ky 1": {
+    "include": "ky-<$language> 1"
+  },
+  "ky-de 0": {
+    "include": "de-ky 0"
+  },
+  "ky-de 1": {
+    "include": "de-ky 1"
+  },
+  "la 0": {
+    "include": "la-<$language> 0"
+  },
+  "la 1": {
+    "include": "la-<$language> 1"
+  },
+  "la-de 0": {
+    "include": "de-la 0"
+  },
+  "la-de 1": {
+    "include": "de-la 1"
+  },
+  "lb 0": {
+    "include": "lb-<$language> 0"
+  },
+  "lb 1": {
+    "include": "lb-<$language> 1"
+  },
+  "lb-de 0": {
+    "include": "de-lb 0"
+  },
+  "lb-de 1": {
+    "include": "de-lb 1"
+  },
+  "lg 0": {
+    "include": "lg-<$language> 0"
+  },
+  "lg 1": {
+    "include": "lg-<$language> 1"
+  },
+  "lg-de 0": {
+    "include": "de-lg 0"
+  },
+  "lg-de 1": {
+    "include": "de-lg 1"
+  },
+  "ln 0": {
+    "include": "ln-<$language> 0"
+  },
+  "ln 1": {
+    "include": "ln-<$language> 1"
+  },
+  "ln-de 0": {
+    "include": "de-ln 0"
+  },
+  "ln-de 1": {
+    "include": "de-ln 1"
+  },
+  "lo 0": {
+    "include": "lo-<$language> 0"
+  },
+  "lo 1": {
+    "include": "lo-<$language> 1"
+  },
+  "lo-de 0": {
+    "include": "de-lo 0"
+  },
+  "lo-de 1": {
+    "include": "de-lo 1"
+  },
+  "lt 0": {
+    "include": "lt-<$language> 0"
+  },
+  "lt 1": {
+    "include": "lt-<$language> 1"
+  },
+  "lt-de 0": {
+    "include": "de-lt 0"
+  },
+  "lt-de 1": {
+    "include": "de-lt 1"
+  },
+  "lv 0": {
+    "include": "lv-<$language> 0"
+  },
+  "lv 1": {
+    "include": "lv-<$language> 1"
+  },
+  "lv-de 0": {
+    "include": "de-lv 0"
+  },
+  "lv-de 1": {
+    "include": "de-lv 1"
+  },
+  "mg 0": {
+    "include": "mg-<$language> 0"
+  },
+  "mg 1": {
+    "include": "mg-<$language> 1"
+  },
+  "mg-de 0": {
+    "include": "de-mg 0"
+  },
+  "mg-de 1": {
+    "include": "de-mg 1"
+  },
+  "mk 0": {
+    "include": "mk-<$language> 0"
+  },
+  "mk 1": {
+    "include": "mk-<$language> 1"
+  },
+  "mk-de 0": {
+    "include": "de-mk 0"
+  },
+  "mk-de 1": {
+    "include": "de-mk 1"
+  },
+  "ml 0": {
+    "include": "ml-<$language> 0"
+  },
+  "ml 1": {
+    "include": "ml-<$language> 1"
+  },
+  "ml-de 0": {
+    "include": "de-ml 0"
+  },
+  "ml-de 1": {
+    "include": "de-ml 1"
+  },
+  "mn 0": {
+    "include": "mn-<$language> 0"
+  },
+  "mn 1": {
+    "include": "mn-<$language> 1"
+  },
+  "mn-de 0": {
+    "include": "de-mn 0"
+  },
+  "mn-de 1": {
+    "include": "de-mn 1"
+  },
+  "mr 0": {
+    "include": "mr-<$language> 0"
+  },
+  "mr 1": {
+    "include": "mr-<$language> 1"
+  },
+  "mr-de 0": {
+    "include": "de-mr 0"
+  },
+  "mr-de 1": {
+    "include": "de-mr 1"
+  },
+  "ms 0": {
+    "include": "ms-<$language> 0"
+  },
+  "ms 1": {
+    "include": "ms-<$language> 1"
+  },
+  "ms-de 0": {
+    "include": "de-ms 0"
+  },
+  "ms-de 1": {
+    "include": "de-ms 1"
+  },
+  "mt 0": {
+    "include": "mt-<$language> 0"
+  },
+  "mt 1": {
+    "include": "mt-<$language> 1"
+  },
+  "mt-de 0": {
+    "include": "de-mt 0"
+  },
+  "mt-de 1": {
+    "include": "de-mt 1"
+  },
+  "my 0": {
+    "include": "my-<$language> 0"
+  },
+  "my 1": {
+    "include": "my-<$language> 1"
+  },
+  "my-de 0": {
+    "include": "de-my 0"
+  },
+  "my-de 1": {
+    "include": "de-my 1"
+  },
+  "nb 0": {
+    "include": "nb-<$language> 0"
+  },
+  "nb 1": {
+    "include": "nb-<$language> 1"
+  },
+  "nb-de 0": {
+    "include": "de-nb 0"
+  },
+  "nb-de 1": {
+    "include": "de-nb 1"
+  },
+  "nd 0": {
+    "include": "nd-<$language> 0"
+  },
+  "nd 1": {
+    "include": "nd-<$language> 1"
+  },
+  "nd-de 0": {
+    "include": "de-nd 0"
+  },
+  "nd-de 1": {
+    "include": "de-nd 1"
+  },
+  "ne 0": {
+    "include": "ne-<$language> 0"
+  },
+  "ne 1": {
+    "include": "ne-<$language> 1"
+  },
+  "ne-de 0": {
+    "include": "de-ne 0"
+  },
+  "ne-de 1": {
+    "include": "de-ne 1"
+  },
+  "nl 0": {
+    "include": "nl-<$language> 0"
+  },
+  "nl 1": {
+    "include": "nl-<$language> 1"
+  },
+  "nl-de 0": {
+    "include": "de-nl 0"
+  },
+  "nl-de 1": {
+    "include": "de-nl 1"
+  },
+  "nn 0": {
+    "include": "nn-<$language> 0"
+  },
+  "nn 1": {
+    "include": "nn-<$language> 1"
+  },
+  "nn-de 0": {
+    "include": "de-nn 0"
+  },
+  "nn-de 1": {
+    "include": "de-nn 1"
+  },
+  "no 0": {
+    "include": "no-<$language> 0"
+  },
+  "no 1": {
+    "include": "no-<$language> 1"
+  },
+  "no-de 0": {
+    "include": "de-no 0"
+  },
+  "no-de 1": {
+    "include": "de-no 1"
+  },
+  "om 0": {
+    "include": "om-<$language> 0"
+  },
+  "om 1": {
+    "include": "om-<$language> 1"
+  },
+  "om-de 0": {
+    "include": "de-om 0"
+  },
+  "om-de 1": {
+    "include": "de-om 1"
+  },
+  "or 0": {
+    "include": "or-<$language> 0"
+  },
+  "or 1": {
+    "include": "or-<$language> 1"
+  },
+  "or-de 0": {
+    "include": "de-or 0"
+  },
+  "or-de 1": {
+    "include": "de-or 1"
+  },
+  "os 0": {
+    "include": "os-<$language> 0"
+  },
+  "os 1": {
+    "include": "os-<$language> 1"
+  },
+  "os-de 0": {
+    "include": "de-os 0"
+  },
+  "os-de 1": {
+    "include": "de-os 1"
+  },
+  "pa 0": {
+    "include": "pa-<$language> 0"
+  },
+  "pa 1": {
+    "include": "pa-<$language> 1"
+  },
+  "pa-de 0": {
+    "include": "de-pa 0"
+  },
+  "pa-de 1": {
+    "include": "de-pa 1"
+  },
+  "pl 0": {
+    "include": "pl-<$language> 0"
+  },
+  "pl 1": {
+    "include": "pl-<$language> 1"
+  },
+  "pl-de 0": {
+    "include": "de-pl 0"
+  },
+  "pl-de 1": {
+    "include": "de-pl 1"
+  },
+  "ps 0": {
+    "include": "ps-<$language> 0"
+  },
+  "ps 1": {
+    "include": "ps-<$language> 1"
+  },
+  "ps-de 0": {
+    "include": "de-ps 0"
+  },
+  "ps-de 1": {
+    "include": "de-ps 1"
+  },
+  "pt 0": {
+    "include": "pt-<$language> 0"
+  },
+  "pt 1": {
+    "include": "pt-<$language> 1"
+  },
+  "pt-de 0": {
+    "include": "de-pt 0"
+  },
+  "pt-de 1": {
+    "include": "de-pt 1"
+  },
+  "qu 0": {
+    "include": "qu-<$language> 0"
+  },
+  "qu 1": {
+    "include": "qu-<$language> 1"
+  },
+  "qu-de 0": {
+    "include": "de-qu 0"
+  },
+  "qu-de 1": {
+    "include": "de-qu 1"
+  },
+  "rm 0": {
+    "include": "rm-<$language> 0"
+  },
+  "rm 1": {
+    "include": "rm-<$language> 1"
+  },
+  "rm-de 0": {
+    "include": "de-rm 0"
+  },
+  "rm-de 1": {
+    "include": "de-rm 1"
+  },
+  "rn 0": {
+    "include": "rn-<$language> 0"
+  },
+  "rn 1": {
+    "include": "rn-<$language> 1"
+  },
+  "rn-de 0": {
+    "include": "de-rn 0"
+  },
+  "rn-de 1": {
+    "include": "de-rn 1"
+  },
+  "ro 0": {
+    "include": "ro-<$language> 0"
+  },
+  "ro 1": {
+    "include": "ro-<$language> 1"
+  },
+  "ro-de 0": {
+    "include": "de-ro 0"
+  },
+  "ro-de 1": {
+    "include": "de-ro 1"
+  },
+  "ru 0": {
+    "include": "ru-<$language> 0"
+  },
+  "ru 1": {
+    "include": "ru-<$language> 1"
+  },
+  "ru-de 0": {
+    "include": "de-ru 0"
+  },
+  "ru-de 1": {
+    "include": "de-ru 1"
+  },
+  "rw 0": {
+    "include": "rw-<$language> 0"
+  },
+  "rw 1": {
+    "include": "rw-<$language> 1"
+  },
+  "rw-de 0": {
+    "include": "de-rw 0"
+  },
+  "rw-de 1": {
+    "include": "de-rw 1"
+  },
+  "se 0": {
+    "include": "se-<$language> 0"
+  },
+  "se 1": {
+    "include": "se-<$language> 1"
+  },
+  "se-de 0": {
+    "include": "de-se 0"
+  },
+  "se-de 1": {
+    "include": "de-se 1"
+  },
+  "sg 0": {
+    "include": "sg-<$language> 0"
+  },
+  "sg 1": {
+    "include": "sg-<$language> 1"
+  },
+  "sg-de 0": {
+    "include": "de-sg 0"
+  },
+  "sg-de 1": {
+    "include": "de-sg 1"
+  },
+  "si 0": {
+    "include": "si-<$language> 0"
+  },
+  "si 1": {
+    "include": "si-<$language> 1"
+  },
+  "si-de 0": {
+    "include": "de-si 0"
+  },
+  "si-de 1": {
+    "include": "de-si 1"
+  },
+  "sk 0": {
+    "include": "sk-<$language> 0"
+  },
+  "sk 1": {
+    "include": "sk-<$language> 1"
+  },
+  "sk-de 0": {
+    "include": "de-sk 0"
+  },
+  "sk-de 1": {
+    "include": "de-sk 1"
+  },
+  "sl 0": {
+    "include": "sl-<$language> 0"
+  },
+  "sl 1": {
+    "include": "sl-<$language> 1"
+  },
+  "sl-de 0": {
+    "include": "de-sl 0"
+  },
+  "sl-de 1": {
+    "include": "de-sl 1"
+  },
+  "sn 0": {
+    "include": "sn-<$language> 0"
+  },
+  "sn 1": {
+    "include": "sn-<$language> 1"
+  },
+  "sn-de 0": {
+    "include": "de-sn 0"
+  },
+  "sn-de 1": {
+    "include": "de-sn 1"
+  },
+  "so 0": {
+    "include": "so-<$language> 0"
+  },
+  "so 1": {
+    "include": "so-<$language> 1"
+  },
+  "so-de 0": {
+    "include": "de-so 0"
+  },
+  "so-de 1": {
+    "include": "de-so 1"
+  },
+  "sq 0": {
+    "include": "sq-<$language> 0"
+  },
+  "sq 1": {
+    "include": "sq-<$language> 1"
+  },
+  "sq-de 0": {
+    "include": "de-sq 0"
+  },
+  "sq-de 1": {
+    "include": "de-sq 1"
+  },
+  "sr 0": {
+    "include": "sr-<$language> 0"
+  },
+  "sr 1": {
+    "include": "sr-<$language> 1"
+  },
+  "sr-de 0": {
+    "include": "de-sr 0"
+  },
+  "sr-de 1": {
+    "include": "de-sr 1"
+  },
+  "sv 0": {
+    "include": "sv-<$language> 0"
+  },
+  "sv 1": {
+    "include": "sv-<$language> 1"
+  },
+  "sv-de 0": {
+    "include": "de-sv 0"
+  },
+  "sv-de 1": {
+    "include": "de-sv 1"
+  },
+  "sw 0": {
+    "include": "sw-<$language> 0"
+  },
+  "sw 1": {
+    "include": "sw-<$language> 1"
+  },
+  "sw-de 0": {
+    "include": "de-sw 0"
+  },
+  "sw-de 1": {
+    "include": "de-sw 1"
+  },
+  "ta 0": {
+    "include": "ta-<$language> 0"
+  },
+  "ta 1": {
+    "include": "ta-<$language> 1"
+  },
+  "ta-de 0": {
+    "include": "de-ta 0"
+  },
+  "ta-de 1": {
+    "include": "de-ta 1"
+  },
+  "te 0": {
+    "include": "te-<$language> 0"
+  },
+  "te 1": {
+    "include": "te-<$language> 1"
+  },
+  "te-de 0": {
+    "include": "de-te 0"
+  },
+  "te-de 1": {
+    "include": "de-te 1"
+  },
+  "th 0": {
+    "include": "th-<$language> 0"
+  },
+  "th 1": {
+    "include": "th-<$language> 1"
+  },
+  "th-de 0": {
+    "include": "de-th 0"
+  },
+  "th-de 1": {
+    "include": "de-th 1"
+  },
+  "ti 0": {
+    "include": "ti-<$language> 0"
+  },
+  "ti 1": {
+    "include": "ti-<$language> 1"
+  },
+  "ti-de 0": {
+    "include": "de-ti 0"
+  },
+  "ti-de 1": {
+    "include": "de-ti 1"
+  },
+  "tl 0": {
+    "include": "tl-<$language> 0"
+  },
+  "tl 1": {
+    "include": "tl-<$language> 1"
+  },
+  "tl-de 0": {
+    "include": "de-tl 0"
+  },
+  "tl-de 1": {
+    "include": "de-tl 1"
+  },
+  "to 0": {
+    "include": "to-<$language> 0"
+  },
+  "to 1": {
+    "include": "to-<$language> 1"
+  },
+  "to-de 0": {
+    "include": "de-to 0"
+  },
+  "to-de 1": {
+    "include": "de-to 1"
+  },
+  "tr 0": {
+    "include": "tr-<$language> 0"
+  },
+  "tr 1": {
+    "include": "tr-<$language> 1"
+  },
+  "tr-de 0": {
+    "include": "de-tr 0"
+  },
+  "tr-de 1": {
+    "include": "de-tr 1"
+  },
+  "ug 0": {
+    "include": "ug-<$language> 0"
+  },
+  "ug 1": {
+    "include": "ug-<$language> 1"
+  },
+  "ug-de 0": {
+    "include": "de-ug 0"
+  },
+  "ug-de 1": {
+    "include": "de-ug 1"
+  },
+  "uk 0": {
+    "include": "uk-<$language> 0"
+  },
+  "uk 1": {
+    "include": "uk-<$language> 1"
+  },
+  "uk-de 0": {
+    "include": "de-uk 0"
+  },
+  "uk-de 1": {
+    "include": "de-uk 1"
+  },
+  "ur 0": {
+    "include": "ur-<$language> 0"
+  },
+  "ur 1": {
+    "include": "ur-<$language> 1"
+  },
+  "ur-de 0": {
+    "include": "de-ur 0"
+  },
+  "ur-de 1": {
+    "include": "de-ur 1"
+  },
+  "uz 0": {
+    "include": "uz-<$language> 0"
+  },
+  "uz 1": {
+    "include": "uz-<$language> 1"
+  },
+  "uz-de 0": {
+    "include": "de-uz 0"
+  },
+  "uz-de 1": {
+    "include": "de-uz 1"
+  },
+  "vi 0": {
+    "include": "vi-<$language> 0"
+  },
+  "vi 1": {
+    "include": "vi-<$language> 1"
+  },
+  "vi-de 0": {
+    "include": "de-vi 0"
+  },
+  "vi-de 1": {
+    "include": "de-vi 1"
+  },
+  "yi 0": {
+    "include": "yi-<$language> 0"
+  },
+  "yi 1": {
+    "include": "yi-<$language> 1"
+  },
+  "yi-de 0": {
+    "include": "de-yi 0"
+  },
+  "yi-de 1": {
+    "include": "de-yi 1"
+  },
+  "yo 0": {
+    "include": "yo-<$language> 0"
+  },
+  "yo 1": {
+    "include": "yo-<$language> 1"
+  },
+  "yo-de 0": {
+    "include": "de-yo 0"
+  },
+  "yo-de 1": {
+    "include": "de-yo 1"
+  },
+  "zh 0": {
+    "include": "zh-<$language> 0"
+  },
+  "zh 1": {
+    "include": "zh-<$language> 1"
+  },
+  "zh-de 0": {
+    "include": "de-zh 0"
+  },
+  "zh-de 1": {
+    "include": "de-zh 1"
+  },
+  "zu 0": {
+    "include": "zu-<$language> 0"
+  },
+  "zu 1": {
+    "include": "zu-<$language> 1"
+  },
+  "zu-de 0": {
+    "include": "de-zu 0"
+  },
+  "zu-de 1": {
+    "include": "de-zu 1"
+  }
+}

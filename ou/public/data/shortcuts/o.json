@@ -1,0 +1,7590 @@
+{
+  "! 0": {
+    "url": "https://trovu.net/"
+  },
+  "! 1": {
+    "url": "https://trovu.net/#query=<query>"
+  },
+  "!? 0": {
+    "url": "https://trovu.net/docs/"
+  },
+  "12ft 1": {
+    "url": "https://12ft.io/<url>"
+  },
+  "2 1": {
+    "url": "https://<url>"
+  },
+  "25c3 0": {
+    "url": "https://events.ccc.de/congress/2008/"
+  },
+  "25c3 1": {
+    "url": "https://events.ccc.de/congress/2008/wiki/Special:Search?search=<query>&go=Go"
+  },
+  "26c3 0": {
+    "url": "https://events.ccc.de/congress/2009/"
+  },
+  "26c3 1": {
+    "url": "https://events.ccc.de/congress/2009/wiki/Special:Search?search=<query>&go=Go"
+  },
+  "26c3s 0": {
+    "url": "https://events.ccc.de/congress/2009/Fahrplan/index.en.html"
+  },
+  "26c3s 1": {
+    "url": "https://events.ccc.de/congress/2009/Fahrplan/day_2009-12-<Day>.en.html"
+  },
+  "27c3 0": {
+    "url": "https://events.ccc.de/congress/2010/"
+  },
+  "27c3 1": {
+    "url": "https://events.ccc.de/congress/2010/wiki/Special:Search?search=<query>&go=Go"
+  },
+  "27c3s 0": {
+    "url": "https://events.ccc.de/congress/2010/Fahrplan/index.en.html"
+  },
+  "27c3s 1": {
+    "url": "https://events.ccc.de/congress/2010/Fahrplan/day_2010-12-<Day>.en.html"
+  },
+  "28c3 0": {
+    "url": "https://events.ccc.de/congress/2011/"
+  },
+  "28c3 1": {
+    "url": "https://events.ccc.de/congress/2011/wiki/Special:Search?search=<query>&go=Go"
+  },
+  "28c3g 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>%20inurl%3Ahttp%3A%2F%2Fevents.ccc.de%2Fcongress%2F2011%2F"
+  },
+  "28c3s 0": {
+    "url": "https://events.ccc.de/congress/2011/Fahrplan/index.en.html"
+  },
+  "28c3s 1": {
+    "url": "https://events.ccc.de/congress/2011/Fahrplan/day_2011-12-<Day>.en.html"
+  },
+  "29c3 0": {
+    "url": "https://events.ccc.de/congress/2012/"
+  },
+  "29c3 1": {
+    "url": "https://events.ccc.de/congress/2012/wiki/Special:Search?search=<query>&go=Go"
+  },
+  "32c3 0": {
+    "url": "https://events.ccc.de/congress/2015/"
+  },
+  "33c3 0": {
+    "url": "https://fahrplan.events.ccc.de/congress/2016/Fahrplan/"
+  },
+  "33c3lt 0": {
+    "url": "https://events.ccc.de/congress/2016/wiki/Static:Lightning_Talks"
+  },
+  "34c3 0": {
+    "url": "https://events.ccc.de/tag/34c3/"
+  },
+  "35c3 0": {
+    "url": "https://events.ccc.de/congress/2018/wiki/"
+  },
+  "35c3 1": {
+    "url": "https://events.ccc.de/congress/2018/wiki/index.php/<page>"
+  },
+  "36c3 0": {
+    "url": "https://events.ccc.de/congress/2019/wiki/index.php/Main_Page"
+  },
+  "4sq 0": {
+    "url": "https://foursquare.com/"
+  },
+  "4sq 1": {
+    "url": "https://foursquare.com/search?tab=venueResults&query=<what>",
+    "include": "4sq 0"
+  },
+  "4sq 2": {
+    "url": "https://foursquare.com/search?tab=venueResults&query=<what>&near=<where>",
+    "include": "4sq 0"
+  },
+  "911 1": {
+    "url": "https://www.911tabs.com/search.php?search=<band or song title>"
+  },
+  "a 0": {
+    "include": {
+      "key": "a 0",
+      "namespace": ".us"
+    }
+  },
+  "a 1": {
+    "include": {
+      "key": "a 1",
+      "namespace": ".us"
+    }
+  },
+  "abbr 1": {
+    "url": "https://www.abbreviations.com/<abbr>"
+  },
+  "abp 0": {
+    "url": "https://github.com/mltbnz/awesome-bikeprojects",
+    "removed": "2023-01-14"
+  },
+  "acl 0": {
+    "url": "https://www.aclweb.org/anthology/",
+    "description": "The ACL Anthology hosts papers on the study of computational linguistics and natural language processing."
+  },
+  "acl 1": {
+    "url": "https://www.aclweb.org/anthology/search/?q=<query>",
+    "description": "The ACL Anthology hosts papers on the study of computational linguistics and natural language processing."
+  },
+  "aclg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=site:aclweb.org%20<query>&ie=utf-8"
+  },
+  "aclw 1": {
+    "url": "https://www.aclweb.org/aclwiki/index.php?search=<query>&go=Go"
+  },
+  "acm 1": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&domains=portal.acm.org&sitesearch=dl.acm.org&q=<query>"
+  },
+  "ad 1": {
+    "url": "https://developer.android.com/s/results?q=<query>"
+  },
+  "adfcb 0": {
+    "url": "https://adfc-berlin.de",
+    "removed": "2023-01-14"
+  },
+  "adror 1": {
+    "url": "https://apidock.com/rails/search?query=<query>"
+  },
+  "ads 1": {
+    "url": "https://adsabs.harvard.edu/cgi-bin/nph-basic_connect?qsearch=<query>&version=1"
+  },
+  "adsh 1": {
+    "url": "https://www.alldatasheet.com/view.jsp?Searchword=<part>"
+  },
+  "ae 0": {
+    "url": "https://www.aliexpress.com/"
+  },
+  "ae 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "axp <1>"
+      },
+      "created": "2024-05-22"
+    }
+  },
+  "af 1": {
+    "url": "https://www.acronymfinder.com/af-query.asp?Acronym=<query>&Find=find&string=exact"
+  },
+  "ais 0": {
+    "url": "https://www.marinetraffic.com"
+  },
+  "alibaba 1": {
+    "url": "https://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=<name>"
+  },
+  "allmovie 1": {
+    "url": "https://www.allmovie.com/search/all/<movie>"
+  },
+  "allmusic 1": {
+    "url": "https://www.allmusic.com/search/all/<query>"
+  },
+  "alp 1": {
+    "url": "https://archlinux.org/packages/?q=<package>"
+  },
+  "alt 0": {
+    "url": "https://alternativeto.net/"
+  },
+  "alt 1": {
+    "url": "https://alternativeto.net/browse/search/?q=<product>"
+  },
+  "alw 1": {
+    "url": "https://wiki.archlinux.org/index.php?title=Special%3ASearch&search=<query>&go=Go"
+  },
+  "am 0": {
+    "include": [
+      {
+        "key": "am 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "am 1": {
+    "include": [
+      {
+        "key": "am 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "anidb 1": {
+    "url": "https://anidb.net/perl-bin/animedb.pl?show=animelist&adb.search=<query>&do.search=search"
+  },
+  "anon 0": {
+    "url": "http://anonymouse.org/anonwww.html"
+  },
+  "anon 1": {
+    "url": "http://anonymouse.org/cgi-bin/anon-www.cgi/<url: {encoding: none}>"
+  },
+  "answers 1": {
+    "url": "https://www.answers.com/search?q=<query>"
+  },
+  "ao 1": {
+    "url": "https://www.amazon.de/gp/your-account/order-history/ref=ppx_yo_dt_b_search?search=<query>"
+  },
+  "aol 0": {
+    "url": "https://www.aol.com"
+  },
+  "ap 1": {
+    "url": "https://www.apple.com/search/?q=<query>"
+  },
+  "apb 1": {
+    "url": "https://www.appbrain.com/search?q=<query>"
+  },
+  "apm 1": {
+    "url": "https://maps.apple.com/place?address=<address>",
+    "description": "Apple Maps for desktop/browser.  If place was not found, try adding country or country code."
+  },
+  "apm 2": {
+    "url": "https://maps.apple.com/place?address=<city: {type: city}>,<address>",
+    "description": "Apple Maps for desktop/browser. City can be given with common abbreviations, e.g. car number plates"
+  },
+  "ar 0": {
+    "include": [
+      {
+        "key": "ar 0",
+        "namespace": "ard"
+      },
+      {
+        "key": "ar 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ar 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ar 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ar 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ar 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ar 1": {
+    "include": [
+      {
+        "key": "ar 1",
+        "namespace": "ard"
+      },
+      {
+        "key": "ar 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ar 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ar 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ar 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ar 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "arch 1": {
+    "url": "https://www.archchinese.com/chinese_english_dictionary.html?find=<query>"
+  },
+  "archive 1": {
+    "url": "https://web.archive.org/web/*/<site: {encoding: none}>"
+  },
+  "ardu 1": {
+    "url": "https://search.arduino.cc/search?tab=&q=<query>"
+  },
+  "arxiv 1": {
+    "url": "https://arxiv.org/search?query=<query>"
+  },
+  "as 0": {
+    "include": [
+      {
+        "key": "as 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "as 1": {
+    "include": [
+      {
+        "key": "as 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ask 1": {
+    "url": "https://www.ask.com/web?q=<query>&qsrc=0&o=333&l=dir"
+  },
+  "atd 0": {
+    "url": "https://archive.is/"
+  },
+  "atd 1": {
+    "url": "https://archive.is/submit/?url=<url>",
+    "include": [
+      {
+        "key": "atd 0"
+      }
+    ]
+  },
+  "atrf 1": {
+    "url": "https://alltheragefaces.com/search/<query>"
+  },
+  "axp 0": {
+    "url": "https://www.aliexpress.com/"
+  },
+  "axp 1": {
+    "url": "https://www.aliexpress.com/wholesale?SearchText=<query>",
+    "include": "axp 0"
+  },
+  "az 0": {
+    "include": [
+      {
+        "key": "az 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "az 1": {
+    "include": [
+      {
+        "key": "az 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "b 0": {
+    "url": "https://www.bing.com"
+  },
+  "b 1": {
+    "url": "https://www.bing.com/search?q=<query>"
+  },
+  "ba 1": {
+    "url": "https://www.baidu.com/s?wd=<query>"
+  },
+  "bd 1": {
+    "url": "https://www.browserdefender.com/site/<url>/"
+  },
+  "be 0": {
+    "include": [
+      {
+        "key": "be 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "be 1": {
+    "include": [
+      {
+        "key": "be 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "bf 1": {
+    "url": "https://www.boerse-frankfurt.de/suchergebnisse?_search=<query>"
+  },
+  "bg 0": {
+    "include": [
+      {
+        "key": "bg 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "bg 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "bg 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "bg 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "bg 1": {
+    "include": [
+      {
+        "key": "bg 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "bg 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "bg 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "bg 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "bgo 1": {
+    "url": "https://bugs.gentoo.org/buglist.cgi?quicksearch=<query>"
+  },
+  "bhf 1": {
+    "url": "https://www.bahnhof.de/service/search/bahnhof-de/520608?query=<Bahnhof>"
+  },
+  "bi 1": {
+    "url": "https://www.bing.com/images/?q=<image-query>"
+  },
+  "bible 0": {
+    "url": "https://www.bibleserver.com/"
+  },
+  "bible 1": {
+    "url": "https://www.bibleserver.com/search/ESV/<query>"
+  },
+  "bible 2": {
+    "url": "https://www.bibleserver.com/search/<translation>/<query>"
+  },
+  "biblec 2": {
+    "url": "https://www.bibleserver.com/text/<translation>/<chapter>"
+  },
+  "bibso 0": {
+    "url": "https://www.bibsonomy.org"
+  },
+  "bibso 1": {
+    "url": "https://www.bibsonomy.org/search/<query>"
+  },
+  "bibso+ 1": {
+    "url": "https://www.bibsonomy.org/editBookmark?url=<url>"
+  },
+  "bins 1": {
+    "url": "https://binsearch.info/?max=100&adv_age=1100&server=&q=<query>"
+  },
+  "bkg 0": {
+    "url": "https://www.booking.com/?aid=1303859"
+  },
+  "bkg 1": {
+    "url": "https://www.booking.com/searchresults.html?aid=1303859&ss=<location: {type: city}>",
+    "include": [
+      {
+        "key": "bkg 0"
+      }
+    ]
+  },
+  "bkg 2": {
+    "url": "https://www.booking.com/searchresults.html?aid=1303859&ss=<location: {type: city}>&checkin=<checkin: {type: date, output: YYYY-MM-DD}>",
+    "include": [
+      {
+        "key": "bkg 0"
+      }
+    ]
+  },
+  "bkg 3": {
+    "url": "https://www.booking.com/searchresults.html?aid=1303859&ss=<location: {type: city}>&checkin=<checkin: {type: date, output: YYYY-MM-DD}>&checkout=<checkout: {type: date, output: YYYY-MM-DD}>",
+    "include": [
+      {
+        "key": "bkg 0"
+      }
+    ]
+  },
+  "bm 1": {
+    "url": "https://www.bing.com/maps/?q=<map-query>"
+  },
+  "bmf 0": {
+    "url": "https://www.bessermitfahren.de/"
+  },
+  "bmf 2": {
+    "url": "https://www.bessermitfahren.de/<Start>/<Ziel>/angebote"
+  },
+  "bmn 1": {
+    "url": "https://bugmenot.com/view/<site>"
+  },
+  "bn 0": {
+    "include": [
+      {
+        "key": "bn 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "bn 1": {
+    "include": [
+      {
+        "key": "bn 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "bns 1": {
+    "url": "https://www.bing.com/news/search?q=<query>"
+  },
+  "bo 0": {
+    "include": [
+      {
+        "key": "bo 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "bo 1": {
+    "include": [
+      {
+        "key": "bo 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "booking 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "bkg <1>"
+      },
+      "created": "2023-12-03"
+    }
+  },
+  "bp 1": {
+    "url": "https://www.beatport.com/search?q=<query>"
+  },
+  "br 0": {
+    "include": [
+      {
+        "key": "br 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "br 1": {
+    "include": [
+      {
+        "key": "br 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "brew 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "brw <1>"
+      },
+      "created": "2023-12-03"
+    }
+  },
+  "briar 0": {
+    "url": "https://briarproject.org/"
+  },
+  "brw 0": {
+    "url": "https://brew.sh/"
+  },
+  "brw 1": {
+    "url": "https://www.google.de/search?hl=<$language>&q=site%3Abrew.sh%20<query>&ie=utf-8",
+    "include": [
+      {
+        "key": "brw 0"
+      }
+    ]
+  },
+  "btc 1": {
+    "url": "https://www.blockchain.com/search?search=<address>"
+  },
+  "btd 0": {
+    "url": "https://btdig.com/",
+    "tests": [
+      {
+        "expect": "<title>BTDigg"
+      }
+    ]
+  },
+  "btd 1": {
+    "url": "https://btdig.com/search?q=<query>",
+    "tests": [
+      {
+        "arguments": "ubuntu",
+        "expect": "<title>ubuntu"
+      }
+    ],
+    "include": "btd 0"
+  },
+  "bv 1": {
+    "url": "https://www.bing.com/videos/?q=<video-query>"
+  },
+  "c3tv 0": {
+    "url": "https://media.ccc.de/"
+  },
+  "ca 0": {
+    "include": [
+      {
+        "key": "ca 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ca 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ca 1": {
+    "include": [
+      {
+        "key": "ca 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ca 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "cad 0": {
+    "url": "https://cad-comic.com/"
+  },
+  "cadsilly 0": {
+    "url": "https://cad-comic.com/sillies"
+  },
+  "calc 0": {
+    "url": "https://web2.0calc.com/"
+  },
+  "cc 1": {
+    "url": "https://search.creativecommons.org/?q=<query>"
+  },
+  "ccc 1": {
+    "url": "https://<query>.ccc.de"
+  },
+  "ccc-tv 0": {
+    "url": "https://media.ccc.de/"
+  },
+  "ccctv 0": {
+    "url": "https://media.ccc.de/"
+  },
+  "cf 0": {
+    "url": "https://www.clipfish.de/"
+  },
+  "cf 1": {
+    "url": "https://www.clipfish.de/searchfish.php?word=<query>"
+  },
+  "cfp 1": {
+    "url": "http://www.wikicfp.com/cfp/servlet/tool.search?q=<query>&year=t"
+  },
+  "cg 0": {
+    "url": "https://chat.openai.com/",
+    "tests": [
+      {
+        "expect": "<title>ChatGPT"
+      }
+    ],
+    "description": "Chat with OpenAI's ChatGPT"
+  },
+  "cg 1": {
+    "url": "https://chat.openai.com/chat?q=<query>",
+    "tests": [
+      {
+        "arguments": "foobar",
+        "expect": "q=foo"
+      }
+    ],
+    "include": "cg 0"
+  },
+  "chip 1": {
+    "url": "https://suche.chip.de/?q=<query>"
+  },
+  "chipfind 1": {
+    "url": "https://www.chipfind.ru/datasheet/search.htm?s=<partnumber>&t=part"
+  },
+  "chords 1": {
+    "url": "https://www.ultimate-guitar.com/search.php?value=<band or song>&search_type=title"
+  },
+  "ciu 1": {
+    "url": "https://caniuse.com/#search=<query>"
+  },
+  "ckd 0": {
+    "url": "https://cooked.wiki/",
+    "tests": [
+      {
+        "expect": "<title>Cooked"
+      }
+    ]
+  },
+  "ckd 1": {
+    "url": "https://cooked.wiki/<url>",
+    "tests": [
+      {
+        "arguments": "https://www.chefkoch.de/rezepte/2768011428764832/Brokkoli-Pastinaken-Kokos-Curry.html",
+        "expect": "Brokkoli-Pastinaken-Kokos-Curry"
+      }
+    ],
+    "include": [
+      {
+        "key": "ckd 0"
+      }
+    ]
+  },
+  "cl 1": {
+    "url": "https://www.colourlovers.com/colors/search?query=<color>"
+  },
+  "clpal 1": {
+    "url": "https://www.colourlovers.com/palettes/search?query=<query>"
+  },
+  "clpalr 0": {
+    "url": "https://www.colourlovers.com/palettes/random"
+  },
+  "clpat 1": {
+    "url": "https://www.colourlovers.com/patterns/search?query=<query>"
+  },
+  "clpatr 0": {
+    "url": "https://www.colourlovers.com/patterns/random"
+  },
+  "clr 0": {
+    "url": "https://www.colourlovers.com/colors/random"
+  },
+  "clubic 1": {
+    "url": "https://www.clubic.com/telecharger/r/<logiciel>"
+  },
+  "cma 0": {
+    "url": "https://www.criticalmaps.net/map",
+    "description": "Show a map - or download an app - where Critical Masses took place.\r\n\r\nFurther reading https://en.wikipedia.org/wiki/Critical_Mass_(cycling)"
+  },
+  "codej 1": {
+    "url": "https://searchcode.com/?q=<code>&lan=23",
+    "description": "Search for Java code examples"
+  },
+  "codex 1": {
+    "url": "https://wordpress.org/search/<query>"
+  },
+  "comic 1": {
+    "url": "https://www.comicvine.com/search/?q=<query>"
+  },
+  "commons 0": {
+    "url": "https://commons.wikimedia.org/"
+  },
+  "commons 1": {
+    "url": "https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&search=<query>&uselang=<$language>"
+  },
+  "conj 1": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://www.logosconjugator.org/index.php&item=<verbform: {encoding: iso-8859-1}>"
+  },
+  "copu 1": {
+    "url": "https://www.google.com/cse?cx=000302137693213122178%3Aycoqke386yy&ie=UTF-8&q=<query>&sa=Suche"
+  },
+  "correos 1": {
+    "url": "https://www.correos.es/comun/localizador/track.asp?numero=<codigo>"
+  },
+  "couch 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "csf"
+      },
+      "created": "2023-01-23"
+    }
+  },
+  "couch 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "csf <1>"
+      },
+      "created": "2023-01-23"
+    }
+  },
+  "cpan 0": {
+    "url": "https://metacpan.org/"
+  },
+  "cpan 1": {
+    "url": "https://metacpan.org/search?q=<query>"
+  },
+  "cplusplus 1": {
+    "url": "https://cplusplus.com/query/search.cgi?q=<query>"
+  },
+  "cpp 0": {
+    "url": "https://cppreference.com/"
+  },
+  "cpp 1": {
+    "url": "https://duckduckgo.com/?sites=cppreference.com&q=%5C<query>"
+  },
+  "cppc 1": {
+    "url": "https://www.cplusplus.com/search.do?q=<query>"
+  },
+  "cr 0": {
+    "url": "https://chaosradio.ccc.de/chaosradio.html"
+  },
+  "cr 1": {
+    "url": "https://chaosradio.ccc.de/cr<episode>.html"
+  },
+  "cran 1": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&q=site%3Acran.r-project.org%20<package>"
+  },
+  "crc32 1": {
+    "url": "https://stefanschramm.net/dev/hash/?algo=crc32&q=<data>"
+  },
+  "cre 0": {
+    "url": "https://chaosradio.ccc.de/chaosradio_express.html"
+  },
+  "cre 1": {
+    "url": "https://chaosradio.ccc.de/cre<episode>.html"
+  },
+  "creativecommons.org 1": {
+    "url": "https://creativecommons.org/?s=<argument name>"
+  },
+  "crg 0": {
+    "url": "https://craigslist.com"
+  },
+  "crit 1": {
+    "url": "https://www.criticker.com/?st=all&h=<query>&g=Go"
+  },
+  "crts 1": {
+    "url": "https://crates.io/search?q=<query>"
+  },
+  "crug 1": {
+    "url": "https://rug.on.worldcat.org/search?databaseList=&queryString=<query>",
+    "description": "Library catalog of the University of Groningen"
+  },
+  "crx 1": {
+    "url": "https://chrome.google.com/webstore/search/<query>?_category=extensions"
+  },
+  "cs 0": {
+    "include": [
+      {
+        "key": "cs 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "cs 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "cs 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "cs 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "cs 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "cs 1": {
+    "include": [
+      {
+        "key": "cs 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "cs 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "cs 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "cs 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "cs 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "csdblp 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "dblp"
+      },
+      "created": "2023-08-31"
+    }
+  },
+  "csdblp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "dblp <1>"
+      },
+      "created": "2023-08-31"
+    }
+  },
+  "csf 0": {
+    "url": "https://www.couchsurfing.com"
+  },
+  "csf 1": {
+    "url": "https://www.couchsurfing.com/people/<query>"
+  },
+  "ctan 0": {
+    "url": "https://ctan.org"
+  },
+  "ctan 1": {
+    "url": "https://ctan.org/search?phrase=<query>",
+    "include": "ctan 0"
+  },
+  "cutlist 1": {
+    "url": "http://cutlist.at/?find=<Suche>"
+  },
+  "cve 1": {
+    "url": "https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=<query>"
+  },
+  "cy 0": {
+    "include": [
+      {
+        "key": "cy 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "cy 1": {
+    "include": [
+      {
+        "key": "cy 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "d 0": {
+    "url": "https://duckduckgo.com/"
+  },
+  "d 1": {
+    "url": "https://duckduckgo.com/?q=<query>"
+  },
+  "da 0": {
+    "include": [
+      {
+        "key": "da 0",
+        "namespace": "deo"
+      },
+      {
+        "key": "da 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "da 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "da 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "da 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "da 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "da 1": {
+    "include": [
+      {
+        "key": "da 1",
+        "namespace": "deo"
+      },
+      {
+        "key": "da 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "da 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "da 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "da 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "da 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "dao 0": {
+    "url": "https://dragonage.wikia.com/wiki/Dragon_Age_Wiki"
+  },
+  "dao 1": {
+    "url": "https://dragonage.wikia.com/wiki/Special:Search?search=<query>&go=1"
+  },
+  "datecalc 0": {
+    "url": "https://www.timeanddate.com/date/dateadd.html"
+  },
+  "datev 1": {
+    "url": "https://www.datev.de/dnlexos/mobile/webapp.aspx?sq=<Suche>"
+  },
+  "dblp 0": {
+    "url": "https://www.dblp.org/search/"
+  },
+  "dblp 1": {
+    "url": "https://dblp.org/search?q=<query>"
+  },
+  "dbp 1": {
+    "url": "https://dbpedia.org/page/<title>"
+  },
+  "dbug 0": {
+    "url": "https://www.debian.org/Bugs/"
+  },
+  "dbug 2": {
+    "url": "https://bugs.debian.org/cgi-bin/pkgreport.cgi?package=<package>;include=subject%3A<query>"
+  },
+  "dch 0": {
+    "url": "https://www.digitalconcerthall.com/"
+  },
+  "dd24 0": {
+    "url": "https://www.domaindiscount24.com/de"
+  },
+  "ddgs 0": {
+    "url": "https://duckduckgo.com/"
+  },
+  "de 0": {
+    "include": [
+      {
+        "key": "de 0",
+        "namespace": "ama"
+      },
+      {
+        "key": "de 0",
+        "namespace": "ard"
+      },
+      {
+        "key": "de 0",
+        "namespace": "dtn"
+      },
+      {
+        "key": "de 0",
+        "namespace": "crd"
+      },
+      {
+        "key": "de 0",
+        "namespace": "hzn"
+      },
+      {
+        "key": "de 0",
+        "namespace": "umt"
+      },
+      {
+        "key": "de 0",
+        "namespace": "wdk"
+      },
+      {
+        "key": "de 0",
+        "namespace": "lge"
+      },
+      {
+        "key": "de 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "de 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "de 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "de 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "de 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "de 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "de 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "de 0",
+        "namespace": "beo"
+      },
+      {
+        "key": "de 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "de 1": {
+    "include": [
+      {
+        "key": "de 1",
+        "namespace": "ama"
+      },
+      {
+        "key": "de 1",
+        "namespace": "ard"
+      },
+      {
+        "key": "de 1",
+        "namespace": "dtn"
+      },
+      {
+        "key": "de 1",
+        "namespace": "crd"
+      },
+      {
+        "key": "de 1",
+        "namespace": "hzn"
+      },
+      {
+        "key": "de 1",
+        "namespace": "umt"
+      },
+      {
+        "key": "de 1",
+        "namespace": "wdk"
+      },
+      {
+        "key": "de 1",
+        "namespace": "lge"
+      },
+      {
+        "key": "de 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "de 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "de 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "de 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "de 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "de 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "de 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "de 1",
+        "namespace": "beo"
+      },
+      {
+        "key": "de 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "dea 0": {
+    "url": "https://www.deviantart.com"
+  },
+  "dea 1": {
+    "url": "https://www.deviantart.com/search?q=<query>"
+  },
+  "deau 1": {
+    "url": "https://<user>.deviantart.com"
+  },
+  "deb 1": {
+    "url": "https://packages.debian.org/search?keywords=<query>&searchon=names&suite=all&section=all"
+  },
+  "debb 1": {
+    "url": "https://bugs.debian.org/<query>"
+  },
+  "debian-bugs 1": {
+    "url": "https://bugs.debian.org/<query>"
+  },
+  "debian-planet 0": {
+    "url": "https://planet.debian.org/"
+  },
+  "debian-wiki 0": {
+    "url": "https://wiki.debian.org/"
+  },
+  "debp 0": {
+    "url": "https://planet.debian.org/"
+  },
+  "debt 1": {
+    "url": "https://tracker.debian.org/pkg/<query>",
+    "tests": [
+      {
+        "arguments": "grub2",
+        "expect": "maintainer:"
+      }
+    ],
+    "description": "Looks up the given package in the debian package tracker."
+  },
+  "debw 0": {
+    "url": "https://wiki.debian.org/"
+  },
+  "debw 1": {
+    "url": "https://wiki.debian.org/?action=fullsearch&context=180&value=<query>&fullsearch=Text"
+  },
+  "deen 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "de.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "deep 1": {
+    "url": "https://www.deepdyve.com/search?query=<query>"
+  },
+  "deezer 0": {
+    "url": "https://www.deezer.com/"
+  },
+  "deezer 1": {
+    "url": "https://www.deezer.com/search/<query>"
+  },
+  "def 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=define%3a<query>"
+  },
+  "defr 1": {
+    "url": "https://dict.leo.org/?lp=frde&lang=fr&search=<word>"
+  },
+  "denic 1": {
+    "url": "https://www.denic.de/webwhois/?domain=<query>"
+  },
+  "deo 1": {
+    "url": "https://www.vortaro.dk/#/<soegeord>"
+  },
+  "derivative 1": {
+    "url": "https://www.wolframalpha.com/input/?i=derivative%20<query>"
+  },
+  "derstandard 1": {
+    "url": "https://derstandard.at/suche?query=<query>"
+  },
+  "dh 1": {
+    "url": "https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=<query>&starCount=0"
+  },
+  "di 1": {
+    "url": "https://duckduckgo.com/?q=<query>&iax=images&ia=images"
+  },
+  "dic 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "de.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "dii 1": {
+    "url": "https://www.diigo.com/search?what=<tag>"
+  },
+  "diia 1": {
+    "url": "https://www.diigo.com/sign-in?referInfo=%2Fpost%3Furl%3D<URL>"
+  },
+  "disc 1": {
+    "url": "https://www.discogs.com/search?type=all&q=<artist>"
+  },
+  "distro 0": {
+    "url": "https://distrowatch.com"
+  },
+  "distro 1": {
+    "url": "https://distrowatch.com/table.php?distribution=<query>"
+  },
+  "distros 0": {
+    "url": "https://distrowatch.com/stats.php?section=popularity"
+  },
+  "distrow 0": {
+    "url": "https://distrowatch.com/weekly.php?issue=current"
+  },
+  "dje 1": {
+    "url": "https://jisho.org/words?eng=<query>"
+  },
+  "djj 1": {
+    "url": "https://jisho.org/words?jap=<query>"
+  },
+  "djk 1": {
+    "url": "https://jisho.org/kanji?rt=jap&reading=<query>"
+  },
+  "djp 1": {
+    "url": "https://docs.djangoproject.com/search/?q=<query>"
+  },
+  "dl 0": {
+    "url": "https://www.deepl.com/translator#./<$language>/"
+  },
+  "dl 1": {
+    "url": "https://www.deepl.com/translator#./<$language>/<text>"
+  },
+  "dlde 1": {
+    "url": "https://www.deepl.com/translator#en/de/<text>",
+    "description": "Translate whole text."
+  },
+  "dlen 1": {
+    "url": "https://www.deepl.com/translator#de/en/<text>",
+    "description": "Translate whole text."
+  },
+  "dles 1": {
+    "url": "https://www.deepl.com/translator#de/es/<text>",
+    "description": "Translate whole text."
+  },
+  "dlfr 1": {
+    "url": "https://www.deepl.com/translator#de/fr/<text>",
+    "description": "Translate whole text."
+  },
+  "dlit 1": {
+    "url": "https://www.deepl.com/translator#de/it/<text>",
+    "description": "Translate whole text."
+  },
+  "dlja 1": {
+    "url": "https://www.deepl.com/translator#de/ja/<text>",
+    "description": "Translate whole text."
+  },
+  "dlnl 1": {
+    "url": "https://www.deepl.com/translator#de/nl/<text>",
+    "description": "Translate whole text."
+  },
+  "dlpo 1": {
+    "url": "https://www.deepl.com/translator#de/po/<text>",
+    "description": "Translate whole text."
+  },
+  "dlpt 1": {
+    "url": "https://www.deepl.com/translator#de/pt/<text>",
+    "description": "Translate whole text."
+  },
+  "dlru 1": {
+    "url": "https://www.deepl.com/translator#de/ru/<text>",
+    "description": "Translate whole text."
+  },
+  "dltr 1": {
+    "url": "https://www.deepl.com/translator#en/tr/<text>",
+    "description": "Translate whole text."
+  },
+  "dlzh 1": {
+    "url": "https://www.deepl.com/translator#de/zh/<text>",
+    "description": "Translate whole text."
+  },
+  "dm 1": {
+    "url": "https://www.dailymotion.com/?search=<query>"
+  },
+  "dnd 0": {
+    "url": "https://www.dandwiki.com/wiki/Main_Page"
+  },
+  "dnd 1": {
+    "url": "https://www.dandwiki.com/wiki/Special:Search?search=<query>"
+  },
+  "docs 1": {
+    "url": "https://docs.google.com/document/u/0/?q=<query>"
+  },
+  "doi 1": {
+    "url": "https://doi.org/<query>"
+  },
+  "dpl 0": {
+    "url": "https://www.deepl.com/translator#./<$language>/"
+  },
+  "dpl 1": {
+    "url": "https://www.deepl.com/translator#./<$language>/<text>"
+  },
+  "dreamstime 0": {
+    "url": "https://www.dreamstime.com/"
+  },
+  "dreamstime 1": {
+    "url": "https://www.dreamstime.com/search.php?srh_field=<Suche>"
+  },
+  "drg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=site%3Aapi.drupal.org%20<query>&ie=utf-8"
+  },
+  "drop-box 0": {
+    "url": "https://www.getdropbox.com/home"
+  },
+  "drp 1": {
+    "url": "https://www.google.de/search?hl=<$language>&q=inurl%3Adrupal.org%2Fproject%2F%20<project>"
+  },
+  "drr 1": {
+    "url": "https://cgit.drupalcode.org/<project>/tree"
+  },
+  "drse 0": {
+    "url": "https://drupal.stackexchange.com/"
+  },
+  "drse 1": {
+    "url": "https://drupal.stackexchange.com/search?q=<query>"
+  },
+  "drupal 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=site%3Aapi.drupal.org%20<query>&ie=utf-8"
+  },
+  "dsh 1": {
+    "url": "https://search.datasheetcatalog.net/key/<part>"
+  },
+  "duck 1": {
+    "url": "https://duckduckgo.com/?q=<query>"
+  },
+  "duden 1": {
+    "url": "https://www.duden.de/suchen/dudenonline/<wort>"
+  },
+  "dwb 0": {
+    "url": "https://www.woerterbuchnetz.de/DWB"
+  },
+  "dwb 1": {
+    "url": "https://www.woerterbuchnetz.de/DWB?lemma=<Wort>"
+  },
+  "dwd 0": {
+    "url": "https://www.dwd.de"
+  },
+  "dz 0": {
+    "include": [
+      {
+        "key": "dz 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "dz 1": {
+    "include": [
+      {
+        "key": "dz 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "dzr 0": {
+    "url": "https://www.deezer.com/"
+  },
+  "dzr 1": {
+    "url": "https://www.deezer.com/search/<query>"
+  },
+  "e 0": {
+    "url": "https://www.ebay.com/?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "e 1": {
+    "url": "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=<query>&_sacat=0&mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "eb 1": {
+    "url": "https://www.britannica.com/search?query=<query>"
+  },
+  "ebank 0": {
+    "url": "https://ebanking.easybank.at/InternetBanking/InternetBanking?d=login&svc=EASYBANK&ui=html&lang=de",
+    "removed": "2023-01-14"
+  },
+  "ec 0": {
+    "url": "https://ecosia.org/"
+  },
+  "ec 1": {
+    "url": "https://www.ecosia.org/search?q=<query>"
+  },
+  "ecl 0": {
+    "url": "https://www.eclipse.org/eclipselink/api/2.0.2/index.html"
+  },
+  "ecl 1": {
+    "url": "https://www.google.com/search?hl=en&q=site%3Ahttp://www.eclipse.org/eclipselink/api/2.4+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "eco 0": {
+    "url": "https://ecosia.org/"
+  },
+  "eco 1": {
+    "url": "https://www.ecosia.org/search?q=<query>"
+  },
+  "ed 0": {
+    "deprecated": {
+      "alternative": {
+        "query": ".de.e"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "ed 1": {
+    "deprecated": {
+      "alternative": {
+        "query": ".de.e <1>"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "efa 0": {
+    "url": "https://www.efa-bw.de"
+  },
+  "eis 1": {
+    "url": "https://www.eis-machen.de/?s=<query>"
+  },
+  "ekn 0": {
+    "deprecated": {
+      "alternative": {
+        "query": ".de.kazn"
+      },
+      "created": "2023-10-13"
+    }
+  },
+  "el 0": {
+    "include": [
+      {
+        "key": "el 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "el 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "el 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "el 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "el 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "el 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "el 1": {
+    "include": [
+      {
+        "key": "el 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "el 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "el 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "el 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "el 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "el 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "emy 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "e"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "en 0": {
+    "include": [
+      {
+        "key": "en 0",
+        "namespace": "ard"
+      },
+      {
+        "key": "en 0",
+        "namespace": "crd"
+      },
+      {
+        "key": "en 0",
+        "namespace": "esd"
+      },
+      {
+        "key": "en 0",
+        "namespace": "flx"
+      },
+      {
+        "key": "en 0",
+        "namespace": "irs"
+      },
+      {
+        "key": "en 0",
+        "namespace": "mdb"
+      },
+      {
+        "key": "en 0",
+        "namespace": "zrg"
+      },
+      {
+        "key": "en 0",
+        "namespace": "lge"
+      },
+      {
+        "key": "en 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "en 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "en 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "en 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "en 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "en 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "en 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "en 0",
+        "namespace": "beo"
+      },
+      {
+        "key": "en 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "en 1": {
+    "include": [
+      {
+        "key": "en 1",
+        "namespace": "ard"
+      },
+      {
+        "key": "en 1",
+        "namespace": "crd"
+      },
+      {
+        "key": "en 1",
+        "namespace": "esd"
+      },
+      {
+        "key": "en 1",
+        "namespace": "flx"
+      },
+      {
+        "key": "en 1",
+        "namespace": "irs"
+      },
+      {
+        "key": "en 1",
+        "namespace": "mdb"
+      },
+      {
+        "key": "en 1",
+        "namespace": "zrg"
+      },
+      {
+        "key": "en 1",
+        "namespace": "lge"
+      },
+      {
+        "key": "en 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "en 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "en 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "en 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "en 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "en 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "en 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "en 1",
+        "namespace": "beo"
+      },
+      {
+        "key": "en 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ende 1": {
+    "url": "https://www.dict.cc/?s=<word>"
+  },
+  "enfr 1": {
+    "url": "https://www.wordreference.com/enfr/<word>"
+  },
+  "engrish 0": {
+    "url": "https://www.engrish.com/"
+  },
+  "engrish 1": {
+    "url": "https://www.engrish.com/?s=<query>"
+  },
+  "enr 1": {
+    "url": "https://personer.eniro.se/resultat/<nummer_eller_namn>"
+  },
+  "enzh 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "en.zh <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "eo 0": {
+    "include": [
+      {
+        "key": "eo 0",
+        "namespace": "deo"
+      },
+      {
+        "key": "eo 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "eo 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "eo 1": {
+    "include": [
+      {
+        "key": "eo 1",
+        "namespace": "deo"
+      },
+      {
+        "key": "eo 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "eo 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "eprint 0": {
+    "url": "https://eprint.iacr.org/"
+  },
+  "eprint 1": {
+    "url": "https://eprint.iacr.org/search?q=<query>"
+  },
+  "eprinta 1": {
+    "url": "https://eprint.iacr.org/search?authors=<query>"
+  },
+  "eprintt 1": {
+    "url": "https://eprint.iacr.org/search?title=<query>"
+  },
+  "es 0": {
+    "include": [
+      {
+        "key": "es 0",
+        "namespace": "ard"
+      },
+      {
+        "key": "es 0",
+        "namespace": "esd"
+      },
+      {
+        "key": "es 0",
+        "namespace": "lge"
+      },
+      {
+        "key": "es 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "es 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "es 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "es 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "es 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "es 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "es 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "es 0",
+        "namespace": "beo"
+      },
+      {
+        "key": "es 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "es 1": {
+    "include": [
+      {
+        "key": "es 1",
+        "namespace": "ard"
+      },
+      {
+        "key": "es 1",
+        "namespace": "esd"
+      },
+      {
+        "key": "es 1",
+        "namespace": "lge"
+      },
+      {
+        "key": "es 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "es 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "es 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "es 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "es 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "es 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "es 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "es 1",
+        "namespace": "beo"
+      },
+      {
+        "key": "es 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "et 0": {
+    "include": [
+      {
+        "key": "et 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "et 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "et 1": {
+    "include": [
+      {
+        "key": "et 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "et 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "etools 1": {
+    "url": "https://www.etools.ch/searchSubmit.do?query=<query>"
+  },
+  "ety 1": {
+    "url": "https://www.etymonline.com/index.php?search=<query>&searchmode=none"
+  },
+  "eu 0": {
+    "include": [
+      {
+        "key": "eu 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "eu 1": {
+    "include": [
+      {
+        "key": "eu 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "eucomp 1": {
+    "url": "https://ec.europa.eu/competition/elojade/isef/index.cfm?fuseaction=dsp_result&case_title=<company>"
+  },
+  "eutm 1": {
+    "url": "https://euipo.europa.eu/eSearch/#basic/1+1+1+1/50+50+50+50/<query>"
+  },
+  "everyzing 1": {
+    "url": "https://www.everyzing.com/results.jsp?q=<query>"
+  },
+  "exkcd 0": {
+    "url": "https://www.explainxkcd.com/"
+  },
+  "exkcd 1": {
+    "url": "https://www.explainxkcd.com/wiki/index.php?search=<query>&go=Go"
+  },
+  "fa 0": {
+    "include": [
+      {
+        "key": "fa 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "fa 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fa 1": {
+    "include": [
+      {
+        "key": "fa 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "fa 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "faust 1": {
+    "deprecated": {
+      "alternative": {
+        "query": ".ch.faust <1>"
+      },
+      "created": "2023-01-15"
+    }
+  },
+  "fb 0": {
+    "url": "https://www.facebook.com/"
+  },
+  "fb 1": {
+    "url": "https://www.facebook.com/search/top/?q=<query>"
+  },
+  "fbe 0": {
+    "url": "https://www.facebook.com/events"
+  },
+  "fbe 1": {
+    "url": "https://www.facebook.com/search/events/?q=<query>"
+  },
+  "fbev 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fbe <1>"
+      },
+      "created": "2023-01-15"
+    }
+  },
+  "fbf 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fbpe <1>"
+      },
+      "created": "2023-01-15"
+    }
+  },
+  "fbg 1": {
+    "url": "https://www.facebook.com/search/groups/?q=<groups>"
+  },
+  "fbgr 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fbg <1>"
+      },
+      "created": "2023-01-15"
+    }
+  },
+  "fbi 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "fbm"
+      },
+      "created": "2023-01-15"
+    }
+  },
+  "fbk 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "fbmp"
+      },
+      "created": "2023-01-21"
+    }
+  },
+  "fblint 1": {
+    "url": "https://developers.facebook.com/tools/lint/?url=<query>"
+  },
+  "fbm 0": {
+    "url": "https://www.facebook.com/messages/"
+  },
+  "fbmp 0": {
+    "url": "https://www.facebook.com/marketplace/"
+  },
+  "fbmp 1": {
+    "url": "https://www.facebook.com/marketplace/search/?query=<query>"
+  },
+  "fbook 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "fb"
+      },
+      "created": "2023-01-15"
+    }
+  },
+  "fbook 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fb <1>"
+      },
+      "created": "2023-01-15"
+    }
+  },
+  "fbp 0": {
+    "url": "https://www.facebook.com/profile.php"
+  },
+  "fbpa 1": {
+    "url": "https://www.facebook.com/search/pages/?q=<query>"
+  },
+  "fbpe 1": {
+    "url": "https://www.facebook.com/search/results.php?q=<name>&type=users"
+  },
+  "fbph 1": {
+    "url": "https://www.facebook.com/search/photos/?q=<query>"
+  },
+  "fbpl 1": {
+    "url": "https://www.facebook.com/search/places/?q=<query>"
+  },
+  "fbpo 1": {
+    "url": "https://www.facebook.com/search/posts/?q=<query>"
+  },
+  "fbsd 1": {
+    "url": "https://www.freebsd.org/cgi/man.cgi?query=<manpage>"
+  },
+  "fbsd 2": {
+    "url": "https://www.freebsd.org/cgi/man.cgi?sektion=<section>&query=<manpage>"
+  },
+  "fbsdfp 1": {
+    "url": "https://www.freshports.org/search.php?query=<query>",
+    "tests": [
+      {
+        "arguments": "firefox",
+        "expect": "Web browser based on the browser portion of Mozilla"
+      }
+    ]
+  },
+  "fbsdp 1": {
+    "url": "https://ports.freebsd.org/cgi/ports.cgi?query=<query>"
+  },
+  "fbsdp 2": {
+    "url": "https://ports.freebsd.org/cgi/ports.cgi?sektion=<category>&query=<query>"
+  },
+  "fbu 1": {
+    "url": "https://www.facebook.com/<username>"
+  },
+  "fbv 1": {
+    "url": "https://www.facebook.com/search/videos/?q=<query>"
+  },
+  "fbw 0": {
+    "url": "https://www.fahrerbewertung.de"
+  },
+  "fd 1": {
+    "url": "https://www.thefreedictionary.com/<word>"
+  },
+  "fddb 1": {
+    "url": "https://fddb.info/db/de/suche/?udd=0&cat=site-de&search=<query>"
+  },
+  "fedbug 0": {
+    "url": "https://bugzilla.redhat.com/query.cgi"
+  },
+  "fedbugq 1": {
+    "url": "https://bugzilla.redhat.com/buglist.cgi?quicksearch=<query>"
+  },
+  "fedex 1": {
+    "url": "https://www.fedex.com/fedextrack/?trknbr=<track number>"
+  },
+  "fedora-wiki 1": {
+    "url": "https://fedoraproject.org/wiki/Special:Search?search=<query>"
+  },
+  "fedw 1": {
+    "url": "https://fedoraproject.org/wiki/Special:Search?search=<query>"
+  },
+  "ff 0": {
+    "url": "https://www.fileformat.info"
+  },
+  "ff 1": {
+    "url": "https://www.google.com/search?hl=de&q=<query>%20site%3Afileformat.info&ie=utf-8"
+  },
+  "ffaddon 0": {
+    "url": "https://addons.mozilla.org/firefox/"
+  },
+  "ffaddon 1": {
+    "url": "https://addons.mozilla.org/firefox/search?q=<addon>"
+  },
+  "ffi 0": {
+    "url": "https://www.fotofinder.com/"
+  },
+  "ffi 1": {
+    "url": "https://www.fotofinder.com/?text=<Suche>&defaultstring=Suchbegriff(e)+eingeben&ownerid=0&start_date=&end_date=&_rm=on&_rf=on&_mr=&suchtype=fulltext&lang=de&usrtrck=fulltext_search"
+  },
+  "ffr 0": {
+    "url": "https://www.filmfriend.de/",
+    "tests": [
+      {
+        "expect": "<title>filmfriend</title>"
+      }
+    ]
+  },
+  "ffr 1": {
+    "url": "https://www.filmfriend.de/en/search?search=<query>",
+    "tests": [
+      {
+        "arguments": "Berlin",
+        "expect": "<title>Search - filmfriend</title>"
+      }
+    ]
+  },
+  "fi 0": {
+    "include": [
+      {
+        "key": "fi 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "fi 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "fi 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "fi 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "fi 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fi 1": {
+    "include": [
+      {
+        "key": "fi 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "fi 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "fi 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "fi 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "fi 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "filmweb_ludzie 1": {
+    "url": "https://www.filmweb.pl/szukaj?q=<query>&c=person"
+  },
+  "filmweb_tytul 1": {
+    "url": "https://www.filmweb.pl/szukaj?q=<query>&c=film"
+  },
+  "findutf 0": {
+    "url": "https://shapecatcher.com"
+  },
+  "fisbroker 0": {
+    "url": "https://fbinter.stadt-berlin.de/fb/index.jsp",
+    "description": "Ein umfangreicher Geodatenkatalog bietet Karten, Pläne und andere Daten mit Raumbezug aus Berlin. Hier kann räumlich, z.B. über Adressen und inhaltlich (z.B. nach Schlagworten) gesucht werden. Die datenbereitstellenden Dienste sind bei den Datensätzen genannt.\r\n\r\nIn einem Viewer können Karten angesehen, überlagert und mit Sachdaten verknüpft werden. Über die Dossierfunktion können schnell viele Informationen für ein Grundstück abgerufen werden."
+  },
+  "fiverr 0": {
+    "url": "https://www.fiverr.com/"
+  },
+  "fiverr 1": {
+    "url": "https://www.fiverr.com/search/gigs?query=<query>"
+  },
+  "fl 0": {
+    "url": "https://www.flickr.com/"
+  },
+  "fl 1": {
+    "url": "https://flickr.com/search/?q=<query>",
+    "include": "fl 0"
+  },
+  "fla 0": {
+    "url": "https://www.flickr.com/search/advanced/",
+    "include": "fl 0"
+  },
+  "flcc 1": {
+    "url": "https://www.flickr.com/search/?text=<query>&license=2%2C3%2C4%2C5%2C6%2C9",
+    "include": "fl 0"
+  },
+  "flcca 1": {
+    "url": "https://www.flickr.com/search/?text=<query>&license=1%2C2%2C9%2C10",
+    "include": "fl 0"
+  },
+  "flccc 1": {
+    "url": "https://www.flickr.com/search/?text=<query>&license=4%2C5%2C6%2C9%2C10",
+    "include": "fl 0"
+  },
+  "flccca 1": {
+    "url": "https://www.flickr.com/search/?text=<query>&license=4%2C5%2C9%2C10"
+  },
+  "fli 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "fla <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "fli 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fl <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "flicc 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "flcc <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "flicca 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "flcca <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "fliccc 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "flccc <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "fliccca 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "flccca <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "flickr 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fl <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "flickrshow 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fls <1>"
+      },
+      "created": "2024-03-21"
+    }
+  },
+  "fls 1": {
+    "url": "https://flickr.com/search/show/?q=<query>",
+    "include": "fl 0"
+  },
+  "flt 1": {
+    "url": "https://flickr.com/photos/tags/<tag>",
+    "include": "fl 0"
+  },
+  "flu 1": {
+    "url": "https://www.flickr.com/search/people/?q=<user>",
+    "include": "fl 0"
+  },
+  "fnet 1": {
+    "url": "https://www.finanzen.net/suchergebnis.asp?_search=<query>"
+  },
+  "fo 0": {
+    "include": [
+      {
+        "key": "fo 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fo 1": {
+    "include": [
+      {
+        "key": "fo 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fos 0": {
+    "url": "https://www.fotosearch.de/"
+  },
+  "fos 1": {
+    "url": "https://www.fotosearch.de/bilder-fotos/<query>.html"
+  },
+  "fotofinder 1": {
+    "url": "https://www.fotofinder.com/?text=<Suche>&defaultstring=Suchbegriff(e)+eingeben&ownerid=0&start_date=&end_date=&_rm=on&_rf=on&_mr=&suchtype=fulltext&lang=de&usrtrck=fulltext_search"
+  },
+  "fpl 1": {
+    "url": "https://filmpolski.pl/fp/index.php/8/<query>"
+  },
+  "fpwg 0": {
+    "url": "https://www.kessnux.de/anwendungen/passwort-generator.php"
+  },
+  "fr 0": {
+    "include": [
+      {
+        "key": "fr 0",
+        "namespace": "ard"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "lge"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "fr 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fr 1": {
+    "include": [
+      {
+        "key": "fr 1",
+        "namespace": "ard"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "lge"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "fr 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fr-an 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fr.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "frde 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fr.de <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "freedb 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "gnudb <1>"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "freenode 1": {
+    "url": "https://irc.netsplit.de/channels/?net=freenode&chat=<query>"
+  },
+  "freesound 1": {
+    "url": "https://freesound.org/search/?q=<query>"
+  },
+  "fremdwort 1": {
+    "url": "https://www.fremdwort.de/suche.php?term=<query>"
+  },
+  "fren 1": {
+    "url": "https://www.wordreference.com/fren/<word>"
+  },
+  "frsv 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fr.sv <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "frv 1": {
+    "url": "https://forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, English interface"
+  },
+  "fs 0": {
+    "url": "https://www.fontsquirrel.com/",
+    "description": "Selection of free fonts for commercial use"
+  },
+  "fs 1": {
+    "url": "https://www.fontsquirrel.com/fonts/list/find_fonts?q[term]=<query>",
+    "description": "Search free fonts for commercial use"
+  },
+  "fsc 1": {
+    "url": "https://www.google.com/search?q=<query>&sitesearch=fscklog.com"
+  },
+  "fv 1": {
+    "url": "https://validator.w3.org/feed/check.cgi?url=<url>"
+  },
+  "fx 1": {
+    "url": "https://www.frederix.de/index.php?searchword=<query>&option=com_search&Itemid=5"
+  },
+  "fy 0": {
+    "include": [
+      {
+        "key": "fy 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fy 1": {
+    "include": [
+      {
+        "key": "fy 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "fz 1": {
+    "url": "https://fizy.com/?q=<name of song xor artist>"
+  },
+  "g 0": {
+    "url": "https://www.google.com/search?hl=<$language>"
+  },
+  "g 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "g! 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>&ie=utf-8&btnI=1"
+  },
+  "g-en-de 1": {
+    "url": "https://translate.google.de/?hl=de&tab=wT#en|de|<query>"
+  },
+  "g-pdf 1": {
+    "url": "https://www.google.de/search?q=<query>&as_filetype=pdf"
+  },
+  "g100 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>&ie=utf-8&num=100"
+  },
+  "g? 0": {
+    "url": "https://www.google.com/intl/<$language>/about.html"
+  },
+  "ga 0": {
+    "include": [
+      {
+        "key": "ga 0",
+        "namespace": "irs"
+      },
+      {
+        "key": "ga 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ga 1": {
+    "include": [
+      {
+        "key": "ga 1",
+        "namespace": "irs"
+      },
+      {
+        "key": "ga 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "gamespot 1": {
+    "url": "https://www.gamespot.com/search/?i=&q=<query>"
+  },
+  "gan 1": {
+    "url": "https://www.google.com/search?hl=en&q=android%20<query>&ie=utf-8"
+  },
+  "gbooks 0": {
+    "url": "https://books.google.com/"
+  },
+  "gbooks 1": {
+    "url": "https://books.google.com/books?hl=<$language>&q=<query>"
+  },
+  "gby 2": {
+    "url": "https://www.google.de/search?tbs=cdr%3A1%2Ccd_min%3A%2Ccd_max%3A <year>&q= <query>&hl=de&source=lnt&tbm="
+  },
+  "gc 1": {
+    "url": "https://google.com/search?hl=<$language>&q=cache:<query>"
+  },
+  "gcal 0": {
+    "url": "https://www.google.com/calendar"
+  },
+  "gcal 1": {
+    "url": "https://www.google.com/calendar/render?q=<query>"
+  },
+  "gcbug 1": {
+    "url": "https://code.google.com/p/<project>/issues/list"
+  },
+  "gch 1": {
+    "url": "https://www.google.ch/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "gcm 2": {
+    "url": "https://www.greatcirclemap.com/?routes=<from IATA>-<to IATA>",
+    "description": "Enter two or more airports to draw a route between them on the map and calculate the distance."
+  },
+  "gco 0": {
+    "url": "https://www.google.com/contacts/"
+  },
+  "gco 1": {
+    "url": "https://contacts.google.com/search/<query>"
+  },
+  "gd 0": {
+    "include": [
+      {
+        "key": "gd 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "gd 1": {
+    "include": [
+      {
+        "key": "gd 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "gd 2": {
+    "url": "https://maps.google.com/maps?hl=<$language>&saddr=<start: {type: city}>&daddr=<destination: {type: city}>"
+  },
+  "gdb 2": {
+    "url": "https://www.google.com/maps/dir/?api=1&origin=<start: {type: city}>&destination=<destination: {type: city}>&travelmode= bicycling"
+  },
+  "gdd 2": {
+    "url": "https://www.google.com/maps/dir/?api=1&origin=<start: {type: city}>&destination=<destination: {type: city}>&travelmode=driving"
+  },
+  "gde 1": {
+    "url": "https://www.google.com/search?hl=<$language>&lr=lang_de&q=<query>&ie=utf-8"
+  },
+  "gdl 1": {
+    "url": "https://google.com/search?hl=<$language>&q=<query>+-inurl%3Ahtm+-inurl%3Ahtml+intitle%3A%22index+of%22+%22Last+modified%22"
+  },
+  "gdocs 1": {
+    "url": "https://docs.google.com/document/u/0/?q=<query>"
+  },
+  "gdr 0": {
+    "url": "https://drive.google.com/"
+  },
+  "gdr 1": {
+    "url": "https://drive.google.com/#search/<query>"
+  },
+  "gdt 2": {
+    "url": "https://www.google.com/maps/dir/?api=1&origin=<start: {type: city}>&destination=<destination: {type: city}>&travelmode=transit"
+  },
+  "gdw 2": {
+    "url": "https://www.google.com/maps/dir/?api=1&origin=<start: {type: city}>&destination=<destination: {type: city}>&travelmode=walking"
+  },
+  "gede 0": {
+    "url": "https://encrypted.google.com/search?hl=de"
+  },
+  "gede 1": {
+    "url": "https://encrypted.google.com/search?hl=de&q=<query>"
+  },
+  "gem 1": {
+    "url": "https://rubygems.org/search?utf8=✓&query=<query>"
+  },
+  "gen 1": {
+    "url": "https://www.google.com/search?hl=<$language>&lr=lang_en&q=<query>&ie=utf-8"
+  },
+  "gentoo-forums 0": {
+    "url": "https://forums.gentoo.org"
+  },
+  "gentoo-planet 0": {
+    "url": "https://planet.gentoo.org"
+  },
+  "getty 0": {
+    "url": "https://www.gettyimages.de"
+  },
+  "getty 1": {
+    "url": "https://www.gettyimages.de/search/2/image?family=creative&phrase=<query>"
+  },
+  "gf 2": {
+    "url": "https://www.google.com/search?hl=<$language>&q=filetype%3A<filetype>%20<query>&ie=utf-8"
+  },
+  "gfin 0": {
+    "url": "https://finance.google.com/"
+  },
+  "gfin 1": {
+    "url": "https://finance.google.com/finance?q=<value>"
+  },
+  "gfl 0": {
+    "url": "https://www.google.com/flights/"
+  },
+  "gfl 1": {
+    "url": "https://www.google.com/travel/flights?q=<query>",
+    "include": "gfl 0"
+  },
+  "gfl 2": {
+    "url": "https://www.google.com/travel/flights?q=Flights%20from%20<from>%20to%20<to>",
+    "include": "gfl 0"
+  },
+  "gfl 3": {
+    "url": "https://www.google.com/travel/flights?q=Flights%20from%20<from>%20to%20<to>%20on%20<departure date: {type: date}>",
+    "include": "gfl 0"
+  },
+  "gfl 4": {
+    "url": "https://www.google.com/travel/flights?q=Flights%20from%20<from>%20to%20<to>%20on%20<departure date: {type: date}>%20through%20<arrival date: {type: date}>",
+    "include": "gfl 0"
+  },
+  "gfl1 2": {
+    "url": "https://www.google.com/travel/flights?q=one-way%20flights%20from%20<from>%20to%20<to>",
+    "include": "gfl 0"
+  },
+  "gfl1 3": {
+    "url": "https://www.google.com/travel/flights?q=one-way%20flights%20from%20<from>%20to%20<to>%20on%20<departure date: {type: date}>",
+    "include": "gfl 0"
+  },
+  "gfp 1": {
+    "url": "https://german-foreign-policy.com/index.php?lang=en&mode=detailed-search&mcat=archive&string_or=&string_not=&date_start=&date_end=&string_and=<query>"
+  },
+  "gg 0": {
+    "url": "https://groups.google.com/search?hl=<$language>"
+  },
+  "gg 1": {
+    "url": "https://groups.google.com/search?hl=<$language>&q=<query>"
+  },
+  "gh 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "gzh"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "gh 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "gzh <0>"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "gi 0": {
+    "include": "gim 0"
+  },
+  "gi 1": {
+    "include": "gim 1"
+  },
+  "gif 1": {
+    "include": "gimf 1"
+  },
+  "gilson 1": {
+    "url": "https://ch.gilson.com/CHSV/catalogsearch/result/?q=<query>"
+  },
+  "gim 0": {
+    "url": "https://www.google.com/imghp?hl=<$language>"
+  },
+  "gim 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>&ie=utf-8&tbm=isch"
+  },
+  "gimf 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>&ie=utf-8&tbm=isch&tbs=itp:face"
+  },
+  "github 0": {
+    "url": "https://github.com/"
+  },
+  "github 1": {
+    "url": "https://github.com/search?q=<query>"
+  },
+  "gitlab 0": {
+    "url": "https://gitlab.com"
+  },
+  "gitlab 1": {
+    "url": "https://gitlab.com/<repository>"
+  },
+  "gkp 0": {
+    "url": "https://keep.google.com/"
+  },
+  "gkp 1": {
+    "url": "https://keep.google.com/#search/text=<query>",
+    "include": "gkp 0"
+  },
+  "gl 0": {
+    "include": [
+      {
+        "key": "gl 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "gl 1": {
+    "include": [
+      {
+        "key": "gl 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "glist 1": {
+    "url": "https://google.com/search?hl=<$language>&q=<query>+-inurl%3Ahtm+-inurl%3Ahtml+intitle%3A%22index+of%22+%22Last+modified%22"
+  },
+  "gm 0": {
+    "url": "https://www.google.com/maps?hl=<$language>"
+  },
+  "gm 1": {
+    "url": "https://www.google.com/maps/search/<location>/?hl=<$language>"
+  },
+  "gm 2": {
+    "url": "https://www.google.com/maps/search/<city: {type: city}>%2C%20<street>/?hl=<$language>"
+  },
+  "gmail 0": {
+    "url": "https://mail.google.com"
+  },
+  "gmail 1": {
+    "url": "https://mail.google.com/mail/#search/<query>"
+  },
+  "gmbb 2": {
+    "url": "https://gmb.let.rug.nl/explorer/explore.php?part=<part>&doc_id=<doc_id>&type=bows"
+  },
+  "gmbd 2": {
+    "url": "https://gmb.let.rug.nl/explorer/explore.php?part=<part>&doc_id=<doc_id>&type=drs.xml"
+  },
+  "gmbm 2": {
+    "url": "https://gmb.let.rug.nl/explorer/explore.php?part=<part>&doc_id=<doc_id>&type=met"
+  },
+  "gmbr 2": {
+    "url": "https://gmb.let.rug.nl/explorer/explore.php?part=<part>&doc_id=<doc_id>&type=raw"
+  },
+  "gmbs 2": {
+    "url": "https://gmb.let.rug.nl/explorer/explore.php?part=<part>&doc_id=<doc_id>&type=der.xml"
+  },
+  "gmbt 2": {
+    "url": "https://gmb.let.rug.nl/explorer/explore.php?part=<part>&doc_id=<doc_id>&type=tok.iob"
+  },
+  "gmbw 2": {
+    "url": "https://gmb.let.rug.nl/explorer/explore.php?part=<part>&doc_id=<doc_id>&type=warnings"
+  },
+  "gmch 1": {
+    "url": "https://www.google.com/maps/search/<Ort>%2C%20Switzerland"
+  },
+  "gmde 1": {
+    "url": "https://www.google.com/maps/search/<Ort>%2C%20Germany"
+  },
+  "gmob 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "g <1>"
+      },
+      "created": "2023-04-19"
+    }
+  },
+  "gmp3 1": {
+    "url": "https://www.google.com/search?hl=en&lr=&safe=off&q=intitle%3Aindex.of+%2B%E2%80%9Dlast+modified%E2%80%9D+%2B%E2%80%9Dparent+directory%E2%80%9D+%2B(mp3|wma|ogg)+%2B%22<query>%22+-htm+-html+-php+-asp+-txt+-pls&btnG=Search"
+  },
+  "gmr 2": {
+    "url": "https://www.google.com/maps?hl=<$language>&saddr=<from>&daddr=<to>"
+  },
+  "gmts 1": {
+    "url": "https://gmb.let.rug.nl/explorer/search.php?term=<term>"
+  },
+  "gn 0": {
+    "url": "https://news.google.com/topstories?&gl=<$country: {}>"
+  },
+  "gn 1": {
+    "url": "https://news.google.com/search?q=<query>&gl=<$country: {}>"
+  },
+  "gns 1": {
+    "url": "https://www.google.com/search?q=<query>&tbm=nws&hl=<$language>"
+  },
+  "gnu 2": {
+    "url": "https://www.google.com/search?ned=<language-code>&q=<query>&source=lnms&tbm=nws"
+  },
+  "gnudb 0": {
+    "url": "https://gnudb.org/"
+  },
+  "gnudb 1": {
+    "url": "https://gnudb.org/search/<query>",
+    "include": "gnudb 0"
+  },
+  "go 0": {
+    "url": "https://pkg.go.dev",
+    "description": "Package browser for the Go programming language"
+  },
+  "go 1": {
+    "url": "https://pkg.go.dev/search?q=<query>",
+    "description": "Package browser for the Go programming language"
+  },
+  "gobug 0": {
+    "url": "https://bugs.gentoo.org/query.cgi?format=specific"
+  },
+  "god 1": {
+    "url": "https://www.godchecker.com/pantheon/index.php?_search-results=Y&name=<name>"
+  },
+  "gol 1": {
+    "url": "https://www.google.com/search?hl=<$language>&lr=lang_<$language>&q=<query>&ie=utf-8"
+  },
+  "gol 2": {
+    "url": "https://www.google.com/search?hl=<$language>&lr=lang_<language>&q=<query>&ie=utf-8"
+  },
+  "goof 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "gfin"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "goof 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "gfin <1>"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "gopkg 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "go <0>"
+      },
+      "created": "2024-05-09"
+    }
+  },
+  "gopkg 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "go <1>"
+      },
+      "created": "2024-05-09"
+    }
+  },
+  "gp 0": {
+    "url": "https://play.google.com/store"
+  },
+  "gp 1": {
+    "url": "https://play.google.com/store/search?q=<query>"
+  },
+  "gpa 1": {
+    "url": "https://play.google.com/store/search?q=<query>&c=apps"
+  },
+  "gpdf 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>+filetype:pdf&ie=utf-8"
+  },
+  "gph 0": {
+    "url": "https://photos.google.com/login"
+  },
+  "gph 1": {
+    "url": "https://photos.google.com/search/<query>"
+  },
+  "gpm 0": {
+    "url": "https://play.google.com/music/listen"
+  },
+  "gpm 1": {
+    "url": "https://play.google.com/music/listen#<query>_sr"
+  },
+  "gpo 1": {
+    "url": "https://gpo.zugaina.org/Search?search=<package>"
+  },
+  "gr 0": {
+    "url": "https://www.goodreads.com/"
+  },
+  "gr 1": {
+    "url": "https://www.goodreads.com/search?utf8=%E2%9C%93&query=<query>",
+    "include": [
+      {
+        "key": "gr 0"
+      }
+    ]
+  },
+  "grde 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "g <1>"
+      },
+      "created": "2024-04-19"
+    }
+  },
+  "grhp 2": {
+    "url": "https://graphhopper.com/maps/?point=<start>&point=<destination>&locale=<$language>"
+  },
+  "grnd 0": {
+    "url": "https://ground.news/",
+    "tests": [
+      {
+        "expect": "Ground News</title>"
+      }
+    ]
+  },
+  "grnd 1": {
+    "url": "https://ground.news/find?url=<query>",
+    "tests": [
+      {
+        "arguments": "berlin",
+        "expect": "Find Your Story</title>"
+      }
+    ],
+    "include": "grnd 0"
+  },
+  "groovesalad 0": {
+    "url": "https://somafm.com/player/#/now-playing/groovesalad"
+  },
+  "gsch 0": {
+    "url": "https://scholar.google.com/scholar?hl=<$language>"
+  },
+  "gsch 1": {
+    "url": "https://scholar.google.com/scholar?hl=<$language>&q=<query>"
+  },
+  "gsh 0": {
+    "url": "https://www.google.com/shopping"
+  },
+  "gsh 1": {
+    "url": "https://www.google.com/search?tbm=shop&hl=<$language>&q=<query>"
+  },
+  "gsheets 1": {
+    "url": "https://docs.google.com/spreadsheets/u/0/?q=<query>"
+  },
+  "gslides 1": {
+    "url": "https://docs.google.com/presentation/u/0/?q=<query>"
+  },
+  "gss 2": {
+    "url": "https://www.google.com/search?hl=<$language>&q=site%3A<site>%20<query>"
+  },
+  "gssl 0": {
+    "url": "https://www.google.com/search?hl=<$language>"
+  },
+  "gssl 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "gt 2": {
+    "url": "https://www.google.com/search?hl=<$language>&tbs=qdr:<time>&q=<query>&ie=utf-8"
+  },
+  "gtr 0": {
+    "url": "https://translate.google.com/"
+  },
+  "gtr 1": {
+    "url": "https://translate.google.com/translate_t?sl=auto&text=<phrase/url>"
+  },
+  "gtr 2": {
+    "url": "https://translate.google.com/translate_t?sl=auto&tl=<target language>&text=<phrase/url>"
+  },
+  "gtr 3": {
+    "url": "https://translate.google.com/translate_t?sl=<source language>&tl=<target language>&text=<phrase/url>"
+  },
+  "gtrends 1": {
+    "url": "https://trends.google.com/trends/explore?q=<query>"
+  },
+  "gtrends 2": {
+    "url": "https://trends.google.com/trends/explore?geo=<country: {transform: uppercase}>&q=<query>"
+  },
+  "gu 0": {
+    "include": [
+      {
+        "key": "gu 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "gu 1": {
+    "include": [
+      {
+        "key": "gu 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "guk 1": {
+    "url": "https://www.google.co.uk/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "gv 0": {
+    "url": "https://www.google.com/videohp?hl=<$language>"
+  },
+  "gv 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>&ie=utf-8&tbm=vid"
+  },
+  "gvid 1": {
+    "url": "https://www.google.com/search?hl=en&lr=&safe=off&q=intitle%3Aindex.of+%2B%E2%80%9Dlast+modified%E2%80%9D+%2B%E2%80%9Dparent+directory%E2%80%9D+%2B(avi|mp4|flv)+%2B%22<query>%22+-htm+-html+-php+-asp+-txt+-pls&btnG=Search"
+  },
+  "gw 0": {
+    "url": "https://www.guildwiki.org/Main_Page"
+  },
+  "gw 1": {
+    "url": "https://www.guildwiki.org/index.php?title=Special%3ASearch&search=<query>&go=Go"
+  },
+  "gw2 0": {
+    "url": "https://wiki.guildwars2.com/"
+  },
+  "gw2 1": {
+    "url": "https://wiki.guildwars2.com/index.php?title=Special%3ASearch&search=<query>&go=Go"
+  },
+  "gwb 1": {
+    "url": "https://www.googlewatchblog.de/index.php?s=<query>"
+  },
+  "gwo 0": {
+    "url": "https://wiki.guildwars.com/wiki/Main_Page"
+  },
+  "gwo 1": {
+    "url": "https://wiki.guildwars.com/wiki/<query>"
+  },
+  "gwt 1": {
+    "url": "https://www.google.com/search?hl=en&q=inurl%3Ajavadoc%2Flatest%2Fcom%2Fgoogle%2Fgwt%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "gwtb 1": {
+    "url": "https://www.google.com/search?hl=en&q=inurl%3Aapidocs%2Fcom%2Fgithub%2Fgwtbootstrap%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "gww 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=<query>%20-site:wikipedia.org&ie=utf-8"
+  },
+  "gy 1": {
+    "url": "https://www.google.de/search?q=<query>&hl=de&tbs=qdr:y"
+  },
+  "gzh 0": {
+    "url": "https://geizhals.eu/"
+  },
+  "gzh 1": {
+    "url": "https://geizhals.at/eu/?fs=<Produkt: {encoding: iso-8859-1}>"
+  },
+  "ha 0": {
+    "include": [
+      {
+        "key": "ha 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ha 1": {
+    "include": [
+      {
+        "key": "ha 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "hbr 1": {
+    "url": "https://hbr.org/search?term=<query>"
+  },
+  "hdb 1": {
+    "url": "https://hackage.haskell.org/cgi-bin/hackage-scripts/package/<package name>"
+  },
+  "he 0": {
+    "include": [
+      {
+        "key": "he 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "he 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "he 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "he 1": {
+    "include": [
+      {
+        "key": "he 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "he 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "he 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "here 0": {
+    "url": "https://wego.here.com/"
+  },
+  "here 1": {
+    "url": "https://wego.here.com/search/<location>"
+  },
+  "hexdec 1": {
+    "url": "https://stefanschramm.net/dev/hex/?hex=<hex value>"
+  },
+  "hexenc 1": {
+    "url": "https://stefanschramm.net/dev/hex/?dec=<decimal value>"
+  },
+  "hi 0": {
+    "include": [
+      {
+        "key": "hi 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "hi 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "hi 1": {
+    "include": [
+      {
+        "key": "hi 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "hi 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "hm 1": {
+    "url": "https://hypem.com/search/<query>"
+  },
+  "hoo 1": {
+    "url": "https://haskell.org/hoogle/?q=<query>"
+  },
+  "hotu 1": {
+    "url": "https://www.homeoftheunderdogs.net/search.php?search_game=<query>"
+  },
+  "hr 0": {
+    "include": [
+      {
+        "key": "hr 0",
+        "namespace": "crd"
+      },
+      {
+        "key": "hr 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "hr 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "hr 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "hr 1": {
+    "include": [
+      {
+        "key": "hr 1",
+        "namespace": "crd"
+      },
+      {
+        "key": "hr 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "hr 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "hr 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "html-pdf 1": {
+    "url": "https://www.sejda.com/html-to-pdf?convert=%E2%9C%93&u=<url>"
+  },
+  "html2pdf 1": {
+    "url": "https://www.htm2pdf.co.uk/?url=<url>"
+  },
+  "http 1": {
+    "url": "http://<domain>"
+  },
+  "https 1": {
+    "url": "https://<domain>"
+  },
+  "hu 0": {
+    "include": [
+      {
+        "key": "hu 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "hu 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "hu 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "hu 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "hu 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "hu 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "hu 1": {
+    "include": [
+      {
+        "key": "hu 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "hu 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "hu 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "hu 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "hu 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "hu 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "hy 0": {
+    "include": [
+      {
+        "key": "hy 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "hy 1": {
+    "include": [
+      {
+        "key": "hy 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "i 0": {
+    "url": "https://www.imdb.com/"
+  },
+  "i 1": {
+    "url": "https://www.imdb.com/find/?s=all&q=<query>"
+  },
+  "iafd 1": {
+    "url": "https://www.iafd.com/results.asp?searchtype=comprehensive&searchstring=<query>"
+  },
+  "ibash 0": {
+    "url": "http://ibash.de/neueste_1.html"
+  },
+  "icd 1": {
+    "url": "https://www.icd-code.de/suche/icd/recherche.html?sp=0&sp=S<query>"
+  },
+  "icon 1": {
+    "url": "https://www.iconspedia.com/search/<query>/"
+  },
+  "icq 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=icq.im&q=<nickname>"
+  },
+  "id 0": {
+    "include": [
+      {
+        "key": "id 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "id 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "id 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "id 1": {
+    "include": [
+      {
+        "key": "id 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "id 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "id 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ida 1": {
+    "url": "https://www.imdb.com/find/?s=tt&site=aka&q=<query>"
+  },
+  "idealo 1": {
+    "deprecated": {
+      "alternative": {
+        "query": ".de.idl <1>"
+      },
+      "created": "2023-12-15"
+    }
+  },
+  "ieee 1": {
+    "url": "https://ieeexplore.ieee.org/search/searchresult.jsp?history=yes&queryText=<query>"
+  },
+  "if 1": {
+    "url": "https://www.iconfinder.com/search?q=<query>"
+  },
+  "ig 0": {
+    "include": [
+      {
+        "key": "ig 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ig 1": {
+    "include": [
+      {
+        "key": "ig 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ii 0": {
+    "include": [
+      {
+        "key": "ii 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ii 1": {
+    "include": [
+      {
+        "key": "ii 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ikeanl 1": {
+    "deprecated": {
+      "alternative": {
+        "query": ".nl.ikea <1>"
+      },
+      "created": "2023-01-22"
+    }
+  },
+  "imdb 0": {
+    "url": "https://www.imdb.com"
+  },
+  "imdb 1": {
+    "url": "https://www.imdb.com/find?s=all&q=<query>"
+  },
+  "imfdb 1": {
+    "url": "https://www.imfdb.org/wiki/<query>"
+  },
+  "imslp 0": {
+    "url": "https://imslp.org/index.php?title=Special:Search&search="
+  },
+  "inf 1": {
+    "url": "https://www.info.com/serp?q=<query>"
+  },
+  "ink 1": {
+    "url": "https://wiki.inkscape.org/wiki/index.php?title=Special%3ASearch&search=<feature>&go=Go"
+  },
+  "integral 1": {
+    "url": "https://www.wolframalpha.com/input/?i=integral%20<query>"
+  },
+  "ip 0": {
+    "url": "https://www.heise.de/ip/"
+  },
+  "iper 1": {
+    "url": "http://ipernity.com/search/doc?q=<query>&s=0"
+  },
+  "ipkat 0": {
+    "url": "https://ipkitten.blogspot.de"
+  },
+  "is 0": {
+    "include": [
+      {
+        "key": "is 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "is 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "is 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "is 1": {
+    "include": [
+      {
+        "key": "is 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "is 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "is 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "isg 0": {
+    "url": "https://www.instagram.com/",
+    "tests": [
+      {
+        "expect": "<title>Instagram"
+      }
+    ],
+    "description": "Instagram is a photo and video-sharing social networking service owned by Facebook, Inc. that allows users to upload photos and videos, which can be edited with various filters, and organized with tags and location information."
+  },
+  "isg 1": {
+    "url": "https://www.instagram.com/<user>",
+    "tests": [
+      {
+        "arguments": "linux_foundation",
+        "expect": "linux_foundation"
+      }
+    ],
+    "include": [
+      {
+        "key": "isg 0"
+      }
+    ]
+  },
+  "ist 0": {
+    "url": "https://www.istockphoto.com"
+  },
+  "ist 1": {
+    "url": "https://www.istockphoto.com/file_search.php?action=file&text=<query>&refnum=serchilo"
+  },
+  "istockphoto 1": {
+    "url": "https://www.istockphoto.com/file_search.php?action=file&text=<query>&refnum=serchilo"
+  },
+  "isup 1": {
+    "url": "https://www.freshworks.com/website-monitoring/is-it-down/<host>"
+  },
+  "it 0": {
+    "include": [
+      {
+        "key": "it 0",
+        "namespace": "ard"
+      },
+      {
+        "key": "it 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "it 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "it 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "it 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "it 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "it 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "it 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "it 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "it 1": {
+    "include": [
+      {
+        "key": "it 1",
+        "namespace": "ard"
+      },
+      {
+        "key": "it 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "it 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "it 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "it 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "it 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "it 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "it 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "it 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ja 0": {
+    "include": [
+      {
+        "key": "ja 0",
+        "namespace": "wdk"
+      },
+      {
+        "key": "ja 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ja 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ja 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ja 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ja 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ja 1": {
+    "include": [
+      {
+        "key": "ja 1",
+        "namespace": "wdk"
+      },
+      {
+        "key": "ja 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ja 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ja 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ja 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ja 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "jam 1": {
+    "url": "https://www.jamendo.com/search?qs=q=<query>"
+  },
+  "japi 1": {
+    "url": "https://www.google.com/search?hl=en&q=<query>+inurl%3Ajavase+6+docs+api+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "japiall 1": {
+    "url": "https://www.google.com/search?hl=en&q=<query>+inurl%3Ajavase+6+docs+api+Class+<query>&ie=utf-8"
+  },
+  "java 0": {
+    "url": "https://download.oracle.com/javase/7/docs/api/index.html"
+  },
+  "java 1": {
+    "url": "https://www.google.com/search?hl=en&q=inurl%3Ajavase%2F7%2Fdocs%2Fapi%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "java5 0": {
+    "url": "https://download.oracle.com/javase/1.5.0/docs/api/"
+  },
+  "java6 0": {
+    "url": "https://download.oracle.com/javase/6/docs/api/index.html"
+  },
+  "java6 1": {
+    "url": "https://www.google.com/search?hl=en&q=inurl%3Ajavase%2F6%2Fdocs%2Fapi%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "java7 1": {
+    "url": "https://www.google.com/search?hl=en&q=inurl%3Ajavase%2F7%2Fdocs%2Fapi%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "java8 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=inurl%3Ajavase%2F8%2Fdocs%2Fapi%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "jb 2": {
+    "url": "https://www.justbooks.de/search/?author=<author>&title=<title>&lang=<$language>&submit=Suchen&new_used=*&destination=de&currency=EUR&mode=basic&st=sr&ac=qr"
+  },
+  "jbde 2": {
+    "url": "https://www.justbooks.de/search/?author=<author>&title=<title>&lang=de&submit=Suchen&new_used=*&destination=de&currency=EUR&mode=basic&st=sr&ac=qr"
+  },
+  "jben 2": {
+    "url": "https://www.justbooks.de/search/?author=<author>&title=<title>&lang=en&submit=Suchen&new_used=*&destination=de&currency=EUR&mode=basic&st=sr&ac=qr"
+  },
+  "jcp 1": {
+    "url": "https://jcp.org/en/jsr/summary?id=<query>"
+  },
+  "jee 0": {
+    "url": "https://download.oracle.com/javaee/6/api/index.html"
+  },
+  "jee 1": {
+    "url": "https://www.google.com/search?hl=en&q=inurl%3Ajavaee%2F6%2Fapi%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "jee6 0": {
+    "url": "https://download.oracle.com/javaee/6/api/index.html"
+  },
+  "jee6 1": {
+    "url": "https://www.google.com/search?hl=en&q=inurl%3Ajavaee%2F6%2Fapi%2F+Class+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "jgrapht 0": {
+    "url": "https://www.jgrapht.org/javadoc/"
+  },
+  "jgrapht 1": {
+    "url": "https://www.google.com/search?hl=de&q=site%3Ahttp%3A%2F%2Fwww.jgrapht.org%2Fjavadoc%2F%20<query>&ie=utf-8"
+  },
+  "jm 1": {
+    "url": "https://www.jobmixer.com/de/jobs/<query>/1"
+  },
+  "jmp 1": {
+    "url": "https://j.mp/?u=<url>"
+  },
+  "journalup 1": {
+    "url": "https://rzblx1.uni-regensburg.de/ezeit/searchres.phtml?bibid=UBPO&lang=de&jq_type1=KT&jq_term1=<joural title>"
+  },
+  "jpc 1": {
+    "url": "https://www.jpc.de/jpcng/home/search?fastsearch=<query>&pd_orderby=score"
+  },
+  "jqg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=docs.jquery.com&q=<query>"
+  },
+  "jr 2": {
+    "url": "https://www.jorudan.co.jp/norikae/cgi/nori.cgi?rf=top&eok1=0&eok2=0&pg=0&eki1=<start>&rec1=-&eki2=<ziel>&Cway=0&S.x=60&S.y=11&S=%E6%A4%9C%E7%B4%A2&Csg=1"
+  },
+  "jsr 1": {
+    "url": "https://jcp.org/en/jsr/summary?id=<query>"
+  },
+  "jw 0": {
+    "url": "https://www.justwatch.com/",
+    "description": "Streaming sources for films and movies"
+  },
+  "ka 0": {
+    "include": [
+      {
+        "key": "ka 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ka 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ka 1": {
+    "include": [
+      {
+        "key": "ka 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ka 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "keno 0": {
+    "url": "https://www.kenozahlen.de/"
+  },
+  "keno 1": {
+    "url": "https://www.kenozahlen.de/?s=<Datum>"
+  },
+  "ki 0": {
+    "include": [
+      {
+        "key": "ki 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ki 1": {
+    "include": [
+      {
+        "key": "ki 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kk 0": {
+    "include": [
+      {
+        "key": "kk 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kk 1": {
+    "include": [
+      {
+        "key": "kk 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kl 0": {
+    "include": [
+      {
+        "key": "kl 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kl 1": {
+    "include": [
+      {
+        "key": "kl 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "km 0": {
+    "include": [
+      {
+        "key": "km 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "km 1": {
+    "include": [
+      {
+        "key": "km 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kn 0": {
+    "include": [
+      {
+        "key": "kn 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kn 1": {
+    "include": [
+      {
+        "key": "kn 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ko 0": {
+    "include": [
+      {
+        "key": "ko 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ko 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ko 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ko 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ko 1": {
+    "include": [
+      {
+        "key": "ko 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ko 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ko 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ko 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kong 1": {
+    "url": "https://www.kongregate.com/search?q=<query>"
+  },
+  "ks 0": {
+    "include": [
+      {
+        "key": "ks 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ks 1": {
+    "include": [
+      {
+        "key": "ks 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kt 1": {
+    "url": "https://kinox.to/Search.html?q=<query>"
+  },
+  "kuler 1": {
+    "url": "https://kuler.adobe.com/#themes/search?term=<term>"
+  },
+  "kw 0": {
+    "include": [
+      {
+        "key": "kw 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kw 1": {
+    "include": [
+      {
+        "key": "kw 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ky 0": {
+    "include": [
+      {
+        "key": "ky 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ky 1": {
+    "include": [
+      {
+        "key": "ky 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "kym 0": {
+    "url": "https://knowyourmeme.com/"
+  },
+  "kym 1": {
+    "url": "https://knowyourmeme.com/search?q=<query>",
+    "include": "kym 0"
+  },
+  "la 0": {
+    "include": [
+      {
+        "key": "la 0",
+        "namespace": "ama"
+      },
+      {
+        "key": "la 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "la 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "la 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "la 1": {
+    "include": [
+      {
+        "key": "la 1",
+        "namespace": "ama"
+      },
+      {
+        "key": "la 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "la 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "la 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lambda 0": {
+    "url": "http://lambda-the-ultimate.org"
+  },
+  "lambda 1": {
+    "url": "http://lambda-the-ultimate.org/search/node/<query>"
+  },
+  "laredoute 0": {
+    "url": "https://www.laredoute.com"
+  },
+  "laredoute 1": {
+    "url": "https://www.laredoute.com/search.aspx?keyword=<query>"
+  },
+  "larousse 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fr.lrs <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "last 0": {
+    "url": "https://www.last.fm/"
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=de&q=<query>"
+  },
+  "laste 0": {
+    "url": "https://www.last.fm/events"
+  },
+  "lb 0": {
+    "include": [
+      {
+        "key": "lb 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lb 1": {
+    "include": [
+      {
+        "key": "lb 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lc 1": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://www.logosconjugator.org/rv1.php&verbo=<verb>"
+  },
+  "lcn 0": {
+    "url": "https://lucene.apache.org/core/3_6_0/api/all/index.html"
+  },
+  "lcn 1": {
+    "url": "https://www.google.com/search?hl=en&q=site%3Ahttp://lucene.apache.org/core/4_1_0/+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "ldc 1": {
+    "url": "https://www.google.com/search?hl=de&q=site%3Ahttp%3A%2F%2Fwww.ldc.upenn.edu%2FCatalog%20<query>&ie=utf-8"
+  },
+  "le 0": {
+    "url": "https://letsencrypt.org"
+  },
+  "leo 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "leo.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "leo_es 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "leo.es <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "lg 0": {
+    "include": [
+      {
+        "key": "lg 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lg 1": {
+    "include": [
+      {
+        "key": "lg 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lh 0": {
+    "url": "https://www.lufthansa.com"
+  },
+  "libg 0": {
+    "url": "https://libgen.is"
+  },
+  "libg 1": {
+    "url": "https://libgen.is/search.php?req=<query>",
+    "include": "libg 0"
+  },
+  "libga 1": {
+    "url": "https://libgen.is/scimag?q=<query>",
+    "include": "libg 0"
+  },
+  "libgf 1": {
+    "url": "https://libgen.is/fiction?q=<query>",
+    "include": "libg 0"
+  },
+  "libgm 1": {
+    "url": "https://magzdb.org/makelist?t=<query>",
+    "include": "libg 0"
+  },
+  "lin 0": {
+    "url": "https://www.linkedin.com/"
+  },
+  "lin 1": {
+    "url": "https://www.linkedin.com/search/results/people/?keywords=<query>"
+  },
+  "linfr 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.fr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "linguee 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "lge.en <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "linz 2": {
+    "url": "https://www.linzag.at/efa/index.php?sstreet=<Start>&street=<Ziel>%E4t&x=0&y=0&_language=de"
+  },
+  "lipsum 0": {
+    "url": "https://www.lipsum.com/feed/html?name=start"
+  },
+  "lipsum 1": {
+    "url": "https://www.lipsum.com/feed/html?amount=<amount>&what=words&name=start"
+  },
+  "lipsum 2": {
+    "url": "https://www.lipsum.com/feed/html?amount=<amount>&what=<paragraphs/words/bytes/lists>&name=start"
+  },
+  "ln 0": {
+    "include": [
+      {
+        "key": "ln 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ln 1": {
+    "include": [
+      {
+        "key": "ln 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lo 0": {
+    "include": [
+      {
+        "key": "lo 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lo 1": {
+    "include": [
+      {
+        "key": "lo 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "loe 1": {
+    "url": "https://en.wikipedia.org/wiki/List_of_<title>_episodes"
+  },
+  "lotto 0": {
+    "url": "https://www.lottozahlen.info/"
+  },
+  "lotto 1": {
+    "url": "https://www.google.com/search?hl=de&q=site:lottozahlen.info%20<Datum>&ie=utf-8"
+  },
+  "lt 0": {
+    "include": [
+      {
+        "key": "lt 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "lt 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lt 1": {
+    "include": [
+      {
+        "key": "lt 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "lt 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lv 0": {
+    "include": [
+      {
+        "key": "lv 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "lv 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lv 1": {
+    "include": [
+      {
+        "key": "lv 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "lv 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "lw 1": {
+    "url": "https://www.lampenwelt.de/catalogsearch/result/?q=<query>"
+  },
+  "lyrc 1": {
+    "url": "https://lyrc.com.ar/en/tema1en.php?songname=<songname>"
+  },
+  "lyrc 2": {
+    "url": "https://lyrc.com.ar/en/tema1en.php?artist=<artist>&songname=<songname>"
+  },
+  "macs 1": {
+    "url": "https://www.coffer.com/mac_find?string=<query>",
+    "description": "Match your MAC address to its vendor."
+  },
+  "maj 1": {
+    "url": "https://www.google.com/custom?hl=en&client=pub-6960825562757852&cof=FORID%3A1%3BGL%3A1%3BLBGC%3A336699%3BLC%3A%230000ff%3BVLC%3A%23663399%3BGFNT%3A%230000ff%3BGIMP%3A%230000ff%3BDIV%3A%23336699%3B&domains=MajorGeeks.com&ie=ISO-8859-1&oe=ISO-8859-1&q=<query>&btnG=Search&sitesearch=MajorGeeks.com"
+  },
+  "maps 1": {
+    "url": "https://www.google.com/maps/search/<query>"
+  },
+  "marlin 1": {
+    "url": "https://marlinfw.org/meta/search/?q=<query>",
+    "description": "Marlin is an open source firmware for the RepRap family of replicating rapid prototypers — popularly known as “3D printers.”"
+  },
+  "mathworld 1": {
+    "url": "https://mathworld.wolfram.com/search/?query=<query>"
+  },
+  "maven 1": {
+    "url": "https://search.maven.org/#search|ga|1|<query>"
+  },
+  "mb 1": {
+    "url": "https://musicbrainz.org/search/textsearch.html?query=<artist>&type=artist&limit=25&handlearguments=1"
+  },
+  "mbg 0": {
+    "url": "https://www.mobygames.com/"
+  },
+  "mbg 1": {
+    "url": "https://www.mobygames.com/search/quick?q=<query>"
+  },
+  "mc 1": {
+    "url": "https://www.metacritic.com/search/<query>"
+  },
+  "mcw 0": {
+    "url": "https://www.minecraftwiki.net/wiki/Minecraft_Wiki"
+  },
+  "mcw 1": {
+    "url": "https://www.minecraftwiki.net/index.php?title=Special%3ASearch&search=<article>&button="
+  },
+  "md5 1": {
+    "url": "https://stefanschramm.net/dev/hash/?algo=md5&q=<data>"
+  },
+  "mdn 1": {
+    "url": "https://developer.mozilla.org/<$language>/search?q=<query>"
+  },
+  "me 1": {
+    "url": "https://masseffect.wikia.com/wiki/Special:Search?search=<query>&go=1"
+  },
+  "med 1": {
+    "url": "https://www.medizinfuchs.de/produkt/search/<query>"
+  },
+  "medipreis 1": {
+    "url": "https://www.medipreis.de/suchen?q=<query>"
+  },
+  "mesh 1": {
+    "url": "https://www.ncbi.nlm.nih.gov/mesh?term=<termName>"
+  },
+  "metal 1": {
+    "url": "https://www.metal-archives.com/search?searchString=<query>&type=band_name"
+  },
+  "mg 0": {
+    "include": [
+      {
+        "key": "mg 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mg 1": {
+    "include": [
+      {
+        "key": "mg 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mga 1": {
+    "url": "http://mageia.madb.org/package/list/arch/x86_64/application/0?t_search=<query>"
+  },
+  "mind 1": {
+    "url": "https://www.mindfactory.de/search_result.php?search_query=<query>"
+  },
+  "mink 1": {
+    "url": "https://mink.behat.org/en/latest/search.html?q=<query>",
+    "description": "Mink is an open source browser controller/emulator for web applications, written in PHP."
+  },
+  "mj 1": {
+    "url": "https://www.mojeek.com/search?q=<search>"
+  },
+  "mk 0": {
+    "include": [
+      {
+        "key": "mk 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mk 1": {
+    "include": [
+      {
+        "key": "mk 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ml 0": {
+    "include": [
+      {
+        "key": "ml 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ml 1": {
+    "include": [
+      {
+        "key": "ml 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mn 0": {
+    "include": [
+      {
+        "key": "mn 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mn 1": {
+    "include": [
+      {
+        "key": "mn 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "month 0": {
+    "url": "https://timeanddate.com/calendar/monthly.html"
+  },
+  "moodleup 0": {
+    "url": "https://moodle.uni-potsdam.de"
+  },
+  "mouser 1": {
+    "url": "https://www.mouser.de/_/?Keyword=<keyword>"
+  },
+  "mr 0": {
+    "include": [
+      {
+        "key": "mr 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mr 1": {
+    "include": [
+      {
+        "key": "mr 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ms 0": {
+    "include": [
+      {
+        "key": "ms 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ms 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ms 1": {
+    "include": [
+      {
+        "key": "ms 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ms 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "msn 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "b <1>"
+      },
+      "created": "2024-04-21"
+    }
+  },
+  "mt 0": {
+    "include": [
+      {
+        "key": "mt 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mt 1": {
+    "include": [
+      {
+        "key": "mt 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "mubi 0": {
+    "url": "https://mubi.com/",
+    "tests": [
+      {
+        "arguments": "Berlin",
+        "expect": "<title>MUBI:"
+      }
+    ]
+  },
+  "mubi 1": {
+    "url": "https://mubi.com/search/films?query=<query>",
+    "tests": [
+      {
+        "arguments": "Berlin",
+        "expect": "<title>MUBI | Search | Berlin</title>"
+      }
+    ]
+  },
+  "mwe 0": {
+    "url": "https://www.mediawiki.org/wiki/Category:Extensions"
+  },
+  "mwe 1": {
+    "url": "https://www.mediawiki.org/wiki/Special:Search?search=<query>&ns102=1&fulltext=Search"
+  },
+  "mwo 0": {
+    "url": "https://www.mediawiki.org"
+  },
+  "mwo 1": {
+    "url": "https://www.mediawiki.org/wiki/Special:Search?search=<query>&fulltext=Search"
+  },
+  "mww 1": {
+    "url": "https://www.mediawiki.org/wiki/Special:Search?search=<query>&go=Go"
+  },
+  "mwwg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=mediawiki.org&domains=mediawiki.org&q=<query>"
+  },
+  "my 0": {
+    "include": [
+      {
+        "key": "my 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "my 1": {
+    "include": [
+      {
+        "key": "my 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "myfritz 0": {
+    "url": "https://www.myfritz.net/login.xhtml"
+  },
+  "myg 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "g <1>"
+      },
+      "created": "2024-04-21"
+    }
+  },
+  "myip 0": {
+    "url": "https://ipinfo.info/html/privacy-check.php"
+  },
+  "mys 1": {
+    "url": "https://www.myspace.com/<band name>"
+  },
+  "mysql 1": {
+    "url": "https://dev.mysql.com/doc/search/?q=<query>"
+  },
+  "mytv 0": {
+    "url": "https://m.tvtoday.de"
+  },
+  "n 0": {
+    "url": "https://www.netflix.com/",
+    "description": "go to Netflix homepage"
+  },
+  "n 1": {
+    "url": "https://www.netflix.com/search/<query>",
+    "description": "searches Netflix for a movie or series"
+  },
+  "nag 1": {
+    "url": "https://google.com/search?hl=<$language>&q=<query>+inurl%3Anagios.sourceforge.net%2Fdocs"
+  },
+  "nb 0": {
+    "include": [
+      {
+        "key": "nb 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "nb 1": {
+    "include": [
+      {
+        "key": "nb 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "nd 0": {
+    "include": [
+      {
+        "key": "nd 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "nd 1": {
+    "include": [
+      {
+        "key": "nd 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ne 0": {
+    "include": [
+      {
+        "key": "ne 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ne 1": {
+    "include": [
+      {
+        "key": "ne 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ng 0": {
+    "url": "https://docs.angularjs.org/"
+  },
+  "ng 1": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&btnI=1&q=inurl%3Adocs.angularjs.org%2Fapi%20<query>"
+  },
+  "nicebooks:fr 1": {
+    "url": "https://fr.nicebooks.com/search?q=<query>"
+  },
+  "nicebooks:uk 1": {
+    "url": "https://uk.nicebooks.com/search?q=<query>"
+  },
+  "nicebooks:us 1": {
+    "url": "https://us.nicebooks.com/search?q=<query>"
+  },
+  "nl 0": {
+    "include": [
+      {
+        "key": "nl 0",
+        "namespace": "umt"
+      },
+      {
+        "key": "nl 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "nl 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "nl 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "nl 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "nl 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "nl 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "nl 1": {
+    "include": [
+      {
+        "key": "nl 1",
+        "namespace": "umt"
+      },
+      {
+        "key": "nl 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "nl 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "nl 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "nl 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "nl 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "nl 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "nn 0": {
+    "include": [
+      {
+        "key": "nn 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "nn 1": {
+    "include": [
+      {
+        "key": "nn 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "no 0": {
+    "include": [
+      {
+        "key": "no 0",
+        "namespace": "hzn"
+      },
+      {
+        "key": "no 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "no 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "no 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "no 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "no 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "no 1": {
+    "include": [
+      {
+        "key": "no 1",
+        "namespace": "hzn"
+      },
+      {
+        "key": "no 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "no 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "no 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "no 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "no 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "nobi 1": {
+    "url": "https://www.notebookinfo.de/suche/<query>"
+  },
+  "npm 1": {
+    "url": "https://npmjs.org/search?q=<query>"
+  },
+  "npr 0": {
+    "url": "https://www.npr.org/"
+  },
+  "npr 1": {
+    "url": "https://www.npr.org/search/?query=<query>",
+    "include": "npr 0"
+  },
+  "nv 0": {
+    "url": "https://neeva.com/"
+  },
+  "nv 1": {
+    "url": "https://neeva.com/search?q=<query>"
+  },
+  "nx 0": {
+    "url": "https://search.nixos.org/packages?type=packages",
+    "tests": [
+      {
+        "expect": "<title>NixOS Search"
+      }
+    ],
+    "description": "Search Nix Packages"
+  },
+  "nx 1": {
+    "url": "https://search.nixos.org/packages?type=packages&query=<query>",
+    "tests": "query does not appear on the page without JavaScript",
+    "include": "nx 0"
+  },
+  "nxu 0": {
+    "url": "https://search.nixos.org/packages?channel=unstable&type=packages",
+    "tests": [
+      {
+        "expect": "<title>NixOS Search"
+      }
+    ],
+    "description": "Search Nix Packages - Unstable Channel"
+  },
+  "nxu 1": {
+    "url": "https://search.nixos.org/packages?channel=unstable&type=packages&query=<query>",
+    "tests": "query does not appear on the page without JavaScript",
+    "include": "nxu 0"
+  },
+  "oca 1": {
+    "url": "https://openclipart.org/search/?query=<query>"
+  },
+  "oeis 1": {
+    "url": "https://oeis.org/search?q=<sequence>"
+  },
+  "of 1": {
+    "url": "https://www.dicfro.org/?dict=gdf&word=<query>"
+  },
+  "okf 1": {
+    "url": "https://otrkeyfinder.com/de/?search=<Suche>"
+  },
+  "ol 0": {
+    "url": "https://openlibrary.org/"
+  },
+  "ol 1": {
+    "url": "https://openlibrary.org/search?q=<query>",
+    "include": [
+      {
+        "key": "ol 0"
+      }
+    ]
+  },
+  "om 0": {
+    "include": [
+      {
+        "key": "om 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "om 1": {
+    "include": [
+      {
+        "key": "om 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "openbsd 1": {
+    "url": "https://man.openbsd.org/<query>"
+  },
+  "opennlp 1": {
+    "url": "https://www.google.com/search?hl=de&q=site%3Ahttp%3A%2F%2Fwww.opennlp.org%2Fapi%2Findex.html%20<query>&ie=utf-8"
+  },
+  "opensub 1": {
+    "url": "https://www.opensubtitles.org/de/search2/moviename-<query>"
+  },
+  "opensuse 0": {
+    "url": "https://www.opensuse.org/"
+  },
+  "or 0": {
+    "include": [
+      {
+        "key": "or 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "or 1": {
+    "include": [
+      {
+        "key": "or 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "orm 1": {
+    "url": "https://www.openrailwaymap.org/?q=<query>"
+  },
+  "os 0": {
+    "include": [
+      {
+        "key": "os 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "os 1": {
+    "include": [
+      {
+        "key": "os 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "osm 0": {
+    "url": "https://openstreetmap.org"
+  },
+  "osm 1": {
+    "url": "https://www.openstreetmap.org/search?query=<location>"
+  },
+  "osm 2": {
+    "url": "https://www.openstreetmap.org/search?query=<city: {type: city}>%2C%20<location>"
+  },
+  "osm! 1": {
+    "url": "https://nominatim.openstreetmap.org/search.php?q=<location>"
+  },
+  "osm? 0": {
+    "url": "https://wiki.openstreetmap.org/index.php/Main_Page"
+  },
+  "osm? 1": {
+    "url": "https://wiki.openstreetmap.org/index.php/Special:Search?search=<query>&fulltext=Search"
+  },
+  "osmc 1": {
+    "url": "https://www.openstreetmap.org/browse/changeset/<changeset>"
+  },
+  "osmf 0": {
+    "url": "https://forum.openstreetmap.org"
+  },
+  "osmg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=wiki.openstreetmap.org&domains=wiki.openstreetmap.org&q=<page>"
+  },
+  "osmk 1": {
+    "url": "https://wiki.openstreetmap.org/wiki/Key:<key>"
+  },
+  "osmn 1": {
+    "url": "https://www.openstreetmap.org/browse/node/<node>"
+  },
+  "osmr 1": {
+    "url": "https://www.openstreetmap.org/browse/relation/<relation>"
+  },
+  "osmrank 1": {
+    "url": "https://hdyc.neis-one.org/?<user>"
+  },
+  "osmti 1": {
+    "url": "https://taginfo.openstreetmap.org/keys/<key>"
+  },
+  "osmti 2": {
+    "url": "https://taginfo.openstreetmap.org/tags/<key>=<value>"
+  },
+  "osmu 1": {
+    "url": "https://www.openstreetmap.org/user/<user>"
+  },
+  "osmw 1": {
+    "url": "https://www.openstreetmap.org/browse/way/<way>"
+  },
+  "osub 1": {
+    "url": "https://www.opensubtitles.org/de/search2/moviename-<query>"
+  },
+  "otr 0": {
+    "url": "https://www.onlinetvrecorder.com/"
+  },
+  "otto 1": {
+    "url": "https://www.otto.de/suche/<product>/"
+  },
+  "oujs 1": {
+    "url": "https://openuserjs.org/?q=<query>"
+  },
+  "ov 0": {
+    "url": "https://www.onvista.de"
+  },
+  "ov 1": {
+    "url": "https://www.onvista.de/suche.html?SEARCH_VALUE=<query>"
+  },
+  "owm 0": {
+    "url": "https://openweathermap.org/",
+    "tests": [
+      {
+        "expect": "OpenWeatherMap</title>"
+      }
+    ]
+  },
+  "owm 1": {
+    "url": "https://openweathermap.org/find?q=<location>",
+    "tests": [
+      {
+        "arguments": "berlin",
+        "expect": "<title> Find"
+      }
+    ],
+    "include": "owm 0"
+  },
+  "owncloud 0": {
+    "url": "https://owncloud.org/",
+    "description": "owncloud is a Open source cloud server and client software."
+  },
+  "pa 0": {
+    "include": [
+      {
+        "key": "pa 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "pa 1": {
+    "include": [
+      {
+        "key": "pa 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "pastebin 0": {
+    "url": "https://pastebin.com/"
+  },
+  "pat 1": {
+    "url": "https://worldwide.espacenet.com/<publicationnumber>",
+    "description": "Worldwide patent service. Multi-language interface."
+  },
+  "patent 1": {
+    "url": "https://worldwide.espacenet.com/patent/search?q=<query>",
+    "description": "Worldwide patent service. Multi-language interface."
+  },
+  "pci 0": {
+    "url": "https://podcastindex.org/"
+  },
+  "pci 1": {
+    "url": "https://podcastindex.org/search?q=<query>&type=all",
+    "include": "pci 0"
+  },
+  "pciid 1": {
+    "url": "https://pci-ids.ucw.cz/read/PC/<vendorid>"
+  },
+  "pciid 2": {
+    "url": "https://pci-ids.ucw.cz/read/PC/<vendorid>/<deviceid>"
+  },
+  "pdf 1": {
+    "url": "https://docs.google.com/viewer?url=<url>"
+  },
+  "pear 1": {
+    "url": "https://pear.php.net/search.php?q=<query>&in=packages"
+  },
+  "pep 1": {
+    "url": "https://python.org/dev/peps/pep-<id>/"
+  },
+  "perl 1": {
+    "url": "https://perldoc.perl.org/search.html?q=<query>"
+  },
+  "perseus 1": {
+    "url": "https://www.perseus.tufts.edu/hopper/searchresults?q=<query>"
+  },
+  "pew 0": {
+    "url": "https://www.pewresearch.org/"
+  },
+  "pew 1": {
+    "url": "https://www.pewresearch.org/search/<query>",
+    "include": "pew 0"
+  },
+  "pewg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=site:pewresearch.org%20<query>&ie=utf-8",
+    "include": "pew 0"
+  },
+  "pg 1": {
+    "url": "https://www.pricegrabber.com/search.php?form_keyword=<query>&st=query"
+  },
+  "ph 1": {
+    "url": "https://www.phazeddl.com/search/<query>.p1.htm"
+  },
+  "phb 0": {
+    "url": "https://photobucket.com/"
+  },
+  "phb 1": {
+    "url": "https://photobucket.com/images/<query>"
+  },
+  "phbl 0": {
+    "url": "https://photobucket.com/login"
+  },
+  "php 0": {
+    "url": "https://www.php.net"
+  },
+  "php 1": {
+    "url": "https://www.php.net/manual-lookup.php?lang=<$language>&pattern=<query>"
+  },
+  "phpg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=site%3Awww.php.net+<query>"
+  },
+  "phpg! 1": {
+    "url": "https://www.google.com/search?btnI=1&q=site%3Awww.php.net+<query>"
+  },
+  "pin 0": {
+    "url": "https://pinterest.com/"
+  },
+  "pin 1": {
+    "url": "https://pinterest.com/search/?q=<query>"
+  },
+  "pl 0": {
+    "include": [
+      {
+        "key": "pl 0",
+        "namespace": "lge"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "pl 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "pl 1": {
+    "include": [
+      {
+        "key": "pl 1",
+        "namespace": "lge"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "pl 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "plk 0": {
+    "url": "https://putlocker.sb"
+  },
+  "plk 1": {
+    "url": "https://putlocker.sb/search/<query>"
+  },
+  "plot 1": {
+    "url": "https://plot20.kesto.de/#{\"functions\":[\"<function>\"]}"
+  },
+  "plt 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=matplotlib+<query>",
+    "description": "Quickly Google for help with matplotlib because oh boy, you need all the help you can get, and you don't want to waste time typing the unwieldy name of that library."
+  },
+  "pm 1": {
+    "url": "https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?CMD=search&DB=pubmed&term=<query>"
+  },
+  "poef 1": {
+    "url": "https://www.pathofexile.com/search/results/<query>/search-within/forumthreads-forumposts",
+    "tests": [
+      {
+        "arguments": "Rhoa",
+        "expect": "Results for Rhoa"
+      }
+    ],
+    "description": "Official Forum for the F2P online ARPG \"Path of Exile\" (PoE)."
+  },
+  "poew 1": {
+    "url": "https://pathofexile.gamepedia.com/index.php?search=<query>&go=Go",
+    "tests": [
+      {
+        "arguments": "health",
+        "expect": "name=\"query\" value=\"health\"/>"
+      }
+    ],
+    "description": "Inofficial Wiki for the F2P online ARPG \"Path of Exile\" (PoE), that acts as the main knowledgebase for PoE-players."
+  },
+  "printertestfiles 0": {
+    "url": "https://www.druckerchannel.de/artikel.php?ID=34&t=dc_testdokumente"
+  },
+  "ps 0": {
+    "include": [
+      {
+        "key": "ps 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ps 1": {
+    "include": [
+      {
+        "key": "ps 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "psql 0": {
+    "url": "https://www.postgresql.org/"
+  },
+  "pt 0": {
+    "include": [
+      {
+        "key": "pt 0",
+        "namespace": "lge"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "beo"
+      },
+      {
+        "key": "pt 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "pt 1": {
+    "include": [
+      {
+        "key": "pt 1",
+        "namespace": "lge"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "beo"
+      },
+      {
+        "key": "pt 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "pt-pons 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "pns.pt <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "pubchem 1": {
+    "url": "https://www.ncbi.nlm.nih.gov/pccompound/?term=<compound>"
+  },
+  "puls 0": {
+    "url": "https://puls.uni-potsdam.de"
+  },
+  "pvx 1": {
+    "url": "https://pvx.wikia.com/wiki/Special:Search?search=<query>&go=1"
+  },
+  "pw 1": {
+    "url": "https://www.google.com/search?q=<query> site:wiki.piratenpartei.de"
+  },
+  "pwgen 0": {
+    "url": "https://passwordsgenerator.net/"
+  },
+  "pwned 0": {
+    "url": "https://haveibeenpwned.com"
+  },
+  "py 0": {
+    "url": "https://docs.python.org/"
+  },
+  "py 1": {
+    "url": "https://docs.python.org/3/search.html?q=<query>"
+  },
+  "py2 0": {
+    "url": "https://docs.python.org/2/"
+  },
+  "py2 1": {
+    "url": "https://docs.python.org/2/search.html?q=<query>"
+  },
+  "py3 0": {
+    "url": "https://docs.python.org/3/"
+  },
+  "py3 1": {
+    "url": "https://docs.python.org/3/search.html?q=<query>"
+  },
+  "py3s 0": {
+    "url": "https://docs.python.org/py3k/library/"
+  },
+  "py3s 1": {
+    "url": "https://docs.python.org/py3k/library/<library>.html"
+  },
+  "pybug 0": {
+    "url": "https://bugs.python.org/"
+  },
+  "pym 0": {
+    "url": "https://readthedocs.org/"
+  },
+  "pym 1": {
+    "url": "https://readthedocs.org/projects/<module>/"
+  },
+  "pym 2": {
+    "url": "https://readthedocs.org/search/project/?selected_facets=project%3A<module>&q=<keyword>"
+  },
+  "pypi 0": {
+    "url": "https://pypi.python.org/pypi"
+  },
+  "pypi 1": {
+    "url": "https://pypi.python.org/pypi?%3Aaction=search&term=<package>&submit=search"
+  },
+  "pys 0": {
+    "url": "https://docs.python.org/library/"
+  },
+  "pys 1": {
+    "url": "https://docs.python.org/library/<library>.html"
+  },
+  "pz 1": {
+    "url": "https://www.google.com/search?q=site:proz.com <query>"
+  },
+  "qr 1": {
+    "url": "https://quickchart.io/qr?size=350&text=<content>"
+  },
+  "qrdecoder 0": {
+    "url": "https://webqr.com"
+  },
+  "qt 0": {
+    "url": "https://doc.qt.io/"
+  },
+  "qt 1": {
+    "url": "https://www.google.com/search?hl=<$language>&btnI=&sourceid=navclient&gfns=1&q=site:doc.qt.io%20<query>&ie=utf-8"
+  },
+  "qtcl 0": {
+    "url": "https://qt-project.org/doc/qt-5.0/qtdoc/classes.html"
+  },
+  "qtcl 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=inurl%3Aqt-project.org%2Fdoc%2F+<query>&ie=utf-8&btnI=1"
+  },
+  "qtdoc 0": {
+    "url": "https://qt-project.org/doc/qt-4.8/"
+  },
+  "qtdoc 1": {
+    "url": "https://www.google.com/search?q=<query>&sitesearch=http://qt-project.org/doc/qt-4.8/"
+  },
+  "qu 0": {
+    "include": [
+      {
+        "key": "qu 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "qu 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "qu 1": {
+    "include": [
+      {
+        "key": "qu 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "qu 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "qw 1": {
+    "url": "https://www.qwant.com/?q=<query>"
+  },
+  "r 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "rman <1>"
+      },
+      "created": "2024-04-25"
+    }
+  },
+  "r/ 1": {
+    "url": "https://www.reddit.com/r/<subreddit>"
+  },
+  "r2r 2": {
+    "url": "https://www.rome2rio.com/de/map/<from>/<to>"
+  },
+  "rae 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "es.rae <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "rails 0": {
+    "url": "https://apidock.com/rails/"
+  },
+  "rails 1": {
+    "url": "https://apidock.com/rails/search?query=<query>"
+  },
+  "rarbg 0": {
+    "url": "https://www.rarbg-official.com/",
+    "description": "RARBG torrent tracker"
+  },
+  "rarbg 1": {
+    "url": "https://en.rarbg-official.com/movies?keyword=<query>",
+    "include": "rarbg 0"
+  },
+  "rb 0": {
+    "url": "https://www.ruby-doc.org/"
+  },
+  "rb 1": {
+    "url": "https://www.ruby-doc.org/search.html?cof=FORID%3A9&cx=011815814100681837392%3Awnccv6st5qk&q=<query>&sa=Search"
+  },
+  "rbg 1": {
+    "url": "https://rubygems.org/search?utf8=%E2%9C%93&query=<query>"
+  },
+  "rblcheck 1": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://rbl-check.org/en/rbl-quick-check/check/&ipaddress=<ipaddress>"
+  },
+  "rblcheckapi 1": {
+    "url": "https://rbl-check.org/rbl_api.php?ipaddress=<ipaddress>"
+  },
+  "rcd 0": {
+    "url": "https://developers.raycast.com/"
+  },
+  "rcd 1": {
+    "url": "https://developers.raycast.com/?q=<query>",
+    "include": "rcd 0"
+  },
+  "rdoc 0": {
+    "url": "https://www.rdocumentation.org/"
+  },
+  "rdoc 1": {
+    "url": "https://www.rdocumentation.org/search?q=<query>",
+    "include": "rdoc 0"
+  },
+  "rea 0": {
+    "url": "https://www.rea-getraenke.de/index.php"
+  },
+  "rea 1": {
+    "url": "https://www.rea-getraenke.de/index.php?cl=search&searchparam=<query>"
+  },
+  "reddit 0": {
+    "url": "https://www.reddit.com"
+  },
+  "reddit 1": {
+    "url": "https://www.reddit.com/search?q=<query>"
+  },
+  "remnant 1": {
+    "url": "https://lastremnant.wikia.com/wiki/Special:Search?search=<query>&go=1"
+  },
+  "remove 1": {
+    "url": "https://www.shouldiremoveit.com/programs.aspx?q=<product>"
+  },
+  "rfc 0": {
+    "url": "https://www.ietf.org/rfc.html"
+  },
+  "rfc 1": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&btnI=1&q=site%3Awww.ietf.org%2Frfc%2F%20<query>  http://rfc<query>.txt"
+  },
+  "rg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=reddit.com&q=<query>"
+  },
+  "rm 0": {
+    "include": [
+      {
+        "key": "rm 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "rm 1": {
+    "include": [
+      {
+        "key": "rm 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "rman 0": {
+    "url": "https://stat.ethz.ch/R-manual/"
+  },
+  "rman 1": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&btnI=1&q=inurl%3Astat.ethz.ch%2FR-manual%20inurl%3A\"<query>\"",
+    "include": "rman 0"
+  },
+  "rn 0": {
+    "include": [
+      {
+        "key": "rn 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "rn 1": {
+    "include": [
+      {
+        "key": "rn 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ro 0": {
+    "include": [
+      {
+        "key": "ro 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ro 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ro 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "ro 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ro 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ro 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ro 1": {
+    "include": [
+      {
+        "key": "ro 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ro 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ro 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "ro 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ro 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ro 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "route 2": {
+    "url": "https://www.google.com/maps?hl=<$language>&saddr=<from>&daddr=<to>"
+  },
+  "rp18 0": {
+    "url": "https://18.re-publica.com/"
+  },
+  "rpw 0": {
+    "url": "https://www.removepaywall.com/"
+  },
+  "rpw 1": {
+    "url": "https://www.removepaywall.com/<url>",
+    "include": "rpw 0"
+  },
+  "rsg 0": {
+    "url": "https://www.researchgate.net/"
+  },
+  "rsg 1": {
+    "url": "https://www.researchgate.net/search?q=<query>",
+    "include": "rsg 0"
+  },
+  "rsga 1": {
+    "url": "https://www.researchgate.net/search/researcher?q=<query>",
+    "include": "rsg 0"
+  },
+  "rsgq 1": {
+    "url": "https://www.researchgate.net/search/researcher?q=<query>",
+    "include": "rsg 0"
+  },
+  "rt 1": {
+    "url": "https://www.rottentomatoes.com/search/?search=<query>"
+  },
+  "ru 0": {
+    "include": [
+      {
+        "key": "ru 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ru 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ru 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "ru 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "ru 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ru 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "ru 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ru 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ru 1": {
+    "include": [
+      {
+        "key": "ru 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "ru 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ru 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "ru 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "ru 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "ru 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "ru 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "ru 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ruby 1": {
+    "url": "https://www.ruby-doc.org/search.html?cof=FORID%3A9&cx=011815814100681837392%3Awnccv6st5qk&q=<query>&sa=Search"
+  },
+  "rustd 1": {
+    "url": "https://doc.rust-lang.org/std/?search=<query>"
+  },
+  "rw 0": {
+    "include": [
+      {
+        "key": "rw 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "rw 1": {
+    "include": [
+      {
+        "key": "rw 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "s 0": {
+    "url": "https://startpage.com/"
+  },
+  "s 1": {
+    "url": "https://www.startpage.com/sp/search?query=<query>"
+  },
+  "sanego 2": {
+    "url": "https://www.sanego.de/Arzt/?q=<Name oder Fachgebiet>&l=<Ort, Ortsteil oder Postleitzahl>&btn=Suchen"
+  },
+  "sc 0": {
+    "url": "https://soundcloud.com"
+  },
+  "sc 1": {
+    "url": "https://soundcloud.com/search?q=<query>"
+  },
+  "scala 0": {
+    "url": "https://www.scala-lang.org/api/current/"
+  },
+  "scala 1": {
+    "url": "https://www.scala-lang.org/api/current/?search=<query>"
+  },
+  "sci-hub 1": {
+    "url": "https://sci-hub.do/<query>",
+    "description": "Sci-Hub is a shadow library website that provides free access to millions of research papers and books, without regard to copyright, by bypassing publishers' paywalls in various ways."
+  },
+  "scry 1": {
+    "url": "https://scryfall.com/search?q=<query>"
+  },
+  "se 0": {
+    "include": [
+      {
+        "key": "se 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "se 1": {
+    "include": [
+      {
+        "key": "se 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "se 2": {
+    "url": "https://<subpage>.stackexchange.com/search?q=<query>"
+  },
+  "semlex 1": {
+    "url": "https://gmb.let.rug.nl/explorer/semlex.php?entrysortkey=frequency_lemma&entrysortorder=desc&lemma=<lemma>"
+  },
+  "sep 0": {
+    "url": "https://plato.stanford.edu"
+  },
+  "sep 1": {
+    "url": "https://plato.stanford.edu/search/searcher.py?query=<query>"
+  },
+  "sf 0": {
+    "url": "https://sourceforge.net/account/login.php"
+  },
+  "sf 1": {
+    "url": "https://sourceforge.net/search/?type_of_search=soft&words=<query>"
+  },
+  "sg 0": {
+    "include": [
+      {
+        "key": "sg 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sg 1": {
+    "include": [
+      {
+        "key": "sg 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sgo 0": {
+    "url": "https://sources.gentoo.org/"
+  },
+  "sgw 1": {
+    "url": "https://sturmgeweiht.de/suche/index.php?lang=en&sq=<entry>&sband=1&salbum=1&stitle=1&stext=&sgo=search"
+  },
+  "sgwa 1": {
+    "url": "https://sturmgeweiht.de/suche/index.php?lang=en&sq=<entry>&salbum=1&sgo=search"
+  },
+  "sgwb 1": {
+    "url": "https://sturmgeweiht.de/suche/index.php?lang=en&sq=<entry>&sband=1&sgo=search"
+  },
+  "sgwte 1": {
+    "url": "https://sturmgeweiht.de/suche/index.php?lang=en&sq=<entry>&sgo=search&stext=1"
+  },
+  "sgwti 1": {
+    "url": "https://sturmgeweiht.de/suche/index.php?lang=en&sq=<entry>&stitle=1&sgo=search"
+  },
+  "sha1 1": {
+    "url": "https://stefanschramm.net/dev/hash/?algo=sha1&q=<data>"
+  },
+  "shot 1": {
+    "url": "https://www.superscreenshot.com/getscreen.php?url=<url>"
+  },
+  "si 0": {
+    "include": [
+      {
+        "key": "si 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "si 1": {
+    "include": [
+      {
+        "key": "si 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sim 1": {
+    "url": "https://www.startpage.com/sp/search?query=<query>&cat=pics"
+  },
+  "sk 0": {
+    "include": [
+      {
+        "key": "sk 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sk 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "sk 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sk 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sk 1": {
+    "include": [
+      {
+        "key": "sk 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sk 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "sk 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sk 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "skapiec 0": {
+    "url": "https://www.skapiec.pl/szukaj/w_calym_serwisie/${query}"
+  },
+  "skyrock 1": {
+    "url": "https://www.skyrock.com/search/articles/?q=<query>"
+  },
+  "sl 0": {
+    "include": [
+      {
+        "key": "sl 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sl 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sl 0",
+        "namespace": "pns"
+      },
+      {
+        "key": "sl 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sl 1": {
+    "include": [
+      {
+        "key": "sl 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sl 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sl 1",
+        "namespace": "pns"
+      },
+      {
+        "key": "sl 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "slashdot 0": {
+    "url": "https://slashdot.org/"
+  },
+  "slashdot 1": {
+    "url": "https://slashdot.org/?fhfilter=<query>"
+  },
+  "smfmod 1": {
+    "url": "https://custom.simplemachines.org/mods/index.php?action=search&basic_search=<query>"
+  },
+  "smw 1": {
+    "url": "https://www.similarweb.com/website/<domain>"
+  },
+  "sn 0": {
+    "include": [
+      {
+        "key": "sn 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sn 1": {
+    "include": [
+      {
+        "key": "sn 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "snipmp3 1": {
+    "url": "https://snipmp3.com/?url=<url>"
+  },
+  "so 0": {
+    "include": [
+      {
+        "key": "so 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "so 1": {
+    "include": [
+      {
+        "key": "so 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "soa 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "sofa <1>"
+      },
+      "created": "2023-05-27"
+    }
+  },
+  "sof 0": {
+    "url": "https://stackoverflow.com/"
+  },
+  "sof 1": {
+    "url": "https://stackoverflow.com/search?q=<query>"
+  },
+  "sofa 1": {
+    "url": "https://stackoverflow.com/search?q=%5Bandroid%5D+<query>"
+  },
+  "solrj 0": {
+    "url": "https://lucene.apache.org/solr/4_0_0/solr-solrj/index.html"
+  },
+  "solrj 1": {
+    "url": "https://www.google.com/search?hl=<$language>&q=site%3Ahttp://lucene.apache.org/solr/+<query>+intitle%3A<query>&ie=utf-8&btnI=1"
+  },
+  "somafm 0": {
+    "url": "https://somafm.com"
+  },
+  "somafm 1": {
+    "url": "https://somafm.com/player/#/now-playing/<radiochannel>"
+  },
+  "soundcloud 1": {
+    "url": "https://soundcloud.com/search?q[fulltext]=<query>"
+  },
+  "soup 1": {
+    "url": "https://www.soup.io/friends?search=<query>"
+  },
+  "sp 1": {
+    "url": "https://open.spotify.com/search/<query>"
+  },
+  "spam 1": {
+    "url": "https://www.spamhaus.org/query/ip/<URL>"
+  },
+  "spfun 1": {
+    "url": "https://www.sparkfun.com/search/results?term=<query>&what=products"
+  },
+  "spl 1": {
+    "url": "https://link.springer.com/search?query=<query>"
+  },
+  "sq 0": {
+    "include": [
+      {
+        "key": "sq 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sq 1": {
+    "include": [
+      {
+        "key": "sq 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sr 0": {
+    "include": [
+      {
+        "key": "sr 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sr 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sr 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sr 1": {
+    "include": [
+      {
+        "key": "sr 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sr 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sr 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sreddit 1": {
+    "url": "https://www.reddit.com/r/<forum>"
+  },
+  "ssch 0": {
+    "url": "https://www.semanticscholar.org/"
+  },
+  "ssch 1": {
+    "url": "https://www.semanticscholar.org/search?q=<query>"
+  },
+  "ssl 1": {
+    "url": "https://www.ssllabs.com/ssldb/analyze.html?d=<domain>"
+  },
+  "steam 1": {
+    "url": "https://store.steampowered.com/search/?term=<game%>"
+  },
+  "stract 0": {
+    "url": "https://stract.com/"
+  },
+  "stract 1": {
+    "url": "https://stract.com/search?q=<query>"
+  },
+  "su 1": {
+    "url": "https://superuser.com/search?q=<query>"
+  },
+  "subscene 0": {
+    "url": "https://subscene.com/"
+  },
+  "subscene 1": {
+    "url": "https://subscene.com/subtitles/searchbytitle?query=<movie>"
+  },
+  "subtitles 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=subtitles.images.o2.cz&domains=subtitles.images.o2.cz&q=<movie>"
+  },
+  "suepo 0": {
+    "url": "https://www.suepo.org"
+  },
+  "sv 0": {
+    "include": [
+      {
+        "key": "sv 0",
+        "namespace": "flx"
+      },
+      {
+        "key": "sv 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sv 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "sv 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "sv 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sv 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "sv 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sv 1": {
+    "include": [
+      {
+        "key": "sv 1",
+        "namespace": "flx"
+      },
+      {
+        "key": "sv 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "sv 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "sv 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "sv 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "sv 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "sv 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "svfr 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "fr.sv <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "sw 0": {
+    "include": [
+      {
+        "key": "sw 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "sw 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "sw 1": {
+    "include": [
+      {
+        "key": "sw 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "sw 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "swipl 0": {
+    "url": "https://www.swi-prolog.org/pldoc/index.html"
+  },
+  "swipl 1": {
+    "url": "https://www.swi-prolog.org/pldoc/search?for=<query>&in=all&match=summary"
+  },
+  "swt 1": {
+    "url": "https://www.test.de/suche/?q=<query>"
+  },
+  "ta 0": {
+    "include": [
+      {
+        "key": "ta 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ta 1": {
+    "include": [
+      {
+        "key": "ta 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "tails 0": {
+    "url": "https://tails.boum.org/",
+    "removed": "2023-01-14"
+  },
+  "tat 2": {
+    "url": "https://tatoeba.org/eng/sentences/search?to=<target language>&query=<query>",
+    "description": "Use 3-letter language code!"
+  },
+  "tat 3": {
+    "url": "https://tatoeba.org/eng/sentences/search?from=<source_language>&to=<target_language>&query=<query>",
+    "description": "Use 3-letter language codes!"
+  },
+  "tav 0": {
+    "url": "https://www.tripadvisor.com/"
+  },
+  "tav 1": {
+    "url": "https://www.tripadvisor.com/Search?q=<query>",
+    "include": "tav 0"
+  },
+  "taz 1": {
+    "url": "https://www.google.com/search?hl=de&q=site%3Ataz.de+<query>"
+  },
+  "tbaddon 0": {
+    "url": "https://addons.mozilla.org/thunderbird/"
+  },
+  "tbaddon 1": {
+    "url": "https://addons.mozilla.org/thunderbird/search?q=<addon>"
+  },
+  "tc 0": {
+    "url": "https://www.techcrunch.com/"
+  },
+  "tc 1": {
+    "url": "https://www.techcrunch.com/?s=<query>"
+  },
+  "tcode 1": {
+    "url": "https://www.tcodesearch.com/tcodes/search?q=<query>"
+  },
+  "tct 1": {
+    "url": "https://www.techcrunch.com/tag/<tag>"
+  },
+  "tdrm 0": {
+    "url": "https://tdrm.fiff.de/"
+  },
+  "tds 0": {
+    "url": "https://www.thedailyshow.com/full-episodes/"
+  },
+  "tds 1": {
+    "url": "https://www.thedailyshow.com/video/?searchterm=<query>"
+  },
+  "te 0": {
+    "include": [
+      {
+        "key": "te 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "te 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "te 1": {
+    "include": [
+      {
+        "key": "te 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "te 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "techrightsfeed 0": {
+    "url": "https://techrights.org/feed/"
+  },
+  "ted 1": {
+    "url": "https://www.ted.com/search?q=<query>"
+  },
+  "tey 1": {
+    "url": "https://www.tineye.com/search?url=<url>"
+  },
+  "tfm 1": {
+    "url": "https://www.transfermarkt.de/de/undefined/suche/ergebnis.html?quicksearch=<query>&x=0&y=0"
+  },
+  "th 0": {
+    "include": [
+      {
+        "key": "th 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "th 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "th 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "th 1": {
+    "include": [
+      {
+        "key": "th 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "th 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "th 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "thomann 1": {
+    "url": "https://www.thomann.de/de/search_dir.html?xsid=e4bd1b9ad5c1ad8a62b6d97b39683712&sw=<query>&x=&y="
+  },
+  "thsr 1": {
+    "url": "https://thesaurus.com/browse/<query>"
+  },
+  "ti 0": {
+    "include": [
+      {
+        "key": "ti 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ti 1": {
+    "include": [
+      {
+        "key": "ti 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "tik 0": {
+    "url": "https://www.tiktok.com/"
+  },
+  "tik 1": {
+    "url": "https://www.tiktok.com/search?q=<query>",
+    "description": "Searches TikTok."
+  },
+  "tiktok 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "tiku <1>"
+      },
+      "created": "2023-01-11"
+    }
+  },
+  "tiku 1": {
+    "url": "https://www.tiktok.com/@<user>",
+    "description": "Shows the userpage of a TikTok user."
+  },
+  "time 1": {
+    "url": "https://www.timeanddate.com/worldclock/results.html?query=<location>"
+  },
+  "timedate 0": {
+    "url": "https://www.timeanddate.com"
+  },
+  "timediff 0": {
+    "url": "https://www.timeanddate.com/date/duration.html"
+  },
+  "timer 1": {
+    "url": "https://www.google.com/search?hl=en&q=timer+<period>"
+  },
+  "timestamp 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "tst <1>"
+      },
+      "created": "2023-01-18"
+    }
+  },
+  "tinyurl 0": {
+    "url": "https://tinyurl.com/"
+  },
+  "titulky 1": {
+    "url": "https://www.titulky.com/?Fulltext=<film>"
+  },
+  "tl 0": {
+    "include": [
+      {
+        "key": "tl 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "tl 1": {
+    "include": [
+      {
+        "key": "tl 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "tldp 1": {
+    "url": "https://www.google.com/cse?cx=017644269519104757279%3Agm62gtzaoky&q=<query>"
+  },
+  "tmdb 1": {
+    "url": "https://www.themoviedb.org/search?query=<title>"
+  },
+  "tmu 0": {
+    "url": "https://www.temu.com/"
+  },
+  "tmu 1": {
+    "url": "https://www.temu.com/search_result.html?search_key=<query>"
+  },
+  "to 0": {
+    "include": [
+      {
+        "key": "to 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "to 1": {
+    "include": [
+      {
+        "key": "to 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "tpb 0": {
+    "url": "https://thepiratebay.org/"
+  },
+  "tpb 1": {
+    "url": "https://thepiratebay.org/search/<query>"
+  },
+  "tpba 1": {
+    "url": "https://thepiratebay.org/search/<query>/0/99/100"
+  },
+  "tpbv 1": {
+    "url": "https://thepiratebay.org/search/<query>/0/99/200"
+  },
+  "tpl 0": {
+    "url": "https://www.trustpilot.com/"
+  },
+  "tpl 1": {
+    "url": "https://www.trustpilot.com/search?query=<query>",
+    "include": [
+      {
+        "key": "tpl 0"
+      }
+    ]
+  },
+  "tr 0": {
+    "include": [
+      {
+        "key": "tr 0",
+        "namespace": "ard"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "dtn"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "zrg"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "dcc"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "tr 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "tr 1": {
+    "include": [
+      {
+        "key": "tr 1",
+        "namespace": "ard"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "dtn"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "zrg"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "dcc"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "tr 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "trends 1": {
+    "url": "https://www.google.com/trends?q=<query>"
+  },
+  "trianglify 0": {
+    "url": "https://snorpey.github.io/triangulation/"
+  },
+  "trim 1": {
+    "url": "https://tr.im/marklet?url=<url>"
+  },
+  "tsq 0": {
+    "url": "https://www.turbosquid.com/"
+  },
+  "tsq 1": {
+    "url": "https://www.turbosquid.com/Search/Index.cfm?keyword=<query>"
+  },
+  "tst 1": {
+    "url": "https://timestamp.online/countdown/<timestamp>"
+  },
+  "tv 1": {
+    "url": "https://www.thingiverse.com/search?q=<argument_name>&type=things&sort=relevant"
+  },
+  "tvdb 1": {
+    "url": "https://thetvdb.com/?searchseriesid=&tab=listseries&function=Search&string=<tv-series>"
+  },
+  "tw 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "x"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "tw 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "x <1>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twb 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "xb"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twingly 0": {
+    "url": "https://twingly.com/"
+  },
+  "twingly 1": {
+    "url": "https://twingly.com/search?q=<query>"
+  },
+  "twitter 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "x"
+      },
+      "created": "2023-01-23"
+    }
+  },
+  "twk 0": {
+    "url": "https://tweaks.com"
+  },
+  "twl 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "xol <1>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twl 2": {
+    "deprecated": {
+      "alternative": {
+        "query": "xol <1>, <2>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twm 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "xm"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twm 1": {
+    "url": "https://twitter.com/#!/search/%40<user>"
+  },
+  "twme 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "x <1>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twn 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "xn"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twr 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "xl <1>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twrm 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "xl <1>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twu 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "xu <1>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "twum 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "xu <1>"
+      },
+      "created": "2023-03-13"
+    }
+  },
+  "ty 0": {
+    "url": "https://twingly.com/"
+  },
+  "ty 1": {
+    "url": "https://twingly.com/search?q=<query>"
+  },
+  "ubdo 1": {
+    "url": "https://www.ub.tu-dortmund.de/webOPACClient/start.do?Language=De&Query=-1=\"<query>\""
+  },
+  "ubman 1": {
+    "url": "https://manpages.ubuntu.com/cgi-bin/search.py?&ie=UTF-8&q=<query>"
+  },
+  "ubp 1": {
+    "url": "https://packages.ubuntu.com/<package>"
+  },
+  "ubplanet 0": {
+    "url": "https://planet.ubuntu.com/"
+  },
+  "ubu 1": {
+    "url": "https://search.freefind.com/find.html?id=17493&pageid=r&mode=ALL&query=<query>"
+  },
+  "ubug 0": {
+    "url": "https://bugs.launchpad.net/"
+  },
+  "ubug 2": {
+    "url": "https://launchpad.net/ubuntu/+source/<package>/+bugs?field.searchtext=<query>"
+  },
+  "ubugq 1": {
+    "url": "https://launchpad.net/ubuntu/+bugs?field.searchtext=<query>"
+  },
+  "ubuntu-packages 1": {
+    "url": "https://packages.ubuntu.com/<package>"
+  },
+  "ubuntu-planet 0": {
+    "url": "https://planet.ubuntu.com/"
+  },
+  "ubuntu-wiki 0": {
+    "url": "https://wiki.ubuntu.com/"
+  },
+  "ubuntu-wiki 1": {
+    "url": "https://wiki.ubuntu.com/?action=fullsearch&context=180&value=<query>&titlesearch=Titles"
+  },
+  "ubw 0": {
+    "url": "https://wiki.ubuntu.com/"
+  },
+  "ubw 1": {
+    "url": "https://wiki.ubuntu.com/?action=fullsearch&context=180&value=<query>&titlesearch=Titles"
+  },
+  "uc 1": {
+    "url": "https://www.fileformat.info/info/unicode/char/search.htm?preview=entity&q=<query>"
+  },
+  "ucb 0": {
+    "url": "https://www.fileformat.info/info/unicode/block/index.htm"
+  },
+  "ucs 1": {
+    "url": "https://www.fileformat.info/info/unicode/char/search.htm?q=<query>&preview=entity"
+  },
+  "ucsh 1": {
+    "url": "https://www.fileformat.info/info/unicode/char/search.htm?q=<query>&han=Y&preview=entity"
+  },
+  "ud 0": {
+    "url": "https://www.urbandictionary.com/"
+  },
+  "ud 1": {
+    "url": "https://www.urbandictionary.com/define.php?term=<query>"
+  },
+  "ue5 0": {
+    "url": "https://dev.epicgames.com/documentation/en-us/unreal-engine/unreal-engine-5-4-documentation"
+  },
+  "ue5 1": {
+    "url": "https://duckduckgo.com/?q=%5C<query>+inurl%3Adev.epicgames.com%2Fdocumentation%2Fen-us%2Funreal-engine%2F",
+    "include": "ue5 0"
+  },
+  "uesp 1": {
+    "url": "https://www.uesp.net/wiki/Special:Search?search=<query>&go=Go&nsnum=0&redirs=1&searchtitles=1"
+  },
+  "ug 0": {
+    "include": [
+      {
+        "key": "ug 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ug 1": {
+    "include": [
+      {
+        "key": "ug 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ugb 1": {
+    "url": "https://www.ultimate-guitar.com/search.php?s=<band>&w=bands"
+  },
+  "ugs 1": {
+    "url": "https://www.ultimate-guitar.com/search.php?search_type=title&value=<song>"
+  },
+  "uima 0": {
+    "url": "https://incubator.apache.org/uima/downloads/releaseDocs/2.3.0-incubating/docs/api/"
+  },
+  "uima 1": {
+    "url": "https://www.google.com/search?hl=de&q=site%3Ahttp%3A%2F%2Fincubator.apache.org%2Fuima%2Fdownloads%2FreleaseDocs%2F2.3.0-incubating%2Fdocs%2Fapi%2F%20<query>&ie=utf-8"
+  },
+  "uk 0": {
+    "include": [
+      {
+        "key": "uk 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "uk 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "uk 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "uk 1": {
+    "include": [
+      {
+        "key": "uk 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "uk 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "uk 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "uniprot 1": {
+    "url": "https://www.uniprot.org/uniprot/?query=<query>&sort=score"
+  },
+  "up 1": {
+    "url": "https://www.uniprot.org/uniprot/?query=<query>&sort=score"
+  },
+  "ups 1": {
+    "url": "https://wwwapps.ups.com/WebTracking/processRequest?HTMLVersion=5.0&Requester=NES&AgreeToTermsAndConditions=yes&tracknum=<tracking number>"
+  },
+  "ur 0": {
+    "include": [
+      {
+        "key": "ur 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "ur 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "ur 1": {
+    "include": [
+      {
+        "key": "ur 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "ur 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "us 1": {
+    "url": "https://userscripts.org/scripts/search?q=<query>"
+  },
+  "usbid 1": {
+    "url": "https://usb-ids.gowdy.us/read/UD/<vendorid>"
+  },
+  "usbid 2": {
+    "url": "https://usb-ids.gowdy.us/read/UD/<vendorid>/<deviceid>"
+  },
+  "uscripts 1": {
+    "url": "https://userscripts.org/scripts/search?q=<query>"
+  },
+  "uxse 0": {
+    "url": "https://unix.stackexchange.com/"
+  },
+  "uxse 1": {
+    "url": "https://unix.stackexchange.com/search?q=<query>"
+  },
+  "uz 0": {
+    "include": [
+      {
+        "key": "uz 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "uz 1": {
+    "include": [
+      {
+        "key": "uz 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "v 0": {
+    "url": "https://vimeo.com/"
+  },
+  "v 1": {
+    "url": "https://vimeo.com/search?q=<query>",
+    "include": "v 0"
+  },
+  "validator 1": {
+    "url": "https://validator.w3.org/check?uri=<uri>"
+  },
+  "vbn 2": {
+    "url": "https://www.fahrplaner.de/hafas/query.exe/dn?L=vbn&<Start>,<Ziel>"
+  },
+  "vcpkg 1": {
+    "url": "https://vcpkg.io/en/packages.html?query=<query>"
+  },
+  "vi 0": {
+    "include": [
+      {
+        "key": "vi 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "vi 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "vi 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "vi 1": {
+    "include": [
+      {
+        "key": "vi 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "vi 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "vi 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "viaf 1": {
+    "url": "https://viaf.org/viaf/search?query=local.names+all+<name>&stylesheet=/viaf/xsl/results.xsl&sortKeys=holdingscount&maximumRecords=100"
+  },
+  "vim 1": {
+    "url": "https://vim.fandom.com/wiki/Special:Search?search=<query>"
+  },
+  "vimeo 0": {
+    "url": "https://vimeo.com"
+  },
+  "vimeo 1": {
+    "url": "https://vimeo.com/search?q=<query>"
+  },
+  "visuwords 1": {
+    "url": "https://www.visuwords.com/?word=<query>"
+  },
+  "vk 0": {
+    "url": "https://vk.com"
+  },
+  "vk 1": {
+    "url": "https://vk.com/search?c%5Bq%5D=<name>"
+  },
+  "vka 0": {
+    "url": "https://vk.com/audio"
+  },
+  "vka 1": {
+    "url": "https://vk.com/audio?q=<query>"
+  },
+  "vkfave 0": {
+    "url": "https://vk.com/fave"
+  },
+  "vkfeed 0": {
+    "url": "https://vk.com/feed"
+  },
+  "vkg 0": {
+    "url": "https://vk.com/groups"
+  },
+  "vkg 1": {
+    "url": "https://vk.com/search?c%5Bsection%5D=communities&c%5Bq%5D=<query>"
+  },
+  "vkim 0": {
+    "url": "https://vk.com/im"
+  },
+  "vkv 0": {
+    "url": "https://vk.com/video"
+  },
+  "vkv 1": {
+    "url": "https://vk.com/video?q=<query>"
+  },
+  "vkvn 0": {
+    "url": "https://vk.com/video?notsafe=1"
+  },
+  "vkvn 1": {
+    "url": "https://vk.com/video?notsafe=1&q=<query>"
+  },
+  "w 0": {
+    "url": "https://<$language>.wikipedia.org/"
+  },
+  "w 1": {
+    "url": "https://<$language>.wikipedia.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "wa 0": {
+    "url": "https://www.wolframalpha.com"
+  },
+  "wa 1": {
+    "url": "https://www.wolframalpha.com/input/?i=<query>"
+  },
+  "wadoku 1": {
+    "url": "https://www.wadoku.de/wadoku/search/<suchwort>"
+  },
+  "wam 1": {
+    "url": "https://m.wolframalpha.com/input/?i=<query>"
+  },
+  "watchz 1": {
+    "url": "https://zattoo.com/view/<channel>"
+  },
+  "wb 0": {
+    "url": "https://<$language>.wikibooks.org/"
+  },
+  "wb 1": {
+    "url": "https://<$language>.wikibooks.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "wbit 1": {
+    "url": "https://www.woerterbuch.info/?query=<query>&s=dict&l=en"
+  },
+  "wbm 1": {
+    "url": "https://web.archive.org/web/*/<url: {encoding: none}>",
+    "description": "Explore past snapshots of the given Web page"
+  },
+  "wc 1": {
+    "url": "https://<$language>.wikipedia.org/wiki/Special:Contributions/<user>"
+  },
+  "wd 0": {
+    "url": "https://www.wikidata.org/w/index.php?uselang=<$language>"
+  },
+  "wd 1": {
+    "url": "https://www.wikidata.org/w/index.php?uselang=<$language>&search=<article>"
+  },
+  "wde 1": {
+    "url": "https://de.wikipedia.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "we 0": {
+    "url": "https://www.wetter.com/"
+  },
+  "we 1": {
+    "url": "https://www.wetter.com/suche/?q=<Ort>"
+  },
+  "webs 1": {
+    "url": "https://www.webshots.com/search?query=<query>&new=1&source=serchilo"
+  },
+  "wen 1": {
+    "url": "https://en.wikipedia.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "wenssl 1": {
+    "url": "https://secure.wikimedia.org/wikipedia/en/wiki/<query>"
+  },
+  "wf 1": {
+    "url": "https://<$language>.wikipedia.org/wiki/Special:Search?fulltext=Search&search=<query>"
+  },
+  "wf 2": {
+    "url": "https://<lang>.wikipedia.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "wfr 1": {
+    "url": "https://fr.wikipedia.org/wiki/<query>"
+  },
+  "wg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=<$language>.wikipedia.org&q=<article>"
+  },
+  "wg! 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=<$language>.wikipedia.org&q=<article>&btnI=1"
+  },
+  "wg* 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=wikipedia.org&q=<article>"
+  },
+  "wgo 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=wikipedia.org&q=<article>"
+  },
+  "wh 1": {
+    "url": "https://www.wowhead.com/?search=<query>"
+  },
+  "whatis 0": {
+    "url": "https://whatis.techtarget.com/"
+  },
+  "whatis 1": {
+    "url": "https://whatis.techtarget.com/search/query?q=<query>"
+  },
+  "whois 1": {
+    "url": "https://whois.domaintools.com/<domain>"
+  },
+  "wikia 1": {
+    "url": "https://www.wikia.com/wiki/Special:Search?tab=1&search=<query>"
+  },
+  "wikimapia 1": {
+    "url": "https://wikimapia.org/?#search=<place>"
+  },
+  "wipr 0": {
+    "url": "https://www.worldipreview.com"
+  },
+  "wis 1": {
+    "url": "https://www.woerterbuch.info/?query=<query>&s=thesaurus&dl=0&l=de&showlang=de"
+  },
+  "wissen 1": {
+    "url": "https://wissen.de/wde/generator/wissen/services/suche/index.html?query=<query>"
+  },
+  "wit 1": {
+    "url": "https://it.wikipedia.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "wle 1": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&btnI=1&q=site%3Aen.wikipedia.org+intitle%3A\"list+of\"+intitle%3A\"episodes\"+<title>"
+  },
+  "wm 0": {
+    "url": "https://<$language>.m.wikipedia.org/"
+  },
+  "wm 1": {
+    "url": "https://<$language>.m.wikipedia.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "wmob 0": {
+    "url": "https://<$language>.m.wikipedia.org/"
+  },
+  "wmob 1": {
+    "url": "https://<$language>.m.wikipedia.org/wiki?search=<query%>"
+  },
+  "wn 1": {
+    "url": "http://wordnetweb.princeton.edu/perl/webwn?s=<query>"
+  },
+  "wo 1": {
+    "url": "https://<$language>.wikipedia.org/wiki/Category:<title>"
+  },
+  "word 1": {
+    "url": "http://wordnetweb.princeton.edu/perl/webwn?s=<query>"
+  },
+  "wordnet 1": {
+    "url": "http://wordnetweb.princeton.edu/perl/webwn?s=<query>"
+  },
+  "wpp 0": {
+    "url": "https://wordpress.org/plugins/"
+  },
+  "wpp 1": {
+    "url": "https://wordpress.org/plugins/search.php?q=<query>"
+  },
+  "wpt 0": {
+    "url": "https://wordpress.org/themes/"
+  },
+  "wpt 1": {
+    "url": "https://wordpress.org/themes/search.php?q=<query>"
+  },
+  "wq 0": {
+    "url": "https://<$language>.wikiquote.org/"
+  },
+  "wq 1": {
+    "url": "https://<$language>.wikiquote.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "wr 1": {
+    "url": "https://www.warcraftrealms.com/search.php?search=<query>"
+  },
+  "ws 0": {
+    "url": "https://<$language>.wikisource.org/"
+  },
+  "ws 1": {
+    "url": "https://<$language>.wikisource.org/wiki/Special:Search?go=Article&search=<query>"
+  },
+  "wsl 0": {
+    "url": "https://wortschatz.uni-leipzig.de"
+  },
+  "wso 1": {
+    "url": "https://www.wallstreet-online.de/suche/?suche=&q=<query>"
+  },
+  "wsp 0": {
+    "url": "https://weatherspark.com/"
+  },
+  "wsp 1": {
+    "url": "https://weatherspark.com/search?q=<location: {type: city}>",
+    "include": [
+      {
+        "key": "wsp 0"
+      }
+    ]
+  },
+  "wssl 0": {
+    "url": "https://secure.wikimedia.org/wikipedia/<$language>/wiki/"
+  },
+  "wst 1": {
+    "url": "https://translate.google.de/translate?hl=<$language>&sl=en&tl=<$language>&u=https://simple.wikipedia.org/wiki/<query>"
+  },
+  "wu 1": {
+    "url": "https://<$language>.wikipedia.org/wiki/Special:Search?go=Article&search=User:<user>"
+  },
+  "wv 0": {
+    "url": "https://<$language>.wikivoyage.org/"
+  },
+  "wv 1": {
+    "url": "https://<$language>.wikivoyage.org/w/index.php?title=Special%3ASearch&go=Article&search=<article>"
+  },
+  "ww 1": {
+    "url": "https://<$language>.wikipedia.org/wiki/Special:Search?go=Article&search=Wikipedia:<project page>"
+  },
+  "wwu 1": {
+    "url": "https://suchen.uni-muenster.de/de.cgi?q=<query>"
+  },
+  "www 1": {
+    "url": "https://<query>"
+  },
+  "wy 0": {
+    "url": "https://<$language>.wiktionary.org/"
+  },
+  "wy 1": {
+    "url": "https://<$language>.wiktionary.org/wiki/Special:Search?go=Article&search=<article>"
+  },
+  "x 0": {
+    "url": "https://twitter.com/"
+  },
+  "x 1": {
+    "url": "https://twitter.com/search?lang=<$language>&q=<query>"
+  },
+  "xb 0": {
+    "url": "https://twitter.com/i/bookmarks"
+  },
+  "xg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=twitter.com&q=<query>"
+  },
+  "xing 0": {
+    "url": "https://www.xing.com/"
+  },
+  "xing 1": {
+    "url": "https://www.xing.com/search/members?keywords=<query>"
+  },
+  "xkcd 0": {
+    "url": "https://xkcd.com/"
+  },
+  "xkcd 1": {
+    "url": "https://xkcd.com/<episode-number>/"
+  },
+  "xkcds 1": {
+    "url": "https://www.ohnorobot.com/index.php?s=<query>&Search=Search&comic=56"
+  },
+  "xl 1": {
+    "url": "https://twitter.com/search?f=live&q=<query>"
+  },
+  "xm 0": {
+    "url": "https://twitter.com/messages"
+  },
+  "xn 0": {
+    "url": "https://twitter.com/notifications"
+  },
+  "xol 1": {
+    "url": "https://twitter.com/search?q=lang%3A<$language>%20<query>"
+  },
+  "xol 2": {
+    "url": "https://twitter.com/search?q=lang%3A<language>%20<query>"
+  },
+  "xu 1": {
+    "url": "https://twitter.com/<user>"
+  },
+  "y 1": {
+    "url": "https://search.yahoo.com/search?p=<query>"
+  },
+  "ya 1": {
+    "url": "https://yandex.com/yandsearch?text=<query>"
+  },
+  "yai 1": {
+    "url": "https://yandex.com/images/search?from=tabbar&text=<query>"
+  },
+  "yandex 1": {
+    "url": "https://yandex.com/yandsearch?text=<query>"
+  },
+  "yatego 1": {
+    "url": "https://www.yatego.com/index.php?cl=mallsearch&query=<query>"
+  },
+  "yav 1": {
+    "url": "https://yandex.ru/video/search?text=<query>"
+  },
+  "ye 0": {
+    "url": "https://www.yelp.com/"
+  },
+  "ye 1": {
+    "url": "https://www.yelp.com/search?find_desc=<what>"
+  },
+  "ye 2": {
+    "url": "https://www.yelp.com/search?find_desc=<what>&find_loc=<where: {type: city}>"
+  },
+  "yf 1": {
+    "url": "https://finance.yahoo.com/q?s=<abbreviation>"
+  },
+  "yfa 1": {
+    "url": "https://finance.yahoo.com/lookup?s=<company>"
+  },
+  "yfc 1": {
+    "url": "https://finance.yahoo.com/echarts?s=<abbreviation>"
+  },
+  "yfl 1": {
+    "url": "https://finance.yahoo.com/lookup?bypass=true&s=<company>"
+  },
+  "ygi 1": {
+    "url": "https://www.yeggi.com/q/<argument_name>/"
+  },
+  "ygl 0": {
+    "include": {
+      "key": "ygl 0",
+      "namespace": "en"
+    }
+  },
+  "ygl 1": {
+    "include": {
+      "key": "ygl 1",
+      "namespace": "en"
+    }
+  },
+  "yi 0": {
+    "include": [
+      {
+        "key": "yi 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "yi 1": {
+    "include": [
+      {
+        "key": "yi 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "yim 1": {
+    "url": "https://images.search.yahoo.com/search/images?p=<query>"
+  },
+  "yl 2": {
+    "url": "https://search.yahoo.com/search?fl=1&vl=lang_<language>&p=<query>"
+  },
+  "ymail 0": {
+    "url": "https://login.yahoo.com/config/login_verify2?&.src=ym"
+  },
+  "yn 1": {
+    "url": "https://news.search.yahoo.com/search/news?fr=sfp&ei=UTF-8&p=<query>&vl=lang_<$language>"
+  },
+  "yo 0": {
+    "include": [
+      {
+        "key": "yo 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "yo 1": {
+    "include": [
+      {
+        "key": "yo 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "yr 1": {
+    "url": "https://yr-web-prod.we.yr.azure.nrk.cloud/nb/s%C3%B8k?q=<query>",
+    "description": "yr.no is a Norwegian website for weather forecasting and other meteorological information (which is also in English). The site is a joint responsibility of the Norwegian Broadcasting Corporation and the Norwegian Meteorological Institute.\r\n\r\nThe website offers forecasts (as graphs, symbols and maps) for more than 9 million places in the world. The Norwegian forecasts are supplemented with textual forecasts, weather radars, satellite images and a wide range of more specialised forecasts. The forecasts are based on data from the Norwegian Meteorological Institute and several international meteorological organisations (ECMWF, EUMETSAT etc.)."
+  },
+  "ys 1": {
+    "url": "https://www.yasni.de/index.php?action=search&search=1&sh=&name=<query>&filter=Stichwort"
+  },
+  "yt 0": {
+    "url": "https://www.youtube.com/"
+  },
+  "yt 1": {
+    "url": "https://www.youtube.com/results?search_query=<query>"
+  },
+  "ytd 1": {
+    "url": "https://www.youtube.com/results?sp=CAI%253D&search_query=<query>"
+  },
+  "yth 0": {
+    "url": "https://www.youtube.com/feed/history"
+  },
+  "ytl 0": {
+    "url": "https://www.youtube.com/playlist?list=LL"
+  },
+  "ytm 0": {
+    "url": "https://music.youtube.com/"
+  },
+  "ytm 1": {
+    "url": "https://music.youtube.com/search?q=<query>"
+  },
+  "ytp 1": {
+    "url": "https://www.youtube.com/results?search_type=search_playlists&uni=3&search_query=<query>"
+  },
+  "ytt 1": {
+    "url": "https://www.youtube.com/results?hl=<$language>&persist_hl=1&search_query=<query>&search_sort=video_date_uploaded&uploaded=t"
+  },
+  "ytw 1": {
+    "url": "https://www.youtube.com/results?hl=<$language>&persist_hl=1&search_query=<query>&search_sort=video_date_uploaded&uploaded=w"
+  },
+  "ytwl 0": {
+    "url": "https://www.youtube.com/playlist?list=WL",
+    "include": "yt 0"
+  },
+  "yv 1": {
+    "url": "https://video.search.yahoo.com/search/video?p=<query>"
+  },
+  "z 1": {
+    "url": "https://www.zalando.de/katalog/?q=<Produkt>"
+  },
+  "zam 1": {
+    "url": "https://camelot.allakhazam.com/search.html?q=<query>"
+  },
+  "zar 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "en.tr <1>"
+      },
+      "created": "2023-04-10"
+    }
+  },
+  "zattoo 0": {
+    "url": "https://zattoo.com/"
+  },
+  "zattoo 1": {
+    "url": "https://zattoo.com/view/<channel>"
+  },
+  "zeitdiff 0": {
+    "url": "https://www.rechner.club/datum-uhrzeit/zeitraum-berechnen"
+  },
+  "zh 0": {
+    "include": [
+      {
+        "key": "zh 0",
+        "namespace": "mdb"
+      },
+      {
+        "key": "zh 0",
+        "namespace": "dcm"
+      },
+      {
+        "key": "zh 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "zh 0",
+        "namespace": "leo"
+      },
+      {
+        "key": "zh 0",
+        "namespace": "lgs"
+      },
+      {
+        "key": "zh 0",
+        "namespace": "rvs"
+      },
+      {
+        "key": "zh 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "zh 1": {
+    "include": [
+      {
+        "key": "zh 1",
+        "namespace": "mdb"
+      },
+      {
+        "key": "zh 1",
+        "namespace": "dcm"
+      },
+      {
+        "key": "zh 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "zh 1",
+        "namespace": "leo"
+      },
+      {
+        "key": "zh 1",
+        "namespace": "lgs"
+      },
+      {
+        "key": "zh 1",
+        "namespace": "rvs"
+      },
+      {
+        "key": "zh 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "zhen 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "en.zh <1>"
+      },
+      "created": "2023-04-11"
+    }
+  },
+  "zhr 1": {
+    "url": "https://en.wiktionary.org/wiki/Index:Chinese_radical/<radical>"
+  },
+  "zn 0": {
+    "url": "https://www.zoonar.de/?wid=1078"
+  },
+  "zn 1": {
+    "url": "https://www.zoonar.de/appgen/?cl=zoonar&cp=search&cmd=search_library&wid=1078&search[searchstring]=<Suche>"
+  },
+  "zu 0": {
+    "include": [
+      {
+        "key": "zu 0",
+        "namespace": "bab"
+      },
+      {
+        "key": "zu 0",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "zu 1": {
+    "include": [
+      {
+        "key": "zu 1",
+        "namespace": "bab"
+      },
+      {
+        "key": "zu 1",
+        "namespace": "pka"
+      }
+    ]
+  },
+  "zwatch 1": {
+    "url": "https://zattoo.com/view/<channel>"
+  },
+  "§ 2": {
+    "url": "https://www.google.com/search?hl=<$language>&ie=utf-8&btnI=1&q=site%3Awww.gesetze-im-internet.de%20\"<Paragraph>%20<Gesetz>\""
+  }
+}

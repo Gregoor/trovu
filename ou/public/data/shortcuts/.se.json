@@ -1,0 +1,43 @@
+{
+  "a 0": {
+    "url": "https://www.amazon.se?tag=serchilo-20"
+  },
+  "a 1": {
+    "url": "https://www.amazon.se/s?k=<sök>&linkCode=ll2&tag=serchilo-20",
+    "include": "a 0"
+  },
+  "blocket 1": {
+    "url": "https://www.blocket.se/annonser/hela_sverige?q=<query>"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/se/search?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "llt 2": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://193.45.213.123/lulea/v2/querypage_adv.aspx?nonExistingUrlRequested=1&inpPointFr=<Fra>&inpPointTo=<Till>&cmdAction=search"
+  },
+  "llt 3": {
+    "url": "https://stefanschramm.net/dev/postredirector/?_target=http://193.45.213.123/lulea/v2/querypage_adv.aspx?nonExistingUrlRequested=1&inpPointFr=<Fra>&inpPointTo=<Till>&inpTime=<Avgång>00&cmdAction=search"
+  },
+  "ltnbd 2": {
+    "url": "https://reseplanerare.resrobot.se/bin/query.exe/sn?L=vs_ltnbd&S=<Från>!&Z=<Till>!&start=1"
+  },
+  "ltnbd 3": {
+    "url": "https://reseplanerare.resrobot.se/bin/query.exe/sn?L=vs_ltnbd&S=<Från>!&Z=<Till>!&T=<Avgång>&start=1"
+  },
+  "rr 2": {
+    "url": "https://reseplanerare.resrobot.se/bin/query.exe/sn?S=<Från>!&Z=<Till>!&start=1"
+  },
+  "rr 3": {
+    "url": "https://reseplanerare.resrobot.se/bin/query.exe/sn?S=<Från>!&Z=<Till>!&T=<Avgång>&start=1"
+  },
+  "srse 1": {
+    "url": "https://sverigesradio.se/sida/sok.aspx?q=<programmets namn>&sort=relevance"
+  },
+  "zal 1": {
+    "url": "https://www.zalando.se/katalog/?q=<produkt>"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-es 0": {
+    "url": "https://www.spanishdict.com/"
+  },
+  "en-es 1": {
+    "url": "https://www.spanishdict.com/translate/<word>"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-en 0": {
+    "include": "en-es 0"
+  },
+  "es-en 1": {
+    "include": "en-es 1"
+  }
+}

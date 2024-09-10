@@ -1,0 +1,27 @@
+{
+  "cp 2": {
+    "url": "https://cp.hnonline.sk/vlakbusmhd/spojenie/?f=<odkiaľ: {type: city}>&t=<kam: {type: city}>&submit=1&pt=true"
+  },
+  "cp 3": {
+    "url": "https://cp.hnonline.sk/vlakbusmhd/spojenie/?f=<odkiaľ: {type: city}>&t=<kam: {type: city}>&time=<čas: {type: time, output: HH:mm}>&submit=1&pt=true"
+  },
+  "cp 4": {
+    "url": "https://cp.hnonline.sk/vlakbusmhd/spojenie/?f=<odkiaľ: {type: city}>&t=<kam: {type: city}>&time=<čas: {type: time, output: HH:mm}>&date=<datum: {type: date, output: DD.MM.YYYY}>&submit=1&pt=true"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/sk/vyhľadávať?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "zsr 2": {
+    "url": "https://www.zsr.sk/pre-cestujucich/vlakove-spojenia-elis/?hladajSpoj=true&txtFrom=<odkiaľ: {type: city}>&txtTo=<kam: {type: city}>"
+  },
+  "zsr 3": {
+    "url": "https://www.zsr.sk/pre-cestujucich/vlakove-spojenia-elis/?hladajSpoj=true&txtFrom=<odkiaľ: {type: city}>&txtTo=<kam: {type: city}>&txtTime=<čas: {type: time}>"
+  },
+  "zsr 4": {
+    "url": "https://www.zsr.sk/pre-cestujucich/vlakove-spojenia-elis/?hladajSpoj=true&txtFrom=<odkiaľ: {type: city}>&txtTo=<kam: {type: city}>&txtTime=<čas: {type: time}>&txtDate=<dátum: {type: date}>"
+  }
+}

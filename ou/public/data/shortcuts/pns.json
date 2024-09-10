@@ -1,0 +1,224 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-el 0": {
+    "url": "http://en.pons.com/translate?l=deel"
+  },
+  "de-el 1": {
+    "url": "http://en.pons.com/translate?l=deel&q=<word>"
+  },
+  "de-en 0": {
+    "url": "http://en.pons.com/translate?l=deen"
+  },
+  "de-en 1": {
+    "url": "http://en.pons.com/translate?l=deen&q=<word>"
+  },
+  "de-es 0": {
+    "url": "http://en.pons.com/translate?l=dees"
+  },
+  "de-es 1": {
+    "url": "http://en.pons.com/translate?l=dees&q=<word>"
+  },
+  "de-fr 0": {
+    "url": "http://en.pons.com/translate?l=defr"
+  },
+  "de-fr 1": {
+    "url": "http://en.pons.com/translate?l=defr&q=<word>"
+  },
+  "de-hu 0": {
+    "url": "http://en.pons.com/translate?l=dehu"
+  },
+  "de-hu 1": {
+    "url": "http://en.pons.com/translate?l=dehu&q=<word>"
+  },
+  "de-it 0": {
+    "url": "http://en.pons.com/translate?l=deit"
+  },
+  "de-it 1": {
+    "url": "http://en.pons.com/translate?l=deit&q=<word>"
+  },
+  "de-pl 0": {
+    "url": "http://en.pons.com/translate?l=depl"
+  },
+  "de-pl 1": {
+    "url": "http://en.pons.com/translate?l=depl&q=<word>"
+  },
+  "de-pt 0": {
+    "url": "http://en.pons.com/translate?l=dept"
+  },
+  "de-pt 1": {
+    "url": "http://en.pons.com/translate?l=dept&q=<word>"
+  },
+  "de-ru 0": {
+    "url": "http://en.pons.com/translate?l=deru"
+  },
+  "de-ru 1": {
+    "url": "http://en.pons.com/translate?l=deru&q=<word>"
+  },
+  "el 0": {
+    "include": "el-<$language> 0"
+  },
+  "el 1": {
+    "include": "el-<$language> 1"
+  },
+  "el-de 0": {
+    "include": "de-el 0"
+  },
+  "el-de 1": {
+    "include": "de-el 1"
+  },
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-de 0": {
+    "include": "de-en 0"
+  },
+  "en-de 1": {
+    "include": "de-en 1"
+  },
+  "en-es 0": {
+    "url": "http://en.pons.com/translate?l=enes"
+  },
+  "en-es 1": {
+    "url": "http://en.pons.com/translate?l=enes&q=<word>"
+  },
+  "en-fr 0": {
+    "url": "http://en.pons.com/translate?l=enfr"
+  },
+  "en-fr 1": {
+    "url": "http://en.pons.com/translate?l=enfr&q=<word>"
+  },
+  "en-sl 0": {
+    "url": "http://en.pons.com/translate?l=ensl"
+  },
+  "en-sl 1": {
+    "url": "http://en.pons.com/translate?l=ensl&q=<word>"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-de 0": {
+    "include": "de-es 0"
+  },
+  "es-de 1": {
+    "include": "de-es 1"
+  },
+  "es-en 0": {
+    "include": "en-es 0"
+  },
+  "es-en 1": {
+    "include": "en-es 1"
+  },
+  "fr 0": {
+    "include": "fr-<$language> 0"
+  },
+  "fr 1": {
+    "include": "fr-<$language> 1"
+  },
+  "fr-de 0": {
+    "include": "de-fr 0"
+  },
+  "fr-de 1": {
+    "include": "de-fr 1"
+  },
+  "fr-en 0": {
+    "include": "en-fr 0"
+  },
+  "fr-en 1": {
+    "include": "en-fr 1"
+  },
+  "fr-pl 0": {
+    "url": "http://en.pons.com/translate?l=frpl"
+  },
+  "fr-pl 1": {
+    "url": "http://en.pons.com/translate?l=frpl&q=<word>"
+  },
+  "hu 0": {
+    "include": "hu-<$language> 0"
+  },
+  "hu 1": {
+    "include": "hu-<$language> 1"
+  },
+  "hu-de 0": {
+    "include": "de-hu 0"
+  },
+  "hu-de 1": {
+    "include": "de-hu 1"
+  },
+  "it 0": {
+    "include": "it-<$language> 0"
+  },
+  "it 1": {
+    "include": "it-<$language> 1"
+  },
+  "it-de 0": {
+    "include": "de-it 0"
+  },
+  "it-de 1": {
+    "include": "de-it 1"
+  },
+  "pl 0": {
+    "include": "pl-<$language> 0"
+  },
+  "pl 1": {
+    "include": "pl-<$language> 1"
+  },
+  "pl-de 0": {
+    "include": "de-pl 0"
+  },
+  "pl-de 1": {
+    "include": "de-pl 1"
+  },
+  "pl-fr 0": {
+    "include": "fr-pl 0"
+  },
+  "pl-fr 1": {
+    "include": "fr-pl 1"
+  },
+  "pt 0": {
+    "include": "pt-<$language> 0"
+  },
+  "pt 1": {
+    "include": "pt-<$language> 1"
+  },
+  "pt-de 0": {
+    "include": "de-pt 0"
+  },
+  "pt-de 1": {
+    "include": "de-pt 1"
+  },
+  "ru 0": {
+    "include": "ru-<$language> 0"
+  },
+  "ru 1": {
+    "include": "ru-<$language> 1"
+  },
+  "ru-de 0": {
+    "include": "de-ru 0"
+  },
+  "ru-de 1": {
+    "include": "de-ru 1"
+  },
+  "sl 0": {
+    "include": "sl-<$language> 0"
+  },
+  "sl 1": {
+    "include": "sl-<$language> 1"
+  },
+  "sl-en 0": {
+    "include": "en-sl 0"
+  },
+  "sl-en 1": {
+    "include": "en-sl 1"
+  }
+}

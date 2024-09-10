@@ -1,0 +1,62 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-en 0": {
+    "url": "https://dict.tu-chemnitz.de/"
+  },
+  "de-en 1": {
+    "url": "https://dict.tu-chemnitz.de/dings.cgi?service=deen&query=<word>"
+  },
+  "de-es 0": {
+    "url": "https://dict.tu-chemnitz.de/"
+  },
+  "de-es 1": {
+    "url": "https://dict.tu-chemnitz.de/dings.cgi?service=dees&query=<word>"
+  },
+  "de-pt 0": {
+    "url": "https://dict.tu-chemnitz.de/"
+  },
+  "de-pt 1": {
+    "url": "https://dict.tu-chemnitz.de/dings.cgi?service=dept&query=<word>"
+  },
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-de 0": {
+    "include": "de-en 0"
+  },
+  "en-de 1": {
+    "include": "de-en 1"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-de 0": {
+    "include": "de-es 0"
+  },
+  "es-de 1": {
+    "include": "de-es 1"
+  },
+  "pt 0": {
+    "include": "pt-<$language> 0"
+  },
+  "pt 1": {
+    "include": "pt-<$language> 1"
+  },
+  "pt-de 0": {
+    "include": "de-pt 0"
+  },
+  "pt-de 1": {
+    "include": "de-pt 1"
+  }
+}

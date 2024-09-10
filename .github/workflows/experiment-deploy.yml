@@ -20,11 +20,19 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
 
     runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: ou
+
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: ./.github/actions/node
+      - run: pnpm build
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: "ou"
+          path: "ou/dist"
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

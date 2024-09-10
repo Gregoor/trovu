@@ -1,0 +1,27 @@
+{
+  "efr 0": {
+    "url": "https://www.befr.ebay.be/"
+  },
+  "efr 1": {
+    "url": "https://www.befr.ebay.be//sch/i.html?_nkw=<query>"
+  },
+  "enl 0": {
+    "url": "https://www.benl.ebay.be/"
+  },
+  "enl 1": {
+    "url": "https://www.benl.ebay.be//sch/i.html?_nkw=<query>"
+  },
+  "g 1": {
+    "url": "https://www.google.be/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/be/recherche?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "zal 1": {
+    "url": "https://www.zalando.be/catalogus/?q=<product>"
+  }
+}

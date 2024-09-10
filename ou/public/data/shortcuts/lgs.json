@@ -1,0 +1,512 @@
+{
+  "ar 0": {
+    "include": "ar-<$language> 0"
+  },
+  "ar 1": {
+    "include": "ar-<$language> 1"
+  },
+  "ar-de 0": {
+    "include": "de-ar 0"
+  },
+  "ar-de 1": {
+    "include": "de-ar 1"
+  },
+  "bg 0": {
+    "include": "bg-<$language> 0"
+  },
+  "bg 1": {
+    "include": "bg-<$language> 1"
+  },
+  "bg-de 0": {
+    "include": "de-bg 0"
+  },
+  "bg-de 1": {
+    "include": "de-bg 1"
+  },
+  "cs 0": {
+    "include": "cs-<$language> 0"
+  },
+  "cs 1": {
+    "include": "cs-<$language> 1"
+  },
+  "cs-de 0": {
+    "include": "de-cs 0"
+  },
+  "cs-de 1": {
+    "include": "de-cs 1"
+  },
+  "da 0": {
+    "include": "da-<$language> 0"
+  },
+  "da 1": {
+    "include": "da-<$language> 1"
+  },
+  "da-de 0": {
+    "include": "de-da 0"
+  },
+  "da-de 1": {
+    "include": "de-da 1"
+  },
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-ar 0": {
+    "url": "https://de.langenscheidt.com/deutsch-arabisch/"
+  },
+  "de-ar 1": {
+    "url": "https://de.langenscheidt.com/deutsch-arabisch/<word>"
+  },
+  "de-bg 0": {
+    "url": "https://de.langenscheidt.com/deutsch-bulgarisch/"
+  },
+  "de-bg 1": {
+    "url": "https://de.langenscheidt.com/deutsch-bulgarisch/<word>"
+  },
+  "de-cs 0": {
+    "url": "https://de.langenscheidt.com/deutsch-tschechisch/"
+  },
+  "de-cs 1": {
+    "url": "https://de.langenscheidt.com/deutsch-tschechisch/<word>"
+  },
+  "de-da 0": {
+    "url": "https://de.langenscheidt.com/deutsch-daenisch/"
+  },
+  "de-da 1": {
+    "url": "https://de.langenscheidt.com/deutsch-daenisch/<word>"
+  },
+  "de-el 0": {
+    "url": "https://de.langenscheidt.com/deutsch-griechisch/"
+  },
+  "de-el 1": {
+    "url": "https://de.langenscheidt.com/deutsch-griechisch/<word>"
+  },
+  "de-en 0": {
+    "url": "https://de.langenscheidt.com/deutsch-englisch/"
+  },
+  "de-en 1": {
+    "url": "https://de.langenscheidt.com/deutsch-englisch/<word>"
+  },
+  "de-es 0": {
+    "url": "https://de.langenscheidt.com/deutsch-spanisch/"
+  },
+  "de-es 1": {
+    "url": "https://de.langenscheidt.com/deutsch-spanisch/<word>"
+  },
+  "de-fa 0": {
+    "url": "https://de.langenscheidt.com/deutsch-persisch/"
+  },
+  "de-fa 1": {
+    "url": "https://de.langenscheidt.com/deutsch-persisch/<word>"
+  },
+  "de-fi 0": {
+    "url": "https://de.langenscheidt.com/deutsch-finnisch/"
+  },
+  "de-fi 1": {
+    "url": "https://de.langenscheidt.com/deutsch-finnisch/<word>"
+  },
+  "de-fr 0": {
+    "url": "https://de.langenscheidt.com/deutsch-franzoesisch/"
+  },
+  "de-fr 1": {
+    "url": "https://de.langenscheidt.com/deutsch-franzoesisch/<word>"
+  },
+  "de-hr 0": {
+    "url": "https://de.langenscheidt.com/deutsch-kroatisch/"
+  },
+  "de-hr 1": {
+    "url": "https://de.langenscheidt.com/deutsch-kroatisch/<word>"
+  },
+  "de-hu 0": {
+    "url": "https://de.langenscheidt.com/deutsch-ungarisch/"
+  },
+  "de-hu 1": {
+    "url": "https://de.langenscheidt.com/deutsch-ungarisch/<word>"
+  },
+  "de-is 0": {
+    "url": "https://de.langenscheidt.com/deutsch-islaendisch/"
+  },
+  "de-is 1": {
+    "url": "https://de.langenscheidt.com/deutsch-islaendisch/<word>"
+  },
+  "de-it 0": {
+    "url": "https://de.langenscheidt.com/deutsch-italienisch/"
+  },
+  "de-it 1": {
+    "url": "https://de.langenscheidt.com/deutsch-italienisch/<word>"
+  },
+  "de-ja 0": {
+    "url": "https://de.langenscheidt.com/deutsch-japanisch/"
+  },
+  "de-ja 1": {
+    "url": "https://de.langenscheidt.com/deutsch-japanisch/<word>"
+  },
+  "de-la 0": {
+    "url": "https://de.langenscheidt.com/deutsch-latein/"
+  },
+  "de-la 1": {
+    "url": "https://de.langenscheidt.com/deutsch-latein/<word>"
+  },
+  "de-nl 0": {
+    "url": "https://de.langenscheidt.com/deutsch-niederlaendisch/"
+  },
+  "de-nl 1": {
+    "url": "https://de.langenscheidt.com/deutsch-niederlaendisch/<word>"
+  },
+  "de-no 0": {
+    "url": "https://de.langenscheidt.com/deutsch-norwegisch/"
+  },
+  "de-no 1": {
+    "url": "https://de.langenscheidt.com/deutsch-norwegisch/<word>"
+  },
+  "de-pl 0": {
+    "url": "https://de.langenscheidt.com/deutsch-polnisch/"
+  },
+  "de-pl 1": {
+    "url": "https://de.langenscheidt.com/deutsch-polnisch/<word>"
+  },
+  "de-pt 0": {
+    "url": "https://de.langenscheidt.com/deutsch-portugiesisch/"
+  },
+  "de-pt 1": {
+    "url": "https://de.langenscheidt.com/deutsch-portugiesisch/<word>"
+  },
+  "de-ro 0": {
+    "url": "https://de.langenscheidt.com/deutsch-rumaenisch/"
+  },
+  "de-ro 1": {
+    "url": "https://de.langenscheidt.com/deutsch-rumaenisch/<word>"
+  },
+  "de-ru 0": {
+    "url": "https://de.langenscheidt.com/deutsch-russisch/"
+  },
+  "de-ru 1": {
+    "url": "https://de.langenscheidt.com/deutsch-russisch/<word>"
+  },
+  "de-sk 0": {
+    "url": "https://de.langenscheidt.com/deutsch-slowakisch/"
+  },
+  "de-sk 1": {
+    "url": "https://de.langenscheidt.com/deutsch-slowakisch/<word>"
+  },
+  "de-sl 0": {
+    "url": "https://de.langenscheidt.com/deutsch-slowenisch/"
+  },
+  "de-sl 1": {
+    "url": "https://de.langenscheidt.com/deutsch-slowenisch/<word>"
+  },
+  "de-sr 0": {
+    "url": "https://de.langenscheidt.com/deutsch-serbisch/"
+  },
+  "de-sr 1": {
+    "url": "https://de.langenscheidt.com/deutsch-serbisch/<word>"
+  },
+  "de-sv 0": {
+    "url": "https://de.langenscheidt.com/deutsch-schwedisch/"
+  },
+  "de-sv 1": {
+    "url": "https://de.langenscheidt.com/deutsch-schwedisch/<word>"
+  },
+  "de-tr 0": {
+    "url": "https://de.langenscheidt.com/deutsch-tuerkisch/"
+  },
+  "de-tr 1": {
+    "url": "https://de.langenscheidt.com/deutsch-tuerkisch/<word>"
+  },
+  "de-zh 0": {
+    "url": "https://de.langenscheidt.com/deutsch-chinesisch/"
+  },
+  "de-zh 1": {
+    "url": "https://de.langenscheidt.com/deutsch-chinesisch/<word>"
+  },
+  "el 0": {
+    "include": "el-<$language> 0"
+  },
+  "el 1": {
+    "include": "el-<$language> 1"
+  },
+  "el-de 0": {
+    "include": "de-el 0"
+  },
+  "el-de 1": {
+    "include": "de-el 1"
+  },
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-de 0": {
+    "include": "de-en 0"
+  },
+  "en-de 1": {
+    "include": "de-en 1"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-de 0": {
+    "include": "de-es 0"
+  },
+  "es-de 1": {
+    "include": "de-es 1"
+  },
+  "fa 0": {
+    "include": "fa-<$language> 0"
+  },
+  "fa 1": {
+    "include": "fa-<$language> 1"
+  },
+  "fa-de 0": {
+    "include": "de-fa 0"
+  },
+  "fa-de 1": {
+    "include": "de-fa 1"
+  },
+  "fi 0": {
+    "include": "fi-<$language> 0"
+  },
+  "fi 1": {
+    "include": "fi-<$language> 1"
+  },
+  "fi-de 0": {
+    "include": "de-fi 0"
+  },
+  "fi-de 1": {
+    "include": "de-fi 1"
+  },
+  "fr 0": {
+    "include": "fr-<$language> 0"
+  },
+  "fr 1": {
+    "include": "fr-<$language> 1"
+  },
+  "fr-de 0": {
+    "include": "de-fr 0"
+  },
+  "fr-de 1": {
+    "include": "de-fr 1"
+  },
+  "hr 0": {
+    "include": "hr-<$language> 0"
+  },
+  "hr 1": {
+    "include": "hr-<$language> 1"
+  },
+  "hr-de 0": {
+    "include": "de-hr 0"
+  },
+  "hr-de 1": {
+    "include": "de-hr 1"
+  },
+  "hu 0": {
+    "include": "hu-<$language> 0"
+  },
+  "hu 1": {
+    "include": "hu-<$language> 1"
+  },
+  "hu-de 0": {
+    "include": "de-hu 0"
+  },
+  "hu-de 1": {
+    "include": "de-hu 1"
+  },
+  "is 0": {
+    "include": "is-<$language> 0"
+  },
+  "is 1": {
+    "include": "is-<$language> 1"
+  },
+  "is-de 0": {
+    "include": "de-is 0"
+  },
+  "is-de 1": {
+    "include": "de-is 1"
+  },
+  "it 0": {
+    "include": "it-<$language> 0"
+  },
+  "it 1": {
+    "include": "it-<$language> 1"
+  },
+  "it-de 0": {
+    "include": "de-it 0"
+  },
+  "it-de 1": {
+    "include": "de-it 1"
+  },
+  "ja 0": {
+    "include": "ja-<$language> 0"
+  },
+  "ja 1": {
+    "include": "ja-<$language> 1"
+  },
+  "ja-de 0": {
+    "include": "de-ja 0"
+  },
+  "ja-de 1": {
+    "include": "de-ja 1"
+  },
+  "la 0": {
+    "include": "la-<$language> 0"
+  },
+  "la 1": {
+    "include": "la-<$language> 1"
+  },
+  "la-de 0": {
+    "include": "de-la 0"
+  },
+  "la-de 1": {
+    "include": "de-la 1"
+  },
+  "nl 0": {
+    "include": "nl-<$language> 0"
+  },
+  "nl 1": {
+    "include": "nl-<$language> 1"
+  },
+  "nl-de 0": {
+    "include": "de-nl 0"
+  },
+  "nl-de 1": {
+    "include": "de-nl 1"
+  },
+  "no 0": {
+    "include": "no-<$language> 0"
+  },
+  "no 1": {
+    "include": "no-<$language> 1"
+  },
+  "no-de 0": {
+    "include": "de-no 0"
+  },
+  "no-de 1": {
+    "include": "de-no 1"
+  },
+  "pl 0": {
+    "include": "pl-<$language> 0"
+  },
+  "pl 1": {
+    "include": "pl-<$language> 1"
+  },
+  "pl-de 0": {
+    "include": "de-pl 0"
+  },
+  "pl-de 1": {
+    "include": "de-pl 1"
+  },
+  "pt 0": {
+    "include": "pt-<$language> 0"
+  },
+  "pt 1": {
+    "include": "pt-<$language> 1"
+  },
+  "pt-de 0": {
+    "include": "de-pt 0"
+  },
+  "pt-de 1": {
+    "include": "de-pt 1"
+  },
+  "ro 0": {
+    "include": "ro-<$language> 0"
+  },
+  "ro 1": {
+    "include": "ro-<$language> 1"
+  },
+  "ro-de 0": {
+    "include": "de-ro 0"
+  },
+  "ro-de 1": {
+    "include": "de-ro 1"
+  },
+  "ru 0": {
+    "include": "ru-<$language> 0"
+  },
+  "ru 1": {
+    "include": "ru-<$language> 1"
+  },
+  "ru-de 0": {
+    "include": "de-ru 0"
+  },
+  "ru-de 1": {
+    "include": "de-ru 1"
+  },
+  "sk 0": {
+    "include": "sk-<$language> 0"
+  },
+  "sk 1": {
+    "include": "sk-<$language> 1"
+  },
+  "sk-de 0": {
+    "include": "de-sk 0"
+  },
+  "sk-de 1": {
+    "include": "de-sk 1"
+  },
+  "sl 0": {
+    "include": "sl-<$language> 0"
+  },
+  "sl 1": {
+    "include": "sl-<$language> 1"
+  },
+  "sl-de 0": {
+    "include": "de-sl 0"
+  },
+  "sl-de 1": {
+    "include": "de-sl 1"
+  },
+  "sr 0": {
+    "include": "sr-<$language> 0"
+  },
+  "sr 1": {
+    "include": "sr-<$language> 1"
+  },
+  "sr-de 0": {
+    "include": "de-sr 0"
+  },
+  "sr-de 1": {
+    "include": "de-sr 1"
+  },
+  "sv 0": {
+    "include": "sv-<$language> 0"
+  },
+  "sv 1": {
+    "include": "sv-<$language> 1"
+  },
+  "sv-de 0": {
+    "include": "de-sv 0"
+  },
+  "sv-de 1": {
+    "include": "de-sv 1"
+  },
+  "tr 0": {
+    "include": "tr-<$language> 0"
+  },
+  "tr 1": {
+    "include": "tr-<$language> 1"
+  },
+  "tr-de 0": {
+    "include": "de-tr 0"
+  },
+  "tr-de 1": {
+    "include": "de-tr 1"
+  },
+  "zh 0": {
+    "include": "zh-<$language> 0"
+  },
+  "zh 1": {
+    "include": "zh-<$language> 1"
+  },
+  "zh-de 0": {
+    "include": "de-zh 0"
+  },
+  "zh-de 1": {
+    "include": "de-zh 1"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "pv 0": {
+    "url": "https://slovnik.aktuality.sk/pravopis/",
+    "tests": [
+      {
+        "expect": "<title>Pravopis"
+      }
+    ]
+  },
+  "pv 1": {
+    "url": "https://slovnik.aktuality.sk/pravopis/?q=<slovo>",
+    "tests": [
+      {
+        "arguments": "strom",
+        "expect": "<title>„strom“"
+      }
+    ],
+    "include": "pv 0"
+  },
+  "syn 0": {
+    "url": "https://slovnik.aktuality.sk/synonyma/",
+    "tests": [
+      {
+        "expect": "<title>Synonymický"
+      }
+    ]
+  },
+  "syn 1": {
+    "url": "https://slovnik.aktuality.sk/synonyma/?q=<slovo>",
+    "tests": [
+      {
+        "arguments": "strom",
+        "expect": "<title>&quot;strom&quot;"
+      }
+    ],
+    "include": "syn 0"
+  }
+}

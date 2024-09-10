@@ -1,0 +1,15 @@
+{
+  "e 0": {
+    "url": "https://www.ebay.com.sg/"
+  },
+  "e 1": {
+    "url": "https://www.ebay.com.sg/sch/i.html?_nkw=<query>"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/sg/search?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  }
+}

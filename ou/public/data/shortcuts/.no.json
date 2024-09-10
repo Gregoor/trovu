@@ -1,0 +1,16 @@
+{
+  "jw 1": {
+    "url": "https://www.justwatch.com/no/search?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "yr 1": {
+    "url": "https://www.yr.no/nb/s%C3%B8k?q=<query>",
+    "description": "yr.no er et norsk nettsted for værvarsler og annen meteorologisk informasjon. Det drives som et samarbeid mellom Norsk rikskringkasting (NRK) og Meteorologisk institutt.\r\n\r\nPå nettstedet kan en finne automatgenererte værvarsler (som grafer og kart) for 900 000 steder i Norge og 9 millioner steder i verden. For Norge kommer i tillegg bearbeidde tekstvarsler fra Meteorologisk institutt, radar- og satellittbilder, klimatologiske data og en rekke spesialvarsler. Videre er det nyhetssaker og populærvitenskapelige artikler relatert til vær og klima. Værvarslene er basert på data fra Meteorologisk institutt og de internasjonale samarbeidspartnerene til instituttet (ECMWF, EUMETSAT etc.)."
+  },
+  "zal 1": {
+    "url": "https://www.zalando.no/katalog/?q=<produkt>"
+  }
+}

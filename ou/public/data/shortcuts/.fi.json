@@ -1,0 +1,12 @@
+{
+  "jw 1": {
+    "url": "https://www.justwatch.com/fi/etsi?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "zal 1": {
+    "url": "https://www.zalando.fi/katalogi/?q=<tavara>"
+  }
+}

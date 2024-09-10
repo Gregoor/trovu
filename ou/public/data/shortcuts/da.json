@@ -1,0 +1,27 @@
+{
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "gyl 0": {
+    "url": "https://www.ordbogen.com/"
+  },
+  "gyl 1": {
+    "url": "https://www.ordbogen.com/da/search/classic?query=<ord>&dictionaryId=dsn-spelling-dada&allowSwitchDictionary=0",
+    "include": "gyl 0"
+  },
+  "ods 0": {
+    "url": "https://ordnet.dk/"
+  },
+  "ods 1": {
+    "url": "https://ordnet.dk/ods/ordbog?query=<ord>",
+    "include": "ods 0"
+  },
+  "spr 0": {
+    "url": "https://sproget.dk/"
+  },
+  "spr 1": {
+    "url": "https://sproget.dk/lookup?SearchableText=<ord>",
+    "include": "spr 0"
+  }
+}

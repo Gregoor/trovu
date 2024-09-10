@@ -1,0 +1,26 @@
+{
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-ga 0": {
+    "url": "https://www.irishionary.com/"
+  },
+  "en-ga 1": {
+    "url": "https://www.irishionary.com/search/<word>/"
+  },
+  "ga 0": {
+    "include": "ga-<$language> 0"
+  },
+  "ga 1": {
+    "include": "ga-<$language> 1"
+  },
+  "ga-en 0": {
+    "include": "en-ga 0"
+  },
+  "ga-en 1": {
+    "include": "en-ga 1"
+  }
+}

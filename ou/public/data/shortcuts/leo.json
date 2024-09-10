@@ -1,0 +1,200 @@
+{
+  "de 0": {
+    "include": "de-<$language> 0"
+  },
+  "de 1": {
+    "include": "de-<$language> 1"
+  },
+  "de-en 0": {
+    "url": "https://dict.leo.org/german-english/"
+  },
+  "de-en 1": {
+    "url": "https://dict.leo.org/german-english/<word>"
+  },
+  "de-es 0": {
+    "url": "https://dict.leo.org/spanisch-deutsch/"
+  },
+  "de-es 1": {
+    "url": "https://dict.leo.org/spanisch-deutsch/<word>"
+  },
+  "de-fr 0": {
+    "url": "https://dict.leo.org/französisch-deutsch/"
+  },
+  "de-fr 1": {
+    "url": "https://dict.leo.org/französisch-deutsch/<word>"
+  },
+  "de-it 0": {
+    "url": "https://dict.leo.org/italienisch-deutsch/"
+  },
+  "de-it 1": {
+    "url": "https://dict.leo.org/italienisch-deutsch/<word>"
+  },
+  "de-pl 0": {
+    "url": "https://dict.leo.org/polnisch-deutsch/"
+  },
+  "de-pl 1": {
+    "url": "https://dict.leo.org/polnisch-deutsch/<word>"
+  },
+  "de-pt 0": {
+    "url": "https://dict.leo.org/portugiesisch-deutsch/"
+  },
+  "de-pt 1": {
+    "url": "https://dict.leo.org/portugiesisch-deutsch/<word>"
+  },
+  "de-ru 0": {
+    "url": "https://dict.leo.org/russisch-deutsch/"
+  },
+  "de-ru 1": {
+    "url": "https://dict.leo.org/russisch-deutsch/<word>"
+  },
+  "de-zh 0": {
+    "url": "https://dict.leo.org/chinesisch-deutsch/"
+  },
+  "de-zh 1": {
+    "url": "https://dict.leo.org/chinesisch-deutsch/<word>"
+  },
+  "en 0": {
+    "include": "en-<$language> 0"
+  },
+  "en 1": {
+    "include": "en-<$language> 1"
+  },
+  "en-de 0": {
+    "include": "de-en 0"
+  },
+  "en-de 1": {
+    "include": "de-en 1"
+  },
+  "en-es 0": {
+    "url": "https://dict.leo.org/spanish-english/"
+  },
+  "en-es 1": {
+    "url": "https://dict.leo.org/spanish-english/<word>"
+  },
+  "en-fr 0": {
+    "url": "https://dict.leo.org/french-english/"
+  },
+  "en-fr 1": {
+    "url": "https://dict.leo.org/french-english/<word>"
+  },
+  "en-ru 0": {
+    "url": "https://dict.leo.org/russian-english/"
+  },
+  "en-ru 1": {
+    "url": "https://dict.leo.org/russian-english/<word>"
+  },
+  "es 0": {
+    "include": "es-<$language> 0"
+  },
+  "es 1": {
+    "include": "es-<$language> 1"
+  },
+  "es-de 0": {
+    "include": "de-es 0"
+  },
+  "es-de 1": {
+    "include": "de-es 1"
+  },
+  "es-en 0": {
+    "include": "en-es 0"
+  },
+  "es-en 1": {
+    "include": "en-es 1"
+  },
+  "es-pt 0": {
+    "url": "https://dict.leo.org/espanhol-português/"
+  },
+  "es-pt 1": {
+    "url": "https://dict.leo.org/espanhol-português/<word>"
+  },
+  "fr 0": {
+    "include": "fr-<$language> 0"
+  },
+  "fr 1": {
+    "include": "fr-<$language> 1"
+  },
+  "fr-de 0": {
+    "include": "de-fr 0"
+  },
+  "fr-de 1": {
+    "include": "de-fr 1"
+  },
+  "fr-en 0": {
+    "include": "en-fr 0"
+  },
+  "fr-en 1": {
+    "include": "en-fr 1"
+  },
+  "it 0": {
+    "include": "it-<$language> 0"
+  },
+  "it 1": {
+    "include": "it-<$language> 1"
+  },
+  "it-de 0": {
+    "include": "de-it 0"
+  },
+  "it-de 1": {
+    "include": "de-it 1"
+  },
+  "pl 0": {
+    "include": "pl-<$language> 0"
+  },
+  "pl 1": {
+    "include": "pl-<$language> 1"
+  },
+  "pl-de 0": {
+    "include": "de-pl 0"
+  },
+  "pl-de 1": {
+    "include": "de-pl 1"
+  },
+  "pt 0": {
+    "include": "pt-<$language> 0"
+  },
+  "pt 1": {
+    "include": "pt-<$language> 1"
+  },
+  "pt-de 0": {
+    "include": "de-pt 0"
+  },
+  "pt-de 1": {
+    "include": "de-pt 1"
+  },
+  "pt-es 0": {
+    "include": "es-pt 0"
+  },
+  "pt-es 1": {
+    "include": "es-pt 1"
+  },
+  "ru 0": {
+    "include": "ru-<$language> 0"
+  },
+  "ru 1": {
+    "include": "ru-<$language> 1"
+  },
+  "ru-de 0": {
+    "include": "de-ru 0"
+  },
+  "ru-de 1": {
+    "include": "de-ru 1"
+  },
+  "ru-en 0": {
+    "include": "en-ru 0"
+  },
+  "ru-en 1": {
+    "include": "en-ru 1"
+  },
+  "zh 0": {
+    "include": "zh-<$language> 0"
+  },
+  "zh 1": {
+    "include": "zh-<$language> 1"
+  },
+  "zh-de 0": {
+    "include": "de-zh 0"
+  },
+  "zh-de 1": {
+    "include": "de-zh 1"
+  }
+}

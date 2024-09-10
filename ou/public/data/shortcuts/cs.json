@@ -1,0 +1,21 @@
+{
+  "c 1": {
+    "url": "https://www.csfd.cz/hledat/?q=<výraz>"
+  },
+  "cs 1": {
+    "url": "https://ssjc.ujc.cas.cz/search.php?heslo=<výraz>&sti=EMPTY&where=hesla&hsubstr=no"
+  },
+  "csfd 1": {
+    "url": "https://www.csfd.cz/hledat/?q=<výraz>"
+  },
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "kinobox 1": {
+    "url": "https://www.kinobox.cz/najdi?t=<query>"
+  },
+  "sub 1": {
+    "url": "https://www.opensubtitles.org/sk/search2/sublanguageid-slo,cze,ger/moviename-<výraz>"
+  }
+}

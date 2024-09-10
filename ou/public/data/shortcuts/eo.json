@@ -1,0 +1,23 @@
+{
+  "kt 0": {
+    "url": "https://komputeko.net/"
+  },
+  "kt 1": {
+    "url": "https://komputeko.net/#<vorto>"
+  },
+  "piv 0": {
+    "url": "https://vortaro.net/"
+  },
+  "piv 1": {
+    "url": "https://vortaro.net/#<vorto>"
+  },
+  "rv 0": {
+    "url": "https://www.reta-vortaro.de/"
+  },
+  "rv 1": {
+    "url": "https://www.reta-vortaro.de/revo/dlg/index-2f.html?q=<vorto>"
+  },
+  "rvg 1": {
+    "url": "https://www.google.com/search?hl=<$language>&sitesearch=reta-vortaro.de&domains=reta-vortaro.de&q=<vorto>"
+  }
+}

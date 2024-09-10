@@ -1,0 +1,58 @@
+{
+  "3s 0": {
+    "url": "https://www.3suisses.fr/"
+  },
+  "3s 1": {
+    "url": "https://www.3suisses.fr/home?searchTerms=<recherche>"
+  },
+  "a 0": {
+    "url": "https://www.amazon.fr?tag=serchilo-20"
+  },
+  "a 1": {
+    "url": "https://www.amazon.fr/s?k=<recherche>&linkCode=ll2&tag=serchilo-20",
+    "include": "a 0"
+  },
+  "cdiscount 1": {
+    "url": "https://www.cdiscount.com/search/10/<query>.html"
+  },
+  "e 0": {
+    "url": "https://www.ebay.fr/?mkcid=1&mkrid=709-53476-19255-0&siteid=71&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "e 1": {
+    "url": "https://www.ebay.fr/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=<query>&_sacat=0&mkcid=1&mkrid=709-53476-19255-0&siteid=71&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "g 1": {
+    "url": "https://www.google.fr/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "ikea 0": {
+    "url": "https://www.ikea.com/fr/fr/"
+  },
+  "ikea 1": {
+    "url": "https://www.ikea.com/fr/fr/search/?q=<query>"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/fr/recherche?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "kiabi 0": {
+    "url": "https://www.kiabi.com/"
+  },
+  "kiabi 1": {
+    "url": "https://www.kiabi.com/search.ep?keyWords=<recherche>"
+  },
+  "pj 0": {
+    "url": "https://www.pagesjaunes.fr"
+  },
+  "pj 2": {
+    "url": "https://www.pagesjaunes.fr/annuaire/chercherlespros?quoiqui=<quoiqui>&ou=<ou>&univers=pagesjaunes&idOu="
+  },
+  "soc 1": {
+    "url": "https://www.societe.com/cgi-bin/search?champs=<name>"
+  },
+  "zal 1": {
+    "url": "https://www.zalando.fr/catalogue/?q=<produit>"
+  }
+}

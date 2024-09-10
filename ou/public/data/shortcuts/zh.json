@@ -1,0 +1,16 @@
+{
+  "frv 1": {
+    "url": "https://<$language>.forvo.com/search/<word>/",
+    "description": "Forvo pronunciation database, localized interface"
+  },
+  "last 1": {
+    "url": "https://www.last.fm/search?setlang=zh&q=<artist>"
+  },
+  "ygl 0": {
+    "url": "https://youglish.com/chinese"
+  },
+  "ygl 1": {
+    "url": "https://youglish.com/pronounce/<word>/chinese",
+    "include": "ygl 0"
+  }
+}

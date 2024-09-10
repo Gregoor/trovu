@@ -1,0 +1,105 @@
+{
+  "a 0": {
+    "url": "https://www.amazon.es?tag=serchilo-20"
+  },
+  "a 1": {
+    "url": "https://www.amazon.es/s?k=<busqueda>&linkCode=ll2&tag=serchilo-20",
+    "include": "a 0"
+  },
+  "abc 0": {
+    "url": "https://www.abc.es/"
+  },
+  "abc 1": {
+    "url": "https://www.abc.es/archivo/buscador/?titulo=<query>&tipo=todos",
+    "include": "abc 0"
+  },
+  "e 0": {
+    "url": "https://www.ebay.es/?mkcid=1&mkrid=1185-53479-19255-0&siteid=186&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "e 1": {
+    "url": "https://www.ebay.es/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=<query>&_sacat=0&mkcid=1&mkrid=1185-53479-19255-0&siteid=186&campid=5337375636&customid=&toolid=10001&mkevt=1"
+  },
+  "emd 0": {
+    "url": "https://www.elmundo.es/"
+  },
+  "emd 1": {
+    "url": "https://ariadna.elmundo.es/buscador/archivo.html?q=<query>",
+    "include": "emd 0"
+  },
+  "g 1": {
+    "url": "https://www.google.es/search?hl=<$language>&q=<query>&ie=utf-8"
+  },
+  "gdfv 2": {
+    "url": "https://maps.google.com/maps?hl=<$language>&saddr=<start>, Fuerteventura, España&daddr=<destination>, Fuerteventura, España"
+  },
+  "gdgc 2": {
+    "url": "https://maps.google.com/maps?hl=<$language>&saddr=<start>, Gran Canaria, España&daddr=<destination>, Gran Canaria, España"
+  },
+  "gdlz 2": {
+    "url": "https://maps.google.com/maps?hl=<$language>&saddr=<start>, Lanzarote, España&daddr=<destination>, Lanzarote, España"
+  },
+  "gdtf 2": {
+    "url": "https://maps.google.com/maps?hl=<$language>&saddr=<start>, Tenerife, España&daddr=<destination>, Tenerife, España"
+  },
+  "ikea 0": {
+    "url": "https://www.ikea.com/es/es/"
+  },
+  "ikea 1": {
+    "url": "https://www.ikea.com/es/es/search/?q=<query>"
+  },
+  "jw 1": {
+    "url": "https://www.justwatch.com/es/buscar?q=<query>",
+    "include": {
+      "key": "jw 0",
+      "namespace": "o"
+    }
+  },
+  "ma 0": {
+    "url": "https://www.milanuncios.com/",
+    "description": "venta de productos de segunda mano"
+  },
+  "ma 1": {
+    "url": "https://www.milanuncios.com/anuncios/?s=<búsqueda>&orden=relevance&fromSearch=1&fromSuggester=1&suggestionUsed=0&hitOrigin=home_search",
+    "description": "venta de productos de segunda mano"
+  },
+  "mil 0": {
+    "deprecated": {
+      "alternative": {
+        "query": "ma"
+      },
+      "created": "2023-01-11"
+    }
+  },
+  "mil 1": {
+    "deprecated": {
+      "alternative": {
+        "query": "ma <1>"
+      },
+      "created": "2023-01-11"
+    }
+  },
+  "mrc 0": {
+    "url": "https://www.marca.com/"
+  },
+  "mrc 1": {
+    "url": "https://www.google.com/search?hl=de&sitesearch=marca.com&q=<query>",
+    "include": "mrc 0"
+  },
+  "titsa 2": {
+    "url": "https://www.google.com/maps?hl=<$language>&saddr=<origen>,%20Tenerife,+Espa%C3%B1a&daddr=<destino>,%20Tenerife,%20Espa%C3%B1a&f=d&dirflg=r"
+  },
+  "titsa 3": {
+    "url": "https://www.google.com/maps?hl=<$language>&saddr=<origen>,%20Tenerife,+Espa%C3%B1a&daddr=<destino>,%20Tenerife,%20Espa%C3%B1a&time=<salida>&f=d&dirflg=r"
+  },
+  "wlp 0": {
+    "url": "https://es.wallapop.com/",
+    "description": "venta de productos de segunda mano"
+  },
+  "wlp 1": {
+    "url": "https://es.wallapop.com/app/search?filters_source=search_box&keywords=<query>",
+    "description": "venta de productos de segunda mano"
+  },
+  "zal 1": {
+    "url": "https://www.zalando.es/catalogo/?q=<product>"
+  }
+}
