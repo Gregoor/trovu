@@ -33,8 +33,9 @@ jobs:
           registry-url: "https://registry.npmjs.org"
       - uses: pnpm/action-setup@v4
         name: Install pnpm
-        version: "9.9.0"
         id: pnpm-install
+        with:
+          version: 9.9.0
 
       - run: pnpm build
       - uses: actions/upload-pages-artifact@v3
